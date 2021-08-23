@@ -1,0 +1,55 @@
+{
+  "name": "hm-cpn-earlsprogress",
+  "title": "Earls Progress",
+  "description": "",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.8",
+  "bugs": "https://github.com/toastygm/hm-cpn-earlsprogress/issues",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "Tom Rodriguez",
+      "discord": "toasty#8538"
+    }
+  ],
+  "styles": [ "css/ep.css" ],
+  "scripts": [
+    "./scripts/init.js"
+  ],
+  "packs": [
+    {
+      "entity": "Scene",
+      "label": "Earls Progress - Scenes",
+      "name": "scenes",
+      "path": "packs/scenes.db",
+      "system": "hm3"
+    },
+    {
+      "entity": "JournalEntry",
+      "label": "Earls Progress - Journals",
+      "name": "journals",
+      "path": "packs/journals.db"
+    },
+    {
+      "entity": "RollTable",
+      "label": "Earls Progress - RollTables",
+      "name": "rolltables",
+      "path": "packs/rolltables.db"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "scene-packer",
+      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+      "type": "module"
+    }
+  ],
+  "url": "https://github.com/toastygm/hm-cpn-earlsprogress/",
+  "manifest": "https://raw.githubusercontent.com/toastygm/hm-cpn-earlsprogress/master/module.json",
+  "download": "https://github.com/toastygm/hm-cpn-earlsprogress/archive/v0.0.1.zip",
+  "flags": {
+    "allowBugReporter": true
+  }
+}

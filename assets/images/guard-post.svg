@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 100 100">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="PencilOnly" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="OutlineMode" value="0"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="doHistoryDisabled" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="TimeLapseWatermarkDisabled" value="0"/>
+<vectornator:setting key="Units" value="Points"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="IsolateActiveLayer" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+</metadata>
+<defs/>
+<g id="Guard Post" vectornator:layerName="Guard Post">
+<path stroke="#ffffff" stroke-width="1" d="M47.1325+22.8673L48.464+22.8673L48.7303+23.1336L48.7303+56.6863L58.5831+59.3493C59.9899+64.9768+54.0561+64.7887+54.0561+60.6807L48.7303+59.6156C48.7303+62.2282+48.4222+64.5717+48.7835+66.619C49.176+68.8432+51.916+69.0183+49.7954+72.6639C45.3769+73.7685+42.7689+70.1447+46.8662+67.338L46.8662+58.8167C43.4599+57.6991+39.624+57.6988+36.4809+55.8875C35.3118+51.2112+40.0392+50.1251+41.2741+54.556L46.8662+56.1538L47.1325+22.8673" fill="#000000" stroke-linecap="butt" opacity="1" stroke-linejoin="round"/>
+</g>
+</svg>

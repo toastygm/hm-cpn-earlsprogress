@@ -2,7 +2,7 @@
   "name": "hm-cpn-earlsprogress",
   "title": "Earls Progress",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8",
   "bugs": "https://github.com/toastygm/hm-cpn-earlsprogress/issues",
@@ -48,7 +48,7 @@
   ],
   "url": "https://github.com/toastygm/hm-cpn-earlsprogress/",
   "manifest": "https://raw.githubusercontent.com/toastygm/hm-cpn-earlsprogress/master/module.json",
-  "download": "https://github.com/toastygm/hm-cpn-earlsprogress/archive/v0.0.1.zip",
+  "download": "https://github.com/toastygm/hm-cpn-earlsprogress/archive/v1.0.0.zip",
   "flags": {
     "allowBugReporter": true
   }

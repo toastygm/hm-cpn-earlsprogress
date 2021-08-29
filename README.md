@@ -9,12 +9,11 @@ system, this module is mostly system-agnostic, with the exception of Actors.
 Detailed descriptions of the actors has been provided in journal entries to facilitate
 conversion to other game systems.
 
-The Earl of Vemion is something of a recluse. He lives in remote Vemionshire with his
-invalid wife, rarely stirring. Now he has decided to attend the tournament in Olokand,
-a shock to his household and those around him. The Earl’s family and friends are worried
-about this sudden change in character. Why, and why now? Recently, a Navehan assassin
-tried to kill the Earl. While he is travelling on the road would be a perfect opportunity
-for another attempt.
+_The Wyvern Stirs..._
+
+**Sir Declaen Caldeth**, 19th Earl of Vemion, prefers his remote fiefdom and the security of Minarsas Castle to the politics and intrigue of the Royal Court of Kaldor. He rarely stirs from his lair, and then only for the briefest of periods. Thus, his subjects were shocked when he announced his intention to make a great tour of the realm. He will visit his liegeman, the Baron of Kolorn and his Constables at Zoben and Baseta, attend the Royal Chelebin Tournament of Chivalry at Olokand Castle and stop at the capital city of Tashal en route.
+
+All of Vemionshire is abuzz with the news. The Earl will host a tournament in Minarsas. The winners will join his retinue and represent the shire at the Olokand tourney. Every knight and yeoman is vying for a spot in this once-in-a-lifetime tour of the kingdom and with it, the promise of the personal favor of one of the most powerful magnates in Kaldor. Are you worthy of being a member of The Earl’s Progress?
 
 # Credits
 

@@ -1,4 +1,7 @@
 # HârnWorld Campaign: The Earl's Progress
+[![Version (latest)](https://img.shields.io/github/v/release/toastygm/hm-cpn-earlsprogress)](https://github.com/toastygm/hm-cpn-earlsprogress/releases/latest)
+[![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fhm-cpn-earlsprogress&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=hm-cpn-earlsprogress)
+[![GitHub downloads (latest)](https://img.shields.io/badge/dynamic/json?label=Downloads@latest&query=assets[?(@.name.includes('zip'))].download_count&url=https://api.github.com/repos/toastygm/hm-cpn-earlsprogress/releases/latest&color=green)](https://github.com/toastygm/hm-cpn-earlsprogress/releases/latest)
 
 This module provides the campaign "The Earl's Progress", a campaign for the
 [HârnWorld](https://columbiagames.com/harnworld/) fantasy setting. However, this

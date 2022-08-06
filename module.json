@@ -26,9 +26,7 @@
       {
         "id": "scene-packer",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-  "minimumCoreVersion": "10",
-        "compatibility": {}
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json"
       }
     ]
   },
@@ -40,22 +38,19 @@
       "label": "Earls Progress Scenes",
       "name": "scenes",
       "path": "packs/scenes.db",
-      "type": "Scene",
-      "flags": {}
+      "type": "Scene"
     },
     {
       "label": "Earls Progress Journals",
       "name": "journals",
       "path": "packs/journals.db",
-      "type": "JournalEntry",
-      "flags": {}
+      "type": "JournalEntry"
     },
     {
       "label": "Earls Progress RollTables",
       "name": "rolltables",
       "path": "packs/rolltables.db",
-      "type": "RollTable",
-      "flags": {}
+      "type": "RollTable"
     }
   ],
   "url": "https://github.com/toastygm/hm-cpn-earlsprogress/",

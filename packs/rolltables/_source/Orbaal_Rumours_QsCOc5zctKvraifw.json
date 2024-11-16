@@ -1,0 +1,291 @@
+{
+  "_id": "QsCOc5zctKvraifw",
+  "name": "Orbaal Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Orbaal (Fur Road &amp; Noron’s Way) Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "Noron has nine sons, all as weird as he. (Mix)",
+      "_id": "535tl3qapt6v1e6i",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.535tl3qapt6v1e6i"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "The Taelda are great healers. (Poss)",
+      "_id": "x9t231e3lj930d36",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.x9t231e3lj930d36"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "Noron is a demon of Sarajin. (False)",
+      "_id": "pumhxxoiskmha5u5",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.pumhxxoiskmha5u5"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "There are strange creatures in the woods to the north. They hunt gargun with great clubs and can disappear at will. (True)",
+      "_id": "ljw07dq65uybm6r5",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.ljw07dq65uybm6r5"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        59
+      ],
+      "text": "Noron is an avatar of Ilvir. (False)",
+      "_id": "ywenucim59emou84",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.ywenucim59emou84"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        64
+      ],
+      "text": "The gargun fear Noron greatly. Evoking his name will cause them to run in fear. (Mix)",
+      "_id": "2rsm4q9lc4slynf4",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.2rsm4q9lc4slynf4"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        69
+      ],
+      "text": "You must see Barsothe Falls. Watch out for the Taelda! (Mix)",
+      "_id": "o7x6ejjs95p1pwu3",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.o7x6ejjs95p1pwu3"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        74
+      ],
+      "text": "The Ivinians are planning to attack Kaldor in the spring. (False)",
+      "_id": "re71q0y1drgi5s3t",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.re71q0y1drgi5s3t"
+    },
+    {
+      "type": 0,
+      "range": [
+        75,
+        79
+      ],
+      "text": "The Anoa are shapeshifters. (False)",
+      "_id": "z67bb07dcceb6sjx",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.z67bb07dcceb6sjx"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        84
+      ],
+      "text": "The Jarin are ready to rebel. They are awaiting the signal from their leader, the Prince of Leriel. (Mix)",
+      "_id": "wofbacxhofyrnwut",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.wofbacxhofyrnwut"
+    },
+    {
+      "type": 0,
+      "range": [
+        85,
+        89
+      ],
+      "text": "An ancient Khuzdul hunting lodge was recently uncovered near the road. A raven attracted the caravan’s attention. (Poss)",
+      "_id": "rhildjrjfhk9cwkr",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.rhildjrjfhk9cwkr"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        94
+      ],
+      "text": "The Orbaalese have begun bringing strange and wonderful things from Lythia through their port in Lorkin. The Melderyni have been keeping such items for themselves. (Mix)",
+      "_id": "n8a38retkm5spvng",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.n8a38retkm5spvng"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        99
+      ],
+      "text": "Earl Curo supports the Jarin of Leriel against the Ivinians. (Mix)",
+      "_id": "2iaxq0y93oab856u",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.2iaxq0y93oab856u"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        104
+      ],
+      "text": "Noron has decided to allow unrestricted travel on Noron’s Way.  The passage is safe now. (False)",
+      "_id": "7s4vd3sif0mt19xn",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.7s4vd3sif0mt19xn"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        109
+      ],
+      "text": "Earl Curo wants to seize Lorkin as a seaport. (Poss)",
+      "_id": "73pijah6iksg295d",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.73pijah6iksg295d"
+    },
+    {
+      "type": 0,
+      "range": [
+        110,
+        200
+      ],
+      "text": "Noron is a Pradeyalkri. A Pradeyalkri is a semi-divine creature and enemy of Sarajin. (True)",
+      "_id": "agt7eju28edsn480",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QsCOc5zctKvraifw.agt7eju28edsn480"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.QsCOc5zctKvraifw"
+    },
+    "scene-packer": {
+      "hash": "2dbb6a22e51659d0a084199bd4ecedbaaead0e3c",
+      "sourceId": "RollTable.gnPjf5aT6iZnaBCY"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849081,
+    "modifiedTime": 1659201849081,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!QsCOc5zctKvraifw"
+}

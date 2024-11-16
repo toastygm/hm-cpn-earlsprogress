@@ -1,0 +1,291 @@
+{
+  "_id": "QB22G7GSw65dE0VU",
+  "name": "Vemionshire Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Vemionshire (Minarsas) Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "Strange flying creatures have been spotted in increasing numbers along Rumerill Ridge. (Uncon)",
+      "_id": "7j0cfdvm08l8ntrv",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.7j0cfdvm08l8ntrv"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "The Constable of Pendeth, Sir Garath Ruseller, is a drunk. (True)",
+      "_id": "7kc0q5k3rt3753kn",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.7kc0q5k3rt3753kn"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "Gargun have been spotted in unusual numbers in the Valdrun Forest, east of Halaina Abbey. (Uncon)",
+      "_id": "h7125feehkm973qz",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.h7125feehkm973qz"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "Sir Danyes Bernan, Constable of Kyg Keep, was caught in a compromising position with Lord Ertus of Narmas’ wife. (True)",
+      "_id": "ko0y3ht2fgkzydgn",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.ko0y3ht2fgkzydgn"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        59
+      ],
+      "text": "Dragons live in the marshes of Tontury Lake. Each has a lair piled high with gold and gems. (False)",
+      "_id": "ivdznykrcioiwfnt",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.ivdznykrcioiwfnt"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        64
+      ],
+      "text": "Sir Danyes ordered the Baron of Setrew’s sister killed to keep her from revealing his connections with the Lia Kavair. (Poss)",
+      "_id": "ehkn2uu6fw50ed3z",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.ehkn2uu6fw50ed3z"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        69
+      ],
+      "text": "Dwarves have been seen working on the Silver Way. They are planning to improve the road to Vemionshire. (False)",
+      "_id": "7cljfn9wk52b1a3e",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.7cljfn9wk52b1a3e"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        74
+      ],
+      "text": "The Earl of Neph intends to replace Sir Garath. (True)",
+      "_id": "rkxxrednnzq2byux",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.rkxxrednnzq2byux"
+    },
+    {
+      "type": 0,
+      "range": [
+        75,
+        79
+      ],
+      "text": "A long lost Khuzdul silver mine has been discovered two leagues west of Pendeth. (True)",
+      "_id": "1xmim7wzr210cn5v",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.1xmim7wzr210cn5v"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        84
+      ],
+      "text": "The Lia Kavair has a large illegal drug operation in Kyg. The constable protects them. (True)",
+      "_id": "xdhz1jjyldr0v0gw",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.xdhz1jjyldr0v0gw"
+    },
+    {
+      "type": 0,
+      "range": [
+        85,
+        89
+      ],
+      "text": "A mysterious scroll found during renovations of the chapel at Athelren Keep includes directions to a long lost treasure. (True)",
+      "_id": "gyzn7tbxmb5e0vce",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.gyzn7tbxmb5e0vce"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        94
+      ],
+      "text": "The Earl of Vemion will recommend to the King that he name Baron Hirnen of Nenda his heir. (False)",
+      "_id": "ty8tv3zsge1sdynx",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.ty8tv3zsge1sdynx"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        99
+      ],
+      "text": "Sir Danyes is stealing from the Earl of Balim. (True)",
+      "_id": "2i6wzs38yrqel5lj",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.2i6wzs38yrqel5lj"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        104
+      ],
+      "text": "Sheriff Tulath Kaphin is deeply in debt to Danzys of Cuke. (True)",
+      "_id": "myook11myfsea2my",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.myook11myfsea2my"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        109
+      ],
+      "text": "The Constable of Zoben is a commoner; the position should have gone to a noble Sir Andro Valador, the Earl’s brother-in-law. (Poss)",
+      "_id": "c1iksq0wfxu06dvk",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.c1iksq0wfxu06dvk"
+    },
+    {
+      "type": 0,
+      "range": [
+        110,
+        200
+      ],
+      "text": "The Earl caused Lady Ialny’s palsy. He struck her and she hit her head on the stone fireplace. (Uncon)",
+      "_id": "amfvndsmtgjz2g2w",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QB22G7GSw65dE0VU.amfvndsmtgjz2g2w"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.QB22G7GSw65dE0VU"
+    },
+    "scene-packer": {
+      "hash": "4e3c5e18e51775519cd08cde4e83cac68d4ca779",
+      "sourceId": "RollTable.vJc2g7xWC6AaLCrv"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849090,
+    "modifiedTime": 1659201849090,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!QB22G7GSw65dE0VU"
+}

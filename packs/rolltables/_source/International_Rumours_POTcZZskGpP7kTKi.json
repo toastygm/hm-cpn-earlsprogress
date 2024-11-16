@@ -1,0 +1,291 @@
+{
+  "_id": "POTcZZskGpP7kTKi",
+  "name": "International Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "International Significance Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "A seer at the fair said there would be terrible storms and ruined harvests in the west this summer. (Poss)",
+      "_id": "2w050nkmwi852l6h",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.2w050nkmwi852l6h"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "A seer at the fair said there would be terrible storms and ruined harvests all over Hârn this summer. (Poss)",
+      "_id": "9dxzo6v1s6g17f4c",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.9dxzo6v1s6g17f4c"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "The Orbaalese have broken the Melderyni blockade. New, exciting goods from Lythia are flowing through Lorkin. (Mix)",
+      "_id": "4krr4tguoosql9rd",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.4krr4tguoosql9rd"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "War has broken out between Shorkyne and Trierzon. (False)",
+      "_id": "uvyhfo5ta3g8dod9",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.uvyhfo5ta3g8dod9"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        59
+      ],
+      "text": "Civil war is imminent in Rethem. The Earl of Tormau, Denyl Lynnaeus, has raised an army of Orbaalese mercenaries. King Chafin III rarely ventures out of his fortress at Shostim. (True)",
+      "_id": "gmfqvgwcy9jn4ruo",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.gmfqvgwcy9jn4ruo"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        64
+      ],
+      "text": "Prince Toron is coming next summer with the Genin Trail Caravan.  (True)",
+      "_id": "2btbnzhxgm6ly49k",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.2btbnzhxgm6ly49k"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        69
+      ],
+      "text": "The King of Kanday has called a summer levy. He intends to march on Tharda and crush them once and for all. The Chequered Shield has sent out a call for volunteers. (Uncon)",
+      "_id": "vah1gn2dliq5vftj",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.vah1gn2dliq5vftj"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        74
+      ],
+      "text": "The dead are walking in Golotha. (True)",
+      "_id": "lgnt3wi63cpb1oe3",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.lgnt3wi63cpb1oe3"
+    },
+    {
+      "type": 0,
+      "range": [
+        75,
+        79
+      ],
+      "text": "The Solori Crusade is going badly. The Laranians are loosing support (and tithes) in Melderyn. (Mix)",
+      "_id": "vg4xa85xh9qempsq",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.vg4xa85xh9qempsq"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        84
+      ],
+      "text": "Kronas has besieged Edino. It looks bad for the Kandians. (False)",
+      "_id": "2zkt4zeig7aqq9dd",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.2zkt4zeig7aqq9dd"
+    },
+    {
+      "type": 0,
+      "range": [
+        85,
+        89
+      ],
+      "text": "The Sebrath (Pontiff) of the Laranian Church is planning to travel to Tashal to see the great statue of Larani. He will bring an escort of 1000 Laranian knights (False)",
+      "_id": "6i4ojdwbc7dhzt8i",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.6i4ojdwbc7dhzt8i"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        94
+      ],
+      "text": "There is a shortage of silver in Melderyn. Merchants expect heavy buying at this summer’s fair. Azadmere and Tharda may not be able to meet the increased demand. (Uncon)",
+      "_id": "5nmk5477i7hik7op",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.5nmk5477i7hik7op"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        99
+      ],
+      "text": "Pirates in the Venarian Sea took three Larun; some mercantile houses are ruined. (Uncon)",
+      "_id": "922x0xr2hwo6bm5p",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.922x0xr2hwo6bm5p"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        104
+      ],
+      "text": "The Stahlers of Menglana intend to demand tribute from King Alegar II this year. If he fails to pay, they will invade. (Uncon)",
+      "_id": "wsocj66d7btgf5h8",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.wsocj66d7btgf5h8"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        109
+      ],
+      "text": "The last Sindarin left Evael this spring. Now there is only a handful of Jarin remaining. There is plunder for all. (False)",
+      "_id": "mns1ht7tis73wgu8",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.mns1ht7tis73wgu8"
+    },
+    {
+      "type": 0,
+      "range": [
+        110,
+        200
+      ],
+      "text": "In return for his protection and support, the King of Kanday will swear fealty to the King of Melderyni and become a Duke. (False)",
+      "_id": "mdltsci3lzgfqgul",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!POTcZZskGpP7kTKi.mdltsci3lzgfqgul"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.POTcZZskGpP7kTKi"
+    },
+    "scene-packer": {
+      "hash": "869c26ee3762c667e97e283177816072b69e4771",
+      "sourceId": "RollTable.dF1cM5aHBvQ7EbAa"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849074,
+    "modifiedTime": 1659201849074,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!POTcZZskGpP7kTKi"
+}

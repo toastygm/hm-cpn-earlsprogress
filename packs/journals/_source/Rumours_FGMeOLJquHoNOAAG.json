@@ -1,0 +1,552 @@
+{
+  "name": "Rumours",
+  "pages": [
+    {
+      "name": "Army of Chelmarch (Trobridge and Salt Route) Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.D0lMk12cx3pfBAe1]{Army of Chelmarch Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>The Chelni have an annual moot near Trobridge. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>Sir Rayneld Ynel, nephew of the Deputy-Commander is planning an embassy to Trobridge. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>If you stray from the Salt Route near the Shava Forest, you are likely to wake up at the inn. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>The Trobridge Inn is built on an ancient gravesite where Lothrim took heavy losses. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-64</td>\n<td>The Salt Route is in very poor condition this year. There have been several washouts and the trail is very muddy. The caravans will probably be late. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">65-69</td>\n<td>The Kath raids have started early. The Deputy-Commander has sent word to the Rekela asking for the squadron of knights and company of men-at-arms from the Lady of Paladins Chapterhouse at Vadan to come early this year. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-79</td>\n<td>Tharda covets Trobridge and has dispatched an embassy to secure it. This could mean another war. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-84</td>\n<td>The Deputy-Commander is a coward; he got his job through connections but he is not up to it. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">85-89</td>\n<td>A beautiful young lady, Lelona of Yarquane, is missing. Her father thinks she may be trying to reach Evael via the Salt Route. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-94</td>\n<td>The Deputy-Commander is addicted to fanosel. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-104</td>\n<td>Several people have disappeared from Trobridge lately. They were last seen in the company of a Thardic mercenary named Dernil of Hort. One of the missing is the son of a friend. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-110+</td>\n<td>The Deputy-Commander is a raging alcoholic. (False)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "f8VOHRkNsIl8gc2n",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.f8VOHRkNsIl8gc2n"
+    },
+    {
+      "name": "Army of Oselmarch (Genin Trail) Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.HtoGIcuXIYufR2RA]{Army of Oselmarch Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>The army wiped out a great number of Pagaelin poised to attack at Oselbridge when the Genin Trail caravan approached. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-30</td>\n<td>The guilds have spent considerable funds repairing and improving the Genin Trail. It is in good condition this year. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-39</td>\n<td>The Dariunes are planning to build a bridge at Jedes Keep to siphon off the profits of the Salt Route from Tashal. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">40-44</td>\n<td>Trading in Thay was heavy this spring. The Genin Trail caravans should have an excellent selection of goods this year. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>Prince Toron of Melderyn is coming next summer with the Genin Trail Caravan. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-54</td>\n<td>The King will make Baron Orsin Firith the Sheriff of Oselshire. That will put the whole southern frontier under one commander. Our victory over the Pagaelin is assured. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">55-59</td>\n<td>Like the Solori, the Lady of Paladins are planning a crusade against the Pagaelin. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-69</td>\n<td>A Pagaelin raid decimated an Oselmarch company. They do not want anyone to know because they suspect evil magic. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-79</td>\n<td>The King has given his permission for the Lord Marshal of Oselmarch to build a keep at Oselbridge. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-89</td>\n<td>Orsin Firith is out of favour in the Royal Court. The king is planning to make the Earl of Vemion commander. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-99</td>\n<td>The King has given his permission for the Lady of Paladins to build a keep at Oselbridge. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-104</td>\n<td>The commander is building up his forces to assault Burzyn and take Chybisa for Kaldor. He’ll be the earl. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-109</td>\n<td>A renegade group of Navehans have infiltrated the Pagaelin. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">110+</td>\n<td>Baron Orsin Firith has secured the backing of the Earls of Vemion, Osel and Balim, plus the support of the Serekela and Lady of Paladins. If the King does not name him heir before he dies, Firith intends to seize the crown by force. (False)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "6mFj9wOCHbLUh81X",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 99903,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.6mFj9wOCHbLUh81X"
+    },
+    {
+      "name": "Azadmere (Silver Way) Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.oUK9bMMjzKcJYV0N]{Azadmere Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>There’s a village going up at Naniom Bridge and the King is not happy about it. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>Gargun have expanded in the Sorkin Mountains, and there are bands closer to human settlements than at any time since Calsten drove them out. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>Lothrim is really in a prison in Azadmere City, being magically kept alive for perpetual torture. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>If you get a silver penny from a dwarf and keep it in your pocket, it will grow into two at every Yaelah. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-59</td>\n<td>Some Jarin mercantylers from Azadmere are shipping their goods by boat from Naniom Bridge now. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-64</td>\n<td>The river up by the Guthe Ford is home to a great serpent. It killed two men on the trail last year. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">65-69</td>\n<td>The gargun of Fana use poisoned weapons. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-79</td>\n<td>Gargun are really degenerate Khuzdul cursed by their god. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-84</td>\n<td>The Silver Way was once a great road passable to wagons. There is a ruined bridge half way up. The Khuzdul are planning to rebuild it and repair the road. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">85-89</td>\n<td>Khuzdul women do not have beards. They cultivate a sort of moss that hangs from their chins. They find tall bearded human men quite irresistible. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-94</td>\n<td>There is a large underground complex at Three Valley Gap. The lower levels have never been explored. A large quantity of dwarven weapons was left behind. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-99</td>\n<td>The Khuzdul have offered land, south of Zerhun, and the title of Baron to any knight who can liberate Fana. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-104</td>\n<td>A huge shipment of silver, gold and gems is due in Tashal any day. The Khuzdul will pay a premium for wheat this year. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-110+</td>\n<td>Azadmere depends on Kaldor for food. We could starve them into submission, but the king doesn’t want to because… (GM Choice)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "5D7BjyWS9UsBbv1A",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.5D7BjyWS9UsBbv1A"
+    },
+    {
+      "name": "Balimshire (Kiban) Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.4M1Iwkp8ZAIjdqaE]{Balimshire Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>The fens southeast of the Nephen are full of runaway serfs. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>The wealthy and influential Baron Kisan Tesla is looking for a suitable husband for one of his daughters. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>The Rekela of Brynd is on death’s door. The Serekela is quietly drawing up a list of possible successors. Serolan Sheryd Quathis of Brynd is the front-runner. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>The Rekela of Kephrus, Tyrnal Dariune, is a cousin of the Earl of Balim and is being groomed as the Serekela’s replacement. There have been three assassination attempts on his life. Sir Troda Dariune has offered £100 for the capture of the assassins. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-59</td>\n<td>The Reblena of Jenkald, Sir Luisan Kelic, has openly advocated splitting off the Kaldoric branch of the Lady of Paladins because of the Solori Crusade. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-69</td>\n<td>The brother of the Baron of Uldien, Sir Belsin Ubael, is planning an expedition to Anzeloria. He is currently seeking sturdy and welltravelled companions to join him. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-79</td>\n<td>Constable Dagald Jendral of Fisen is the foremost authority on courtly arts and is consulted on customs of chivalry. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-89</td>\n<td>The Earl of Balim has given substantial funds to the Order of the Lady of Paladins in Jenkald. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-94</td>\n<td>The wife of the Sheriff, Lady Mesela, is a witch. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-99</td>\n<td>The Miner’s Guild has discovered gold in the hills north of Kiban, but is keeping it secret. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-104</td>\n<td>The Dariunes came to power under the Usurper; the rightful Earl of Balim is living in obscurity. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-110+</td>\n<td>Sir Troda has a claim to the throne, but has a confidential understanding with King Miginath to leave the choice of heir to the succession council. (True)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "AtNwDCRlm2ipFvQE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 75000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.AtNwDCRlm2ipFvQE"
+    },
+    {
+      "name": "City of Tashal Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.PuWsXLy0WNEPesex]{Tashal Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>This city was built by Medrik I. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>The thespians south of town are all Navehans. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>Sindarin built this city. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>There are bars of silver under the Balasa Bridge where a barge struck it and sank. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-59</td>\n<td>Lady Cheselyne the Elder is a powerful Shek P’var, and she has ensorcelled Sir Scina. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-64</td>\n<td>The Navehans were badly hurt by a schism recently; now is the time to go after them. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">65-69</td>\n<td>Lady Cheselyne the Younger is a witch, and she has ensorcelled Sir Scina. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-74</td>\n<td>There is a treasure buried… (GM choice)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">75-79</td>\n<td>There is a body buried…(GM choice)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-84</td>\n<td>Lothrim built this city. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">85-89</td>\n<td>The Navehans are strong here, even though Sir Koris hangs a few every year. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-94</td>\n<td>Insiders took the Sword of Calsten, and hid it in the city. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-99</td>\n<td>The house of Sir Danyes is the site of scandalous orgies. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-104</td>\n<td>The Navehans are secretly supported by mercantylers from Coranan. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-109</td>\n<td>Prince Toron of Melderyn is coming next summer with the Genin Trail Caravan. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">110+</td>\n<td>There is a secret escape tunnel from the Caer out into Orgael Wood. (True)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "sBM1ltgOSiMiK2iA",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 99805,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.sBM1ltgOSiMiK2iA"
+    },
+    {
+      "name": "International Significance Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.POTcZZskGpP7kTKi]{International Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>A seer at the fair said there would be terrible storms and ruined harvests in the west this summer. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>A seer at the fair said there would be terrible storms and ruined harvests all over Hârn this summer. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>The Orbaalese have broken the Melderyni blockade. New, exciting goods from Lythia are flowing through Lorkin. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>War has broken out between Shorkyne and Trierzon. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-59</td>\n<td>Civil war is imminent in Rethem. The Earl of Tormau, Denyl Lynnaeus, has raised an army of Orbaalese mercenaries. King Chafin III rarely ventures out of his fortress at Shostim. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-64</td>\n<td>Prince Toron is coming next summer with the Genin Trail Caravan. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">65-69</td>\n<td>The King of Kanday has called a summer levy. He intends to march on Tharda and crush them once and for all. The Chequered Shield has sent out a call for volunteers. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-74</td>\n<td>The dead are walking in Golotha. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">75-79</td>\n<td>The Solori Crusade is going badly. The Laranians are losing support (and tithes) in Melderyn. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-84</td>\n<td>Kronas has besieged Edino. It looks bad for the Kandians. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">85-89</td>\n<td>The Sebrath (Pontiff) of the Laranian Church is planning to travel to Tashal to see the great statue of Larani. He will bring an escort of 1000 Laranian knights (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-94</td>\n<td>There is a shortage of silver in Melderyn. Merchants expect heavy buying at this summer’s fair. Azadmere and Tharda may not be able to meet the increased demand. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-99</td>\n<td>Pirates in the Venarian Sea took three Larun; some mercantile houses are ruined. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-104</td>\n<td>The Stahlers of Menglana intend to demand tribute from King Alegar II this year. If he fails to pay, they will invade. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-109</td>\n<td>The last Sindarin left Evael this spring. Now there is only a handful of Jarin remaining. There is plunder for all. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">110+</td>\n<td>In return for his protection and support, the King of Kanday will swear fealty to the King of Melderyni and become a Duke. (False)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "bJNY16il9diiMyBu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.bJNY16il9diiMyBu"
+    },
+    {
+      "name": "Laranian Church Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.S2ZwjOXgfvIJg3BB]{Laranian Church Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>The Serekela has a dread disease. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>The Lady of Paladins Chapterhouse at Whyce is recruiting common soldiers. The pay is excellent. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>The church plans to create a new diocese in Vemionshire and elevate Abbot Ardin to Rekela. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>The Rekela of Brynd is on death’s door. The Serekela is quietly drawing up a list of possible successors. Serolan Sheryd Quathis of Brynd is the front-runner. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-59</td>\n<td>The Rekela of Kephrus, Tyrnal Dariune, is a cousin of the Earl of Balim and is being groomed as the Serekela’s replacement. There have been three assassination attempts on his life. Sir Troda Dariune has offered £100 for the capture of the assassins. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-64</td>\n<td>One of Maldan Harabor’s agents is responsible for the attempted assassinations of Rekela Tyrnal Dariune. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">65-69</td>\n<td>Rekela Tyrnal Dariune is planning to visit every abbey in Semethshire later this summer. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-74</td>\n<td>The Reblena of Jenkald, Sir Luisan Kelic, has openly advocated splitting off the Kaldoric branch of the Lady of Paladins because of the Solori Crusade. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">75-79</td>\n<td>The Earl of Balim has given substantial funds to the Order of the Lady of Paladins in Jenkald. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-84</td>\n<td>The Rekela of Pagostra’s bodyguard were seen riding toward Qualdris at great speed with a body slung over a horse. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">85-89</td>\n<td>The Reblena of Nebulan requested the Serekela petition the King to allow the Lady of Paladins to build a keep at Oselbridge. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-94</td>\n<td>As with the Solori, the Lady of Paladins are planning a crusade against the Pagaelin. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-99</td>\n<td>The King has given his permission for the Lady of Paladins to build a keep at Oselbridge. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-104</td>\n<td>The Serekela, Edine Kynn, is planning a survey of church lands. He is looking for trustworthy men to conduct it safely and accurately. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-110+</td>\n<td>If the Sheriff becomes King, he plans to replace Serekela Edine Kynn, with the Rekela of Abriel, Ilor Hadan. (Uncon)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "RAN67ED8aixnxmhr",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 625000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.RAN67ED8aixnxmhr"
+    },
+    {
+      "name": "Meselynshire (Olokand) Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.jwjbrogShcpUAirC]{Meselynshire Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>A werewolf is attacking people near Baseta. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>Sir Churus Londel, Baron of Yeged, is a romantic fool, and an Ilviran, too! (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>Sir Churus Londel, Baron of Yeged, welcomes artists and musicians to his court. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>The Constable of Baseta’s son, Sir Miren, has changed since returning from the Solori Crusade. He avoids festivities and prefers long solitary rides through the country. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-59</td>\n<td>Sir Maldan Harabor is ruthless and ambitious; his desire for the throne is undoubted. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-64</td>\n<td>Sir Churus is planning a trip to Orbaal and needs escorts. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">65-69</td>\n<td>The Baron of Setrew, Sir Wevran, has been meeting with representatives of the Sheriff to “discuss common interests.” (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-79</td>\n<td>The Baron of Tonot, Sir Uthris Pierstel spends a lot of time hunting lately. The new “housekeeper” at his hunting lodge is a beautiful, mysterious commoner. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-84</td>\n<td>A bizarre beast in the pit of Ona Setrum guards a fabulous treasure, the magical mace called Sanric’s Thunderer. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">85-94</td>\n<td>If the Sheriff becomes King, he plans to replace Serekela Edine Kynn with the Rekela of Abriel, Ilor Hadan. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-104</td>\n<td>One of the Maldan Harabor’s agents is responsible for the attempted assassinations of Rekela Tyrnal Dariune. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-109</td>\n<td>Sheriff Sir Maldan Harabor has recently contacted several mercenary companies to arrange contracts for patrols of the Fur Road next summer. These include cavalry, infantry, and (ahem) siege engineers. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">110+</td>\n<td>A secret passage leads from the Kald &amp; Castle into Olokand Castle. (True)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "b4Gz2VQLd74tX40J",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 87500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.b4Gz2VQLd74tX40J"
+    },
+    {
+      "name": "National Significance (Kaldor) Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.FfrH9mjFZbtWKTo1]{Kaldor Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>A seer at the fair said there would be terrible storms and ruined harvests in Kaldor this summer. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>King Miginath is ailing; he surely won’t last beyond the Royal Chelebin Tourney. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>Thardic troops were seen massing near Trobridge. There will be a war this summer for sure. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>King Miginath is ailing; he won’t last ‘til the Summer Fair. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-59</td>\n<td>The King intends to invade Chybisa in the Spring. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-64</td>\n<td>King Miginath is ailing; he won’t last the month. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">65-69</td>\n<td>The Earl of Balim has gone too far. The Mangai petitioned the King to prevent barging of goods from Naniom to Kiban. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-79</td>\n<td>King Miginath is ailing; he surely won’t last beyond (GM Choice).</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-84</td>\n<td>King Miginath is dead, but nobody will announce it until they know whom to pick for a successor. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">85-89</td>\n<td>That Chybisan mistress of his is poisoning King Miginath. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-94</td>\n<td>Finally, the King will name (GM Choice) as his heir.</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-99</td>\n<td>King Miginath intends to acknowledge all three of his bastard sons at the Royal Chelebin Tournament. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-104</td>\n<td>Maldan Harabor is hiring mercenaries for a coup. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-110+</td>\n<td>King Miginath is an Amorvrus. (Poss)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "sEtbpXAhm7FSC1OT",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 662500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.sEtbpXAhm7FSC1OT"
+    },
+    {
+      "name": "Nephshire (Gardiren) Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.WVW6m8SHLTe3CN0i]{Nephshire Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>A demon is stalking the Forest of Leth. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>A Khuzdul from the Royal Court recently visited Bidow; the King is planning a major refurbishment of the keep costing over £400. Construction will begin shortly. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>There is a grain fair in Getha in the early autumn. There is work for mercenaries escorting grain up the Silver Way. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>The Miner’s Guild has discovered several productive silver veins in the Kanir Forest. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-59</td>\n<td>Lady Meliara, wife of the Earl, is the sister of the Serekela. She is a powerful and dangerous woman. Cross her at your peril. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-64</td>\n<td>Ilvirans are well accepted in Nephshire. The Earl protects them from the fanaticism of the Laranians. Many Jarin from Orbaal have settled there. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">65-69</td>\n<td>The Earl’s half-brother, Akitt Llack, bailiff of Charmic Manor has been illegally cutting trees in the Kirsta Forest. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-79</td>\n<td>The Baron of Getha has petitioned the Earl of Neph to end the barging of goods from Naniom Bridge to Kiban. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-84</td>\n<td>Lady Myrtis, wife of the Baron of Getha, wants to marry her daughter Lysella to Sir Urian, son of the Earl of Vemion. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">85-89</td>\n<td>Sir Hemison Curo is the most refined man in Kaldor. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-94</td>\n<td>Trouble is brewing between the Baron of Getha, Earl of Balim and guilds over the status and control of Naniom Bridge. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-99</td>\n<td>Sir Hemison Curo is a degenerate swine. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-104</td>\n<td>Despite having a wife and eleven children, the Earl of Neph, Sir Hemison Curo, has a fondness for young stable boys. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-110+</td>\n<td>There is an extensive Khuzdul complex under Gardiren Castle that has never been explored. (Uncon)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "qxUy1E57RzrcyQUe",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 93750,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.qxUy1E57RzrcyQUe"
+    },
+    {
+      "name": "Orbaal (Fur Road and Noron’s Way) Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.QsCOc5zctKvraifw]{Orbaal Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>Noron has nine sons, all as weird as he. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>The Taelda are great healers. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>Noron is a demon of Sarajin. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>There are strange creatures in the woods to the north. They hunt gargun with great clubs and can disappear at will. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-59</td>\n<td>Noron is an avatar of Ilvir. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-64</td>\n<td>The gargun fear Noron greatly. Evoking his name will cause them to run in fear. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">65-69</td>\n<td>You must see Barsothe Falls. Watch out for the Taelda! (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-74</td>\n<td>The Ivinians are planning to attack Kaldor in the spring. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">75-79</td>\n<td>The Anoa are shapeshifters. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-84</td>\n<td>The Jarin are ready to rebel. They are awaiting the signal from their leader, the Prince of Leriel. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">85-89</td>\n<td>An ancient Khuzdul hunting lodge was recently uncovered near the road. A raven attracted the caravan’s attention. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-94</td>\n<td>The Orbaalese have begun bringing strange and wonderful things from Lythia through their port in Lorkin. The Melderyni have been keeping such items for themselves. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-99</td>\n<td>Earl Curo supports the Jarin of Leriel against the Ivinians. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-104</td>\n<td>Noron has decided to allow unrestricted travel on Noron’s Way. The passage is safe now. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-109</td>\n<td>Earl Curo wants to seize Lorkin as a seaport. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">110+</td>\n<td>Noron is a Pradeyalkri. A Pradeyalkri is a semi-divine creature and enemy of Sarajin. (True)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "8r5PJXmAZHYzyXKn",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 550000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.8r5PJXmAZHYzyXKn"
+    },
+    {
+      "name": "Oselshire (Qualdris) Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.QHySCws6bej2AJ9N]{Oselshire Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>Sir Dwyn Elorieth, Baron of Nubeth, is ailing; he won’t live out the year. His son, Sir Arwyn, will inherit. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>Artefacts of ancient origin have recently come on the market. Someone has discovered and looted an ancient barrow. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>Lady Thilisa petitioned the King to allow her to remarry. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>The Baron of Nubeth is supporting the renovation of an old Ilviran abbey near Nubeth as some sort of a school. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-59</td>\n<td>Sir Sedris has gone mad, and is living as a patient at Erone. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-64</td>\n<td>The Rekela of Pagostra’s bodyguard were seen riding toward Qualdris at great speed with a body slung over a horse. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">65-69</td>\n<td>Lady Thilisa is pregnant. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-79</td>\n<td>I heard that Earl of Neph’s son, Sir Meden Curo, has been named the new Sheriff of Oselshire. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-84</td>\n<td>The Lady of Paladins wiped out a great number of Pagaelin who were poised for an attack at Oselbridge when the Genin Trail caravan approached. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">85-89</td>\n<td>A Pagaelin raid decimated a Lady of Paladins company. They are keeping it secret because they suspect evil magic. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-94</td>\n<td>Lady Thilisa has taken Sir Meathgir, knight-commander of the Qualdris garrison, as her lover. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-99</td>\n<td>The Dariunes are planning to build a bridge at Jedes Keep to siphon off the profits of the Salt Route from Tashal. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-104</td>\n<td>The Reblena of Nebulan requested the Serekela petition the King to allow the Lady of Paladins to build a keep at Oselbridge. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-109</td>\n<td>The Lord Marshal, Baron Orsin Firith, has petitioned the King for permission to build a keep at Oselbridge. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">110+</td>\n<td>Lady Thilisa had her husband killed, that’s why he has not returned. He’s buried in… (Uncon)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "y6MSAIRT1CrNcFf7",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 96875,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.y6MSAIRT1CrNcFf7"
+    },
+    {
+      "name": "Rumour Origin (GM Roll)",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.c8lvN6kRrZhHGUxm]{Rumour Origin}</p>\n<p>01-09 Rumour about event/person of GM’s choice/list (or roll again)</p>\n<p>10-29 Rumour about event/person in the shire where the encounter takes place</p>\n<p>30-44 Rumour about event/person in the home shire of the source NPC</p>\n<p>45-60 Rumour about event/person in the home shire of the PC</p>\n<p>61-62 Rumour about event/person in Balimshire/Kiban</p>\n<p>63-64 Rumour about event/person in Meselynshire/Olokand</p>\n<p>65-66 Rumour about event/person in Nephshire/Gardiren</p>\n<p>67-68 Rumour about event/person in Oselshire/Qualdris</p>\n<p>69-71 Rumour about event/person in Semethshire outside of Tashal</p>\n<p>72-74 Rumour about event/person in Thelshire/Kolorn</p>\n<p>75-76 Rumour about event/person in Vemionshire/Minarsas</p>\n<p>77-80 Rumour about event/person in Tashal</p>\n<p>81 Rumour about event/person in the Army of the Oselmarch/ Genin Trail</p>\n<p>82 Rumour about event/person in the Army of the Chelmarch/ Trobridge/Salt Route</p>\n<p>83-84 Rumour about event/person in Azadmere/Silver Way</p>\n<p>85-86 Rumour about event/person in Orbaal/Fur Road/Noron’s Way</p>\n<p>87-88 Rumour about event/person in Laranian Church</p>\n<p>89-93 Rumour of national significance</p>\n<p>94-95 Rumour of international significance</p>\n<p>96-00 Special Rumour</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "yKNhMCY3KlR8cExG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 25000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.yKNhMCY3KlR8cExG"
+    },
+    {
+      "name": "Rumour Source",
+      "type": "text",
+      "text": {
+        "content": "<p>These adjustments apply to all of the rumour tables (commoners only know spurious or common rumours, while nobles know the juicy stuff!).</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:3em\">-15</td>\n<td>Urban poor and cottars</td>\n</tr>\n<tr>\n<td style=\"width:3em\">-10</td>\n<td>Farmers, villeins and urban craftsmen</td>\n</tr>\n<tr>\n<td style=\"width:3em\">-5</td>\n<td>Tenant officers (reeves, woodwards, herders, beadles) and yeomen</td>\n</tr>\n<tr>\n<td style=\"width:3em\">0</td>\n<td>Minor/junior servants of noble households</td>\n</tr>\n<tr>\n<td style=\"width:3em\">+2</td>\n<td>Normal servants/men-at-arms of noble households and guildsmen</td>\n</tr>\n<tr>\n<td style=\"width:3em\">+5</td>\n<td>Knights, nobility, aldermen and guildmasters of the applicable shire plus their trusted retainers</td>\n</tr>\n<tr>\n<td style=\"width:3em\">+10</td>\n<td>Abbots, reblena, constables, sheriffs or barons plus their wives, close clansmen, family members and senior retainers</td>\n</tr>\n<tr>\n<td style=\"width:3em\">+15</td>\n<td>Earls and members of the Royal Court plus their wives and personal confidants</td>\n</tr>\n<tr>\n<td style=\"width:3em\">+20</td>\n<td>Senior members of the government, including Lord High Chamberlain, Lord Chancellor, Exchequer Royal, Marshal of the Royal Guard and Constable of Tashal</td>\n</tr>\n<tr>\n<td style=\"width:3em\">+25</td>\n<td>King Miginath and Lady Cheselyne Hosath</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1
+      },
+      "_id": "04WkFXxaplDLqA0J",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 50000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.04WkFXxaplDLqA0J"
+    },
+    {
+      "name": "Rumours",
+      "type": "text",
+      "text": {
+        "content": "<h1>Rumours</h1>\n<p>Whenever the PCs are in a social situation, they can make an Intrigue roll to determine if they pick up any new or interesting rumours. If they achieve a critical success (CS) they learn 1d4+1 (rolled by the player) rumours. A marginal success (MS) allows them to learn one rumour. A marginal failure (MF) results in them being unable to elicit any interesting rumours, but a critical failure (CF) alerts the NPC to the fact that the PC is trying to solicit information and no further attempts may be made to solicit gossip from that NPC.</p>\n<p>Once the PC has made a successful Intrigue roll, the GM secretly rolls to determine the rumour origin (i.e. where the rumour comes from). Then, the PC rolls 1d100. The GM takes the PC’s roll and reads out the rumour from the appropriate origin table. The PCs may hear the same rumour from several sources.</p>\n<p>In most situations, each subsequent interaction with the same NPC reduces the PCs Intrigue roll by –10. However, there are three ways for PCs to “pump” an NPC for more information, through successful Rhetoric, Dancing or Lovecraft rolls. As long as the PC succeeds in both an Intrigue roll and the indicated skill roll, there is no penalty for subsequent rumours. Upon failing either roll, the normal -10 penalty starts to accumulate.</p>\n<p>Rumours are ranked by “juiciness”. The most interesting rumours are listed higher on the tables and the most naïve and spurious are listed lower. The source of the rumour modifies the PC’s rumour roll. The higher ranking, better connected a person is, the better rumours they will have. This is the reason Lady Cheselyne’s dinner parties are so well attended. PCs do not have to directly interact with the source; the GM may allow them to eavesdrop on the conversations of their betters.</p>\n<p>The rumours are marked as True, False, Mix (of truth and fiction), unconfirmed (Uncon) or possibly true (Poss). Under no circumstances should the validity of a rumour be revealed to the players.</p>\n<h2>Introducing GM Rumours</h2>\n<p>GMs are encouraged to make up their own list of campaign specific rumours and plot hooks using the lists below as a model. The rumours can be specifically tailored to attract/discourage PCs from taking certain actions or tie into the GM’s future plans for his campaign. By mixing GMs rumours with ones from the tables below, the PCs will be unaware of which rumours are GM generated and which are from this module. Letting a few exceptionally juicy rumours slip early on in the campaign will encourage PCs to make maximum use of this roleplaying opportunity and allow the GM to influence the direction of the campaign and/or future adventures.</p>\n<table>\n<thead>\n<tr>\n<th style=\"width:10em\">Situation</th>\n<th>Skill</th>\n<th>Setting</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Have another, my friend!</td>\n<td>Rhetoric</td>\n<td>PC and NPC are drinking in a comfortable setting. Both the PC and NPC may become drunk. Their skills may deteriorate with increased inebriation!</td>\n</tr>\n<tr>\n<td>I could have danced all night!</td>\n<td>Dancing</td>\n<td>PC and NPC meet at a social event and dance together, gossiping continues as long as the dance does. Beware jealous spouses or partners!</td>\n</tr>\n<tr>\n<td>Such sweet pillow talk!</td>\n<td>Lovecraft</td>\n<td>PC and NPC retire for a private tryst. The GM may require a WILL roll to have the PC keep focused on the mission!</td>\n</tr>\n</tbody>\n</table>\n<h2>Roll Tables</h2>\n<p>A number of roll tables are defined to assist with managing rumours, as identified below.</p>\n<h2>Rumors by Location</h2>\n<ul>\n<li>@Compendium[hm-cpn-earlsprogress.journals.rJGwbeJnOevbP7le]{Rumour Origin (GM Roll)}</li>\n<li>@UUID[JournalEntry.FGMeOLJquHoNOAAG.JournalEntryPage.04WkFXxaplDLqA0J]{Rumour Source}</li>\n<li>@Compendium[hm-cpn-earlsprogress.journals.PEtZYt0eKw3NgsPa]{Balimshire (Kiban) Rumours}</li>\n<li>@Compendium[hm-cpn-earlsprogress.journals.clgdqkgMcQdKL87Y]{Nephshire (Gardiren) Rumours}</li>\n<li>@Compendium[hm-cpn-earlsprogress.journals.bbk8Stu3brtTN4zX]{Meselynshire (Olokand) Rumours}</li>\n<li>@Compendium[hm-cpn-earlsprogress.journals.trcG4uNQDZzrXSYH]{Oselshire (Qualdris) Rumours}</li>\n<li>@Compendium[hm-cpn-earlsprogress.journals.GJVwQTM6afI6CnHs]{Semethshire (Outside of Tashal) Rumours}</li>\n<li>@Compendium[hm-cpn-earlsprogress.journals.3z1GrKmqJoYMqgPw]{Vemionshire (Minarsas) Rumours}</li>\n<li>@Compendium[hm-cpn-earlsprogress.journals.xXMH9po8wSjTmc1a]{Thelshire (Kolorn)}</li>\n<li>@UUID[JournalEntry.FGMeOLJquHoNOAAG.JournalEntryPage.sBM1ltgOSiMiK2iA]{City of Tashal Rumours}</li>\n<li>@Compendium[hm-cpn-earlsprogress.journals.bJFfYJxuH5vJiiRC]{Army of Oselmarch (Genin Trail) Rumours}</li>\n<li>@Compendium[hm-cpn-earlsprogress.journals.pS1fbqE8dHoJUjXv]{Army of Chelmarch (Trobridge and Salt Route) Rumours}</li>\n<li>@Compendium[hm-cpn-earlsprogress.journals.wRPQuEWFI7WMsR3u]{Azadmere (Silver Way) Rumours}</li>\n<li>@Compendium[hm-cpn-earlsprogress.journals.FmJx2DaM7bYtYdCC]{Orbaal (Fur Road and Noron’s Way) Rumours}</li>\n<li>@UUID[JournalEntry.FGMeOLJquHoNOAAG.JournalEntryPage.RAN67ED8aixnxmhr]{Laranian Church Rumours}</li>\n<li>@Compendium[hm-cpn-earlsprogress.journals.PhSGEcsXKUT6jcJv]{National Significance (Kaldor) Rumours}</li>\n<li>@UUID[JournalEntry.FGMeOLJquHoNOAAG.JournalEntryPage.bJNY16il9diiMyBu]{International Significance Rumours}</li>\n<li>@UUID[JournalEntry.FGMeOLJquHoNOAAG.JournalEntryPage.bNsn7rh1chckwBrH]{Special Rumours}</li>\n</ul>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "y5qjHlvpxGDVtPuk",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.y5qjHlvpxGDVtPuk"
+    },
+    {
+      "name": "Semethshire (Outside of Tashal) Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.Z4eI5nksGlaBf1zJ]{Semethshire Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>The Lady of Paladins Chapterhouse at Whyce is recruiting common soldiers. The pay is excellent. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>A group of ruthless brigands known as the Black Boot have been attacking travellers along the Shebra–Kiban–Querina road. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>Rekela Tyrnal Dariune is planning to visit every abbey in the shire later this summer. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>The Earl of Balim sent a large convoy of goods from Tashal to Kiban under a heavy escort of his household troops. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-64</td>\n<td>There is something under the abbey at Caleme. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">65-74</td>\n<td>The Baron of Ternua, Sir Tarmas Verdreth, is hiring mercenaries. He has a strong strategic position on the only bridge crossing the Nephen River south of Naniom. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">75-79</td>\n<td>Salarl Tobro, a commoner, has produced a document proving he is the acknowledged bastard son of the former Serekela, Sir Kalabin Elendsa (and thus the King’s cousin). (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-89</td>\n<td>Sheriff Conwan Elendsa is barred from inheriting the throne because of an oath made in his youth. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-94</td>\n<td>Sir Conwan has hired several masons. Construction has begun on a new wall around his seat at Etoss Manor. The foundations are too deep and strong for a manor house wall. My cousin told me he is building a keep without the King’s permission. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-99</td>\n<td>The Serekela, Edine Kynn, is planning a survey of church lands. He is looking for trustworthy men to conduct it safely and accurately. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-104</td>\n<td>The Constable of Heru, Sir Bereden Pawade, has been skimming large amounts of money from the fief revenues. He has a secret account with the dwarves. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-110+</td>\n<td>Sir Conwan Elendsa, the Sheriff and possible heir to the throne, has held several meetings with the Earl of Balim and the Serekela in Caleme. (Poss)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "7lVNHJwRfArSaDTW",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 98438,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.7lVNHJwRfArSaDTW"
+    },
+    {
+      "name": "Special Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.MzYwlcLvD7vTsTDh]{Special Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>Ilvir was once a good god who produced faeries and unicorns, but ever since Lothrim Ilvir has been corrupted and only produces Ivashu. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>There are huge cracks under the ground, and Khuzdul and Ivashu use them to get from place to place. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>The “true” tale of Loag’s Box says… (GM Choice)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>Bognor the Fyvrian was a Curo from Gardiren. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-59</td>\n<td>There is a secret group of wizards known as the Shek P’var. They jealously guard their secrets. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-64</td>\n<td>Lothrim is not dead. He slew the gargun left with him and now sleeps, awaiting release. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">65-69</td>\n<td>There is a huge abandoned Khuzdul city north of Lake Benath. It contains entire rooms of gold just waiting for the taking. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-79</td>\n<td>A race of little people lives along the west edge of Shava Forest. They are fat, happy and resistant to magic. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-94</td>\n<td>Sindarin are among us. They can charm you to think they are human. They spy and steal children. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-99</td>\n<td>A strange beast with a bow that shoots arrows five feet long has been seen just to the north. Some say it is an ogre. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-110+</td>\n<td>A peasant’s revolt is looming. You had best depart before all hell breaks loose. (Poss)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "bNsn7rh1chckwBrH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.bNsn7rh1chckwBrH"
+    },
+    {
+      "name": "Thelshire (Kolorn)",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.hwAlXaNxcrwag6Yg]{Thelshire Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-29</td>\n<td>The Baron of Kolorn, Sir Orthis Bastune, has several mistresses sequestered within a short ride of his keep. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">30-44</td>\n<td>Sir Dwyn Elorieth, Baron of Nubeth, is ailing; he won’t live out the year. His son, Sir Arwyn, will inherit. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>The Peonian Abbey of Bromeleon has suffered a major outbreak of leprosy. No one dares approach. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-59</td>\n<td>A vicious pack of man-eating wolves have taken up residence in woods south of Tocade Manor. The Bailiff of the Hundred is offering a £5 bounty for their elimination. (Mix)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-69</td>\n<td>Sir Orthis is deeply in debt to the Khuzdul, he sends them horses and grain every year. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-74</td>\n<td>The Sheriff, Sir Ranal Gybsen, is seeking a wife. He fancies Lady Thilisa, “widow” of the Earl of Osel, failing that, her younger sister, Maid Camissa. He has gotten wind of the Earl of Vemion’s trip to Olokand and plans to make his case there. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">75-84</td>\n<td>A large expedition travelled down the Kald River earlier this year. They were planning to survey the Tuleme Falls as a possible port for Kaldor. They have not returned. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">85-94</td>\n<td>A score of Kath warriors have crossed the Kald River in search of the son of a chieftain held at Chewintin Manor. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-99</td>\n<td>The numerous affairs of Lady Peresta, wife of Sir Orthis, are notorious, especially her liaison with Sir Koris Harabor. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-104</td>\n<td>Sir Orthis’ heir, Sir Lyndar, is actually Sir Koris’ bastard. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-110+</td>\n<td>The Sheriff discovered an ancient map giving the location of Parikyg, an ancient Khuzdul outpost reportedly filled with treasure and guarded by a fell reptilian beast. He is seeking to raise an expedition to recover the treasure “for the King, of course.” (Uncon)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "23UKEZDXB66iMDqd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 99219,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.23UKEZDXB66iMDqd"
+    },
+    {
+      "name": "Vemionshire (Minarsas) Rumours",
+      "type": "text",
+      "text": {
+        "content": "<p>@UUID[RollTable.QB22G7GSw65dE0VU]{Vemionshire Rumours}</p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:4em\">01-24</td>\n<td>Strange flying creatures have been spotted in increasing numbers along Rumerill Ridge. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">25-34</td>\n<td>The Constable of Pendeth, Sir Garath Ruseller, is a drunk. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">35-44</td>\n<td>Gargun have been spotted in unusual numbers in the Valdrun Forest, east of Halaina Abbey. (Uncon)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">45-49</td>\n<td>Sir Danyes Bernan, Constable of Kyg Keep, was caught in a compromising position with Lord Ertus of Narmas’ wife. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">50-59</td>\n<td>Dragons live in the marshes of Tontury Lake. Each has a lair piled high with gold and gems. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">60-64</td>\n<td>Sir Danyes ordered the Baron of Setrew’s sister killed to keep her from revealing his connections with the Lia Kavair. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">65-69</td>\n<td>Dwarves have been seen working on the Silver Way. They are planning to improve the road to Vemionshire. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">70-74</td>\n<td>The Earl of Neph intends to replace Sir Garath. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">75-79</td>\n<td>A long lost Khuzdul silver mine has been discovered two leagues west of Pendeth. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">80-84</td>\n<td>The Lia Kavair has a large illegal drug operation in Kyg. The constable protects them. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">85-89</td>\n<td>A mysterious scroll found during renovations of the chapel at Athelren Keep includes directions to a long lost treasure. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">90-94</td>\n<td>The Earl of Vemion will recommend to the King that he name Baron Hirnen of Nenda his heir. (False)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">95-99</td>\n<td>Sir Danyes is stealing from the Earl of Balim. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">100-104</td>\n<td>Sheriff Tulath Kaphin is deeply in debt to Danzys of Cuke. (True)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">105-109</td>\n<td>The Constable of Zoben is a commoner; the position should have gone to a noble Sir Andro Valador, the Earl’s brother-in-law. (Poss)</td>\n</tr>\n<tr>\n<td style=\"width:4em\">110+</td>\n<td>The Earl caused Lady Ialny’s palsy. He struck her and she hit her head on the stone fireplace. (Uncon)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "KSESy5FYmkUw3MJK",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 99610,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FGMeOLJquHoNOAAG.KSESy5FYmkUw3MJK"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201858935,
+    "modifiedTime": 1659201858935,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "FGMeOLJquHoNOAAG",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!FGMeOLJquHoNOAAG"
+}

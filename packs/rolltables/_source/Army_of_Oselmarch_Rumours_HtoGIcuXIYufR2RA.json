@@ -1,0 +1,259 @@
+{
+  "_id": "HtoGIcuXIYufR2RA",
+  "name": "Army of Oselmarch Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Army of Oselmarch (Genin Trail) Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "The army wiped out a great number of Pagaelin poised to attack at Oselbridge when the Genin Trail caravan approached. (Uncon)",
+      "_id": "s5lwwou4mt03edod",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.s5lwwou4mt03edod"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        30
+      ],
+      "text": "The guilds have spent considerable funds repairing and improving the Genin Trail. It is in good condition this year. (Uncon)",
+      "_id": "hpw4yv8cofsndpvx",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.hpw4yv8cofsndpvx"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        39
+      ],
+      "text": "The Dariunes are planning to build a bridge at Jedes Keep to siphon off the profits of the Salt Route from Tashal. (Poss)",
+      "_id": "e6tnmse04mbh6inn",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.e6tnmse04mbh6inn"
+    },
+    {
+      "type": 0,
+      "range": [
+        40,
+        44
+      ],
+      "text": "Trading in Thay was heavy this spring. The Genin Trail caravans should have an excellent selection of goods this year. (Uncon)",
+      "_id": "rggqfuikx2mhlcyj",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.rggqfuikx2mhlcyj"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "Prince Toron of Melderyn is coming next summer with the Genin Trail Caravan. (True)",
+      "_id": "dr5q5uxefi69vfxm",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.dr5q5uxefi69vfxm"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        54
+      ],
+      "text": "The King will make Baron Orsin Firith the Sheriff of Oselshire.  That will put the whole southern frontier under one commander.  Our victory over the Pagaelin is assured. (False)",
+      "_id": "gzbjnqels6jf289u",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.gzbjnqels6jf289u"
+    },
+    {
+      "type": 0,
+      "range": [
+        55,
+        59
+      ],
+      "text": "Like the Solori, the Lady of Paladins are planning a crusade against the Pagaelin. (False)",
+      "_id": "okerijwnpr0k5rtn",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.okerijwnpr0k5rtn"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        69
+      ],
+      "text": "A Pagaelin raid decimated an Oselmarch company. They do not want anyone to know because they suspect evil magic. (Uncon)",
+      "_id": "olnk6t6slavj7z8u",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.olnk6t6slavj7z8u"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        79
+      ],
+      "text": "The King has given his permission for the Lord Marshal of Oselmarch to build a keep at Oselbridge. (False)",
+      "_id": "bxtpiamj0piyedht",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.bxtpiamj0piyedht"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        89
+      ],
+      "text": "Orsin Firith is out of favour in the Royal Court. The king is planning to make the Earl of Vemion commander. (False)",
+      "_id": "swg24vmxcxf61utn",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.swg24vmxcxf61utn"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        99
+      ],
+      "text": "The King has given his permission for the Lady of Paladins to build a keep at Oselbridge. (False)",
+      "_id": "kvnglm632lngeps0",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.kvnglm632lngeps0"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        104
+      ],
+      "text": "The commander is building up his forces to assault Burzyn and take Chybisa for Kaldor. He’ll be the earl. (Mix)",
+      "_id": "htucx9nljt6zceka",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.htucx9nljt6zceka"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        109
+      ],
+      "text": "A renegade group of Navehans have infiltrated the Pagaelin. (True)",
+      "_id": "ft89ng3a8vouwccf",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.ft89ng3a8vouwccf"
+    },
+    {
+      "type": 0,
+      "range": [
+        110,
+        200
+      ],
+      "text": "Baron Orsin Firith has secured the backing of the Earls of Vemion, Osel and Balim, plus the support of the Serekela and Lady of Paladins. If the King does not name him heir before he dies, Firith intends to seize the crown by force. (False)",
+      "_id": "bmhnflkxyjijf37y",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!HtoGIcuXIYufR2RA.bmhnflkxyjijf37y"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.HtoGIcuXIYufR2RA"
+    },
+    "scene-packer": {
+      "hash": "6e1ed112484697ae7f2a49ad5d48313d1ca9e672",
+      "sourceId": "RollTable.kRFSMgzcj0thKG9S"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849063,
+    "modifiedTime": 1659201849063,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!HtoGIcuXIYufR2RA"
+}

@@ -1,0 +1,610 @@
+{
+  "name": "Route Map Key",
+  "pages": [
+    {
+      "name": "Minarsas Castle",
+      "type": "text",
+      "_id": "p9a1VnUVrbl3MdZ4",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Minarsas Castle is the principle seat of the Earl of Vemion. The earl, Sir Declaen Caldeth, is known to be a clever and powerful figure in Kaldor. Vemionshire is a prosperous sheep rearing area but a geographical and political backwater. The Minarsas Wool Fair is one of the largest commercial events in the kingdom.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.p9a1VnUVrbl3MdZ4"
+    },
+    {
+      "name": "Zoben Keep",
+      "type": "text",
+      "_id": "1ubOuBnwjKD3UpTk",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Zoben Keep (Kaldor v2. Zoben. Page 52.) is a fief of the Earl of Vemion. It is held by a constable, Sir Coreth Lothlar, a skilful administrator appointed in 717.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.1ubOuBnwjKD3UpTk"
+    },
+    {
+      "name": "Athelren Keep",
+      "type": "text",
+      "_id": "lsSgXqvgNPLde7AV",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Athelren Keep (Nilsson, Patrick. 1999. Athelren Keep. Fan Fiction. It can be downloaded for free at Lythia.com &gt; Downloads &gt; Places (Manors, Towns &amp; Sites) &gt; Athelren.) is a royal fortress and the shire moot of Vemionshire. The Sheriff, Sir Tulath Kaphin, is the youngest (unacknowledged) bastard son of the king. He was appointed two years ago to the disappointment of many local nobles who felt better qualified.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.lsSgXqvgNPLde7AV"
+    },
+    {
+      "name": "Chesel Manor",
+      "type": "text",
+      "_id": "M7SM9X3bPrz9JoQl",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Chesel Manor is held by a bailiff, Sir Jurik Elorieth, for his uncle, the Baron of Nubeth. Half way between Athelren and Nubeth, it is a popular stopping point for travellers.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.M7SM9X3bPrz9JoQl"
+    },
+    {
+      "name": "Nubeth Keep",
+      "type": "text",
+      "_id": "Y3ChuoUz5sheUSOK",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Nubeth Keep (Kaldor v2. Nubeth. Page 39.) is the baronial seat of Sir Dwyn Elorieth, who owes fealty to the Earl of Osel. He is 62 years old and in declining health.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.Y3ChuoUz5sheUSOK"
+    },
+    {
+      "name": "Qualdris Castle",
+      "type": "text",
+      "_id": "Frv06lvMSOVdtwmQ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Qualdris Castle (King, Edwin, and Richard Porter. 1987. Castles of Hârn. Qualdris Castle. Columbia Games Inc. Out of print, sometimes available on eBay.) is the principal seat of the Earl of Osel, Sir Sedris Meleken. He also holds Heru Keep and receives fealty from the Baron of Nubeth. Sir Sedris, a man of renowned honour, left Qualdris early in 719 in search of a murderer and has not been heard of since. In his absence, his wife Lady Thilisa (eldest daughter of the Earl of Vemion) competently manages his estates.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.Frv06lvMSOVdtwmQ"
+    },
+    {
+      "name": "Kobing Keep",
+      "type": "text",
+      "_id": "7ZTPreWw2CPNymg7",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Kobing Keep (Debien, David, et al. 1999. Kobing Keep. Fan Fiction. It can be downloaded for free at Lythia.com &gt; Downloads &gt; Places (Manors, Towns &amp; Sites) &gt; Kobing Keep.) is the baronial seat of Sir Orsin Firith, the son of Princess Lenera Elendsa, nephew of the King and Lord Warden of Oselmarch. He is an accomplished warrior and brilliant leader. He commands some of Kaldor’s best-trained soldiers and enjoys the loyalty of his men. He has a claim to the throne.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.7ZTPreWw2CPNymg7"
+    },
+    {
+      "name": "Ledyne Abbey",
+      "type": "text",
+      "_id": "JLnLAAaiyhIOPZ5L",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Ledyne Abbey (Kaldor v2. Ledyne. Page 57.) is the seat of the Laranian diocese of Pagostra. Appointed last spring, Rekela (Bishop) Cerdan Bantire is just 38 years old and is a renowned scholar and historian.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.JLnLAAaiyhIOPZ5L"
+    },
+    {
+      "name": "Kolorn Keep",
+      "type": "text",
+      "_id": "Pld7lhueIRjd3EQG",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Kolorn Keep (Nilsson, Patrick. 1999. Kolorn Keep. Fan Fiction. It can be downloaded for free at Lythia.com &gt; Downloads &gt; Places (Manors, Towns &amp; Sites) &gt; Kolorn.) is the baronial seat of Sir Orthis Bastune, who owes fealty to the Earl of Vemion. The baron is a wenching degenerate.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.Pld7lhueIRjd3EQG"
+    },
+    {
+      "name": "Ternua Keep",
+      "type": "text",
+      "_id": "wccxPu62LkolU9ZU",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Ternua Keep (Kaldor v2. Ternua. Page 48.) is the baronial seat of Sir Tarmas Verdeth, who owes fealty directly to the king. The keep guards a well-maintained stone toll bridge over the Nephen River on the Genin Trail.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.wccxPu62LkolU9ZU"
+    },
+    {
+      "name": "Erone Abbey",
+      "type": "text",
+      "_id": "F0S6MCxbrCpbUm9h",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Erone Abbey (Kaldor v2. Erone. Page 58.) is a Peonian Abbey known for its excellence in the healing arts. It has a renowned hospital and therapeutic mineral springs. Erone is constantly on the verge of financial collapse.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.F0S6MCxbrCpbUm9h"
+    },
+    {
+      "name": "Zutin Manor",
+      "type": "text",
+      "_id": "GpH9zVybJXnr89WW",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Zutlin Manor is the ancestral seat of the rich and powerful Clan Valador. The clanhead’s eldest sister, Lady Ialny, is the invalid wife of the Earl of Vemion.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.GpH9zVybJXnr89WW"
+    },
+    {
+      "name": "Tashal",
+      "type": "text",
+      "_id": "2FtByGeiGHptW92V",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Tashal (Crossby, N. Robin. 1983. Cities of Hârn. Tashal (Version 1). Pages 16. Columbia Games Inc. Out of print, sometimes available on eBay; King, Edwin. 1987. Son of Cities. Tashal (Version 1, Expansion). Pages 7-12. Columbia Games Inc. Out of print, sometimes available on eBay; Crossby, N. Robin et al. 2006. Tashal (Version 2). Columbia Games Inc. Currently in print, available from CGI: Tashal.) is the largest settlement in Kaldor and the second largest city on Hârn. It has grown wealthy from its strategic location at the crossroads of four major trade routes. The Earl of Vemion has a townhouse in the city currently occupied by his younger brother, the Royal Ostler, Sir Rindan Caldeth.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.2FtByGeiGHptW92V"
+    },
+    {
+      "name": "Caleme Abbey",
+      "type": "text",
+      "_id": "UtaoLakFOaIvcs1y",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Caleme Abbey (Kaldor v2. Caleme. Page 53.) is the seat of the archdiocese and spiritual heart of Laranianism in Kaldor. Serekela (Archbishop) Edine Kynn is wealthy, energetic and heavily involved in affairs of state.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.UtaoLakFOaIvcs1y"
+    },
+    {
+      "name": "Airth Manor",
+      "type": "text",
+      "_id": "j0qA4Rq6VXYyICXn",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Airth Manor (Crossby, N. Robin. 1988. The Staff of Fanon. Fanon’s Vale (AKA Airth Manor). Columbia Games Inc. Out of print, sometimes available on eBay.) is one of the few manors between Tashal and Olokand and is a popular stopping point for travellers. Clan Ralgurty holds it from Olokand.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.j0qA4Rq6VXYyICXn"
+    },
+    {
+      "name": "Kerk Manor",
+      "type": "text",
+      "_id": "T0feXunBvOXiY6Yc",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Kerk Manor is a small manor in Myaman Hundred. Clan Napaldy holds it from the Constable of Baseta.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.T0feXunBvOXiY6Yc"
+    },
+    {
+      "name": "Olokand Castle",
+      "type": "text",
+      "_id": "ST0LVHVJ5308B2tM",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Olokand Castle is the ancestral seat of the Earl of Olokand (who is also the King) and the shire moot of Meselynshire. Traditionally, it has been held by the heir apparent to the throne. The current sheriff is Sir Maldan Harabor, the eldest (unacknowledged) bastard son of the King. It is the site of the annual <em>Royal Chelebin Tournament of Chivalry</em>.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.ST0LVHVJ5308B2tM"
+    },
+    {
+      "name": "Baseta Keep",
+      "type": "text",
+      "_id": "TgVFjeHweo5nUwhZ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Baseta Keep (Kaldor v2. Baseta. Page 24.) is a fief of the Earl of Vemion. Constable Eres Tereneth is a robust, jolly man who keeps one of the finer tables and cellars in Meselynshire.</p>\n<p>The kingdom’s namesake, the <strong>Kald River</strong>, flows past Baseta and Olokand before being joined first by the Hemurin River and then (south of Heru) by the Shem River. It runs deep and swift past Tashal and Erone.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.TgVFjeHweo5nUwhZ"
+    },
+    {
+      "name": "Wylain Chapterhouse",
+      "type": "text",
+      "_id": "pePadBeolCF4uLfk",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Wylain Chapterhouse (Lady of Paladins. Wylain. Page 15.) is a manor and hostel belonging to the <em>Lady of Paladins</em>. Located on the Genin Trail, it is often very busy.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.pePadBeolCF4uLfk"
+    },
+    {
+      "name": "Hasiel Manor",
+      "type": "text",
+      "_id": "WH5MknuNjWsaO0Uc",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Hasiel Manor is a small manor in Taniran Hundred. Clan Teyanas holds it from Qualdris (the Earl of Osel).</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.WH5MknuNjWsaO0Uc"
+    },
+    {
+      "name": "Nebulan",
+      "type": "text",
+      "_id": "LIZUYJxnO1RGVdDT",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><em>The Order of the Lady of Paladins</em> (Mould, Kerry. 2001. Lady of Paladins. Fan Fiction. It can be downloaded for free at Lythia.com &gt; Downloads &gt; Environment (History, Society &amp; Regions) &gt; Lady of Paladins.) chapterhouse at <strong>Nebulan</strong> (Kaldor v2. Ledyne. Page 57. Lady of Paladins. Nebulan. Page 12.) is the center of their operations in Pagostra. The Reblena, Sir Remiu, commands a squadron of knights and a company of men-at-arms tasked with patrolling the Genin Trail. He works closely with Sir Orsin Firith.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!MqjeECrAV49ivzRH.LIZUYJxnO1RGVdDT"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201858939,
+    "modifiedTime": 1659201858939,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "MqjeECrAV49ivzRH",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!MqjeECrAV49ivzRH"
+}

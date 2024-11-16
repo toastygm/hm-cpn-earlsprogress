@@ -1,0 +1,275 @@
+{
+  "_id": "QHySCws6bej2AJ9N",
+  "name": "Oselshire Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Oselshire (Qualdris) Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "Sir Dwyn Elorieth, Baron of Nubeth, is ailing; he won’t live out the year. His son, Sir Arwyn, will inherit. (Poss)",
+      "_id": "3qmkugcojnnjnqwc",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.3qmkugcojnnjnqwc"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "Artefacts of ancient origin have recently come on the market.  Someone has discovered and looted an ancient barrow. (Poss)",
+      "_id": "2t2581zjxwrt3942",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.2t2581zjxwrt3942"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "Lady Thilisa petitioned the King to allow her to remarry. (False)",
+      "_id": "l134ifmfh3c2x1p7",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.l134ifmfh3c2x1p7"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "The Baron of Nubeth is supporting the renovation of an old Ilviran abbey near Nubeth as some sort of a school. (True)",
+      "_id": "ffk5gnj8dpm3m20d",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.ffk5gnj8dpm3m20d"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        59
+      ],
+      "text": "Sir Sedris has gone mad, and is living as a patient at Erone. (Poss)",
+      "_id": "n10lrkplvacqtcuh",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.n10lrkplvacqtcuh"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        64
+      ],
+      "text": "The Rekela of Pagostra’s bodyguard were seen riding toward Qualdris at great speed with a body slung over a horse. (Uncon)",
+      "_id": "wnp8chq1zus8cq2g",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.wnp8chq1zus8cq2g"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        69
+      ],
+      "text": "Lady Thilisa is pregnant. (False)",
+      "_id": "a5ridal9r0t19oov",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.a5ridal9r0t19oov"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        79
+      ],
+      "text": "I heard that Earl of Neph’s son, Sir Meden Curo, has been named the new Sheriff of Oselshire. (Poss)",
+      "_id": "7wpknwai69235fwg",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.7wpknwai69235fwg"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        84
+      ],
+      "text": "The Lady of Paladins wiped out a great number of Pagaelin who were poised for an attack at Oselbridge when the Genin Trail caravan approached. (Uncon)",
+      "_id": "0rgbk9to4u6i1ec8",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.0rgbk9to4u6i1ec8"
+    },
+    {
+      "type": 0,
+      "range": [
+        85,
+        89
+      ],
+      "text": "A Pagaelin raid decimated a Lady of Paladins company. They are keeping it secret because they suspect evil magic. (Poss)",
+      "_id": "o71qrf4ctiggl862",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.o71qrf4ctiggl862"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        94
+      ],
+      "text": "Lady Thilisa has taken Sir Meathgir, knight-commander of the Qualdris garrison, as her lover. (Uncon)",
+      "_id": "sv7kuxs384poz32n",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.sv7kuxs384poz32n"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        99
+      ],
+      "text": "The Dariunes are planning to build a bridge at Jedes Keep to siphon off the profits of the Salt Route from Tashal. (Poss)",
+      "_id": "2j7xf6vza12re2ju",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.2j7xf6vza12re2ju"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        104
+      ],
+      "text": "The Reblena of Nebulan requested the Serekela petition the King to allow the Lady of Paladins to build a keep at Oselbridge. (Poss)",
+      "_id": "164ec94hyp4v8wli",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.164ec94hyp4v8wli"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        109
+      ],
+      "text": "The Lord Marshal, Baron Orsin Firith, has petitioned the King for permission to build a keep at Oselbridge. (True)",
+      "_id": "6zk53c83rhp3tigs",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.6zk53c83rhp3tigs"
+    },
+    {
+      "type": 0,
+      "range": [
+        110,
+        200
+      ],
+      "text": "Lady Thilisa had her husband killed, that’s why he has not returned. He’s buried in… (Uncon)",
+      "_id": "ltytly3zgtb36hgc",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!QHySCws6bej2AJ9N.ltytly3zgtb36hgc"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.QHySCws6bej2AJ9N"
+    },
+    "scene-packer": {
+      "hash": "d4fb1392e8033822a9b50244fc3a732973edba8c",
+      "sourceId": "RollTable.muO7fZbcJgY0lyno"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849083,
+    "modifiedTime": 1659201849083,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!QHySCws6bej2AJ9N"
+}

@@ -1,0 +1,259 @@
+{
+  "_id": "FfrH9mjFZbtWKTo1",
+  "name": "Kaldor Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "National Significance (Kaldor) Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "A seer at the fair said there would be terrible storms and ruined harvests in Kaldor this summer. (Poss)",
+      "_id": "vqwi5el55cy5vgpb",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.vqwi5el55cy5vgpb"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "King Miginath is ailing; he surely won’t last beyond the Royal Chelebin Tourney. (Poss)",
+      "_id": "nf9gd27oyy9vmjdd",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.nf9gd27oyy9vmjdd"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "Thardic troops were seen massing near Trobridge. There will be a war this summer for sure. (False)",
+      "_id": "k8hx0u4ymksu7w3j",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.k8hx0u4ymksu7w3j"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "King Miginath is ailing; he won’t last ‘til the Summer Fair. (Poss)",
+      "_id": "zvjgessrsmlqizo1",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.zvjgessrsmlqizo1"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        59
+      ],
+      "text": "The King intends to invade Chybisa in the Spring. (False)",
+      "_id": "2o5ymqetpiqi0v73",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.2o5ymqetpiqi0v73"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        64
+      ],
+      "text": "King Miginath is ailing; he won’t last the month. (Poss)",
+      "_id": "2peb9qbe82uuuvx9",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.2peb9qbe82uuuvx9"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        69
+      ],
+      "text": "The Earl of Balim has gone too far. The Mangai petitioned the King to prevent barging of goods from Naniom to Kiban. (Mix)",
+      "_id": "isi0iqvweppqwj9i",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.isi0iqvweppqwj9i"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        79
+      ],
+      "text": "King Miginath is ailing; he surely won’t last beyond (GM Choice).",
+      "_id": "1ynfis8y75ovvuti",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.1ynfis8y75ovvuti"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        84
+      ],
+      "text": "King Miginath is dead, but nobody will announce it until they know whom to pick for a successor. (False)",
+      "_id": "t4cgtmfa0rnc1zfs",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.t4cgtmfa0rnc1zfs"
+    },
+    {
+      "type": 0,
+      "range": [
+        85,
+        89
+      ],
+      "text": "That Chybisan mistress of his is poisoning King Miginath. (Poss)",
+      "_id": "szy23ea1wuu60kt3",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.szy23ea1wuu60kt3"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        94
+      ],
+      "text": "Finally, the King will name (GM Choice) as his heir.",
+      "_id": "tltt3xcosnalab1n",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.tltt3xcosnalab1n"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        99
+      ],
+      "text": "King Miginath intends to acknowledge all three of his bastard sons at the Royal Chelebin Tournament. (Poss)",
+      "_id": "kghx4j4tdhiq55ig",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.kghx4j4tdhiq55ig"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        104
+      ],
+      "text": "Maldan Harabor is hiring mercenaries for a coup. (Uncon)",
+      "_id": "wolj0mnebxshxlqx",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.wolj0mnebxshxlqx"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        200
+      ],
+      "text": "King Miginath is an Amorvrus. (Poss)",
+      "_id": "7uv3e81yum5u18n0",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!FfrH9mjFZbtWKTo1.7uv3e81yum5u18n0"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.FfrH9mjFZbtWKTo1"
+    },
+    "scene-packer": {
+      "hash": "9edb4e18da846503d406e5185bc4cb50aad890d2",
+      "sourceId": "RollTable.NzBPXz0auparBX46"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849076,
+    "modifiedTime": 1659201849076,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!FfrH9mjFZbtWKTo1"
+}

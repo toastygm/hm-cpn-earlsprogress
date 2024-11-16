@@ -1,0 +1,291 @@
+{
+  "_id": "PuWsXLy0WNEPesex",
+  "name": "Tashal Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "City of Tashal Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "This city was built by Medrik I. (Mix)",
+      "_id": "u4cqb4vpn1f8u8s7",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.u4cqb4vpn1f8u8s7"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "The thespians south of town are all Navehans. (False)",
+      "_id": "cxia6p1nilqwsxv4",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.cxia6p1nilqwsxv4"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "Sindarin built this city. (Mix)",
+      "_id": "aydxopfsrlid4omq",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.aydxopfsrlid4omq"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "There are bars of silver under the Balasa Bridge where a barge struck it and sank. (Poss)",
+      "_id": "ew3vc6jv9qeyz0jh",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.ew3vc6jv9qeyz0jh"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        59
+      ],
+      "text": "Lady Cheselyne the Elder is a powerful Shek P’var, and she has ensorcelled Sir Scina. (False)",
+      "_id": "fvxi6m0eu2nxtlyw",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.fvxi6m0eu2nxtlyw"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        64
+      ],
+      "text": "The Navehans were badly hurt by a schism recently; now is the time to go after them. (Mix)",
+      "_id": "tk809nwh0n7ol64s",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.tk809nwh0n7ol64s"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        69
+      ],
+      "text": "Lady Cheselyne the Younger is a witch, and she has ensorcelled Sir Scina. (False)",
+      "_id": "4auptw4khj2xmytd",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.4auptw4khj2xmytd"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        74
+      ],
+      "text": "There is a treasure buried… (GM choice)",
+      "_id": "l8ftvsxmqcck9thd",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.l8ftvsxmqcck9thd"
+    },
+    {
+      "type": 0,
+      "range": [
+        75,
+        79
+      ],
+      "text": "There is a body buried…(GM choice)",
+      "_id": "l2grsal9chnibzyn",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.l2grsal9chnibzyn"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        84
+      ],
+      "text": "Lothrim built this city. (Mix)",
+      "_id": "t22k6i2d23sbqujb",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.t22k6i2d23sbqujb"
+    },
+    {
+      "type": 0,
+      "range": [
+        85,
+        89
+      ],
+      "text": "The Navehans are strong here, even though Sir Koris hangs a few every year. (True)",
+      "_id": "h54fn869ts7kvaxc",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.h54fn869ts7kvaxc"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        94
+      ],
+      "text": "Insiders took the Sword of Calsten, and hid it in the city. (Uncon)",
+      "_id": "bmg407rfbs5uoxk8",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.bmg407rfbs5uoxk8"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        99
+      ],
+      "text": "The house of Sir Danyes is the site of scandalous orgies. (Uncon)",
+      "_id": "f56pq6ve7zmnkg6d",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.f56pq6ve7zmnkg6d"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        104
+      ],
+      "text": "The Navehans are secretly supported by mercantylers from Coranan. (Poss)",
+      "_id": "2nld3szsnryorb75",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.2nld3szsnryorb75"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        109
+      ],
+      "text": "Prince Toron of Melderyn is coming next summer with the Genin Trail Caravan. (True)",
+      "_id": "l6af5e95q0bynkhq",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.l6af5e95q0bynkhq"
+    },
+    {
+      "type": 0,
+      "range": [
+        110,
+        200
+      ],
+      "text": "There is a secret escape tunnel from the Caer out into Orgael Wood. (True)",
+      "_id": "wbe5o32dbpn9axf1",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!PuWsXLy0WNEPesex.wbe5o32dbpn9axf1"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.PuWsXLy0WNEPesex"
+    },
+    "scene-packer": {
+      "hash": "7b7bf0529c75c5ffac2670c58aab0f2a844d0682",
+      "sourceId": "RollTable.S64U9Z84d3QvZGqA"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849088,
+    "modifiedTime": 1659201849088,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!PuWsXLy0WNEPesex"
+}

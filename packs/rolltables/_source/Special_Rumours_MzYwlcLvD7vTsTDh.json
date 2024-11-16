@@ -1,0 +1,211 @@
+{
+  "_id": "MzYwlcLvD7vTsTDh",
+  "name": "Special Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Special Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "Ilvir was once a good god who produced faeries and unicorns, but ever since Lothrim Ilvir has been corrupted and only produces Ivashu. (False)",
+      "_id": "ekhfgg87gofmgez3",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!MzYwlcLvD7vTsTDh.ekhfgg87gofmgez3"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "There are huge cracks under the ground, and Khuzdul and Ivashu use them to get from place to place. (Uncon)",
+      "_id": "7kvnu44ox3croizj",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!MzYwlcLvD7vTsTDh.7kvnu44ox3croizj"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "The “true” tale of Loag’s Box says… (GM Choice)",
+      "_id": "75zn2bbmq32s5tn6",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!MzYwlcLvD7vTsTDh.75zn2bbmq32s5tn6"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "Bognor the Fyvrian was a Curo from Gardiren. (Uncon)",
+      "_id": "8xqznxlrh0ttgl9x",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!MzYwlcLvD7vTsTDh.8xqznxlrh0ttgl9x"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        59
+      ],
+      "text": "There is a secret group of wizards known as the Shek P’var. They jealously guard their secrets. (True)",
+      "_id": "q5sgiasgqmb7ycyg",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!MzYwlcLvD7vTsTDh.q5sgiasgqmb7ycyg"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        64
+      ],
+      "text": "Lothrim is not dead. He slew the gargun left with him and now sleeps, awaiting release. (Uncon)",
+      "_id": "qza4li64vna8ddg9",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!MzYwlcLvD7vTsTDh.qza4li64vna8ddg9"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        69
+      ],
+      "text": "There is a huge abandoned Khuzdul city north of Lake Benath. It contains entire rooms of gold just waiting for the taking. (Mix)",
+      "_id": "p2ac531v16jdsfo1",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!MzYwlcLvD7vTsTDh.p2ac531v16jdsfo1"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        79
+      ],
+      "text": "A race of little people lives along the west edge of Shava Forest.  They are fat, happy and resistant to magic. (Uncon)",
+      "_id": "hc6xc0h349r6qygk",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!MzYwlcLvD7vTsTDh.hc6xc0h349r6qygk"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        94
+      ],
+      "text": "Sindarin are among us. They can charm you to think they are human. They spy and steal children. (Mix)",
+      "_id": "s52fjvev0zlam66k",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!MzYwlcLvD7vTsTDh.s52fjvev0zlam66k"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        99
+      ],
+      "text": "A strange beast with a bow that shoots arrows five feet long has been seen just to the north. Some say it is an ogre. (Uncon)",
+      "_id": "3litg4ql72liktke",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!MzYwlcLvD7vTsTDh.3litg4ql72liktke"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        200
+      ],
+      "text": "A peasant’s revolt is looming. You had best depart before all hell breaks loose. (Poss)",
+      "_id": "1j4qwmbubbv7tq0j",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!MzYwlcLvD7vTsTDh.1j4qwmbubbv7tq0j"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.MzYwlcLvD7vTsTDh"
+    },
+    "scene-packer": {
+      "hash": "2cbd6a2c6d671302d1652b440c141c902f327cf5",
+      "sourceId": "RollTable.8WbajYyhownjUuTU"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849087,
+    "modifiedTime": 1659201849087,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!MzYwlcLvD7vTsTDh"
+}

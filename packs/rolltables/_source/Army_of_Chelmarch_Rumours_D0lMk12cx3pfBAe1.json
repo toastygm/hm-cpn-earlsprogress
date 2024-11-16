@@ -1,0 +1,227 @@
+{
+  "_id": "D0lMk12cx3pfBAe1",
+  "name": "Army of Chelmarch Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Army of Chelmarch (Trobridge &amp; Salt Route) Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "The Chelni have an annual moot near Trobridge. (True)",
+      "_id": "zgs44vnqu1ctkn6q",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!D0lMk12cx3pfBAe1.zgs44vnqu1ctkn6q"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "Sir Rayneld Ynel, nephew of the Deputy-Commander is planning an embassy to Trobridge. (True)",
+      "_id": "iobjhekd2aszlvsg",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!D0lMk12cx3pfBAe1.iobjhekd2aszlvsg"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "If you stray from the Salt Route near the Shava Forest, you are likely to wake up at the inn. (Mix)",
+      "_id": "uoet9gi6a7jl37kg",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!D0lMk12cx3pfBAe1.uoet9gi6a7jl37kg"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "The Trobridge Inn is built on an ancient gravesite where Lothrim took heavy losses. (Uncon)",
+      "_id": "hseojgwvvow88m1j",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!D0lMk12cx3pfBAe1.hseojgwvvow88m1j"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        64
+      ],
+      "text": "The Salt Route is in very poor condition this year. There have been several washouts and the trail is very muddy. The caravans will probably be late. (Uncon)",
+      "_id": "mvdxcj7ya6wdgzi2",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!D0lMk12cx3pfBAe1.mvdxcj7ya6wdgzi2"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        69
+      ],
+      "text": "The Kath raids have started early. The Deputy-Commander has sent word to the Rekela asking for the squadron of knights and company of men-at-arms from the Lady of Paladins Chapterhouse at Vadan to come early this year. (Poss)",
+      "_id": "yyhkbbfuu72oj7il",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!D0lMk12cx3pfBAe1.yyhkbbfuu72oj7il"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        79
+      ],
+      "text": "Tharda covets Trobridge and has dispatched an embassy to secure it. This could mean another war. (True)",
+      "_id": "a26gjiwudlsmuzd1",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!D0lMk12cx3pfBAe1.a26gjiwudlsmuzd1"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        84
+      ],
+      "text": "The Deputy-Commander is a coward; he got his job through connections but he is not up to it. (False)",
+      "_id": "5osww7xio8p32l7n",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!D0lMk12cx3pfBAe1.5osww7xio8p32l7n"
+    },
+    {
+      "type": 0,
+      "range": [
+        85,
+        89
+      ],
+      "text": "A beautiful young lady, Lelona of Yarquane, is missing. Her father thinks she may be trying to reach Evael via the Salt Route. (True)",
+      "_id": "h3nlz3h1ihha4nu9",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!D0lMk12cx3pfBAe1.h3nlz3h1ihha4nu9"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        94
+      ],
+      "text": "The Deputy-Commander is addicted to fanosel. (False)",
+      "_id": "l21qseshwkkaa11e",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!D0lMk12cx3pfBAe1.l21qseshwkkaa11e"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        104
+      ],
+      "text": "Several people have disappeared from Trobridge lately. They were last seen in the company of a Thardic mercenary named Dernil of Hort. One of the missing is the son of a friend. (Mix)",
+      "_id": "iprdboqmsmkeh5ws",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!D0lMk12cx3pfBAe1.iprdboqmsmkeh5ws"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        200
+      ],
+      "text": "The Deputy-Commander is a raging alcoholic. (False)",
+      "_id": "7rfrkjcz5jx2tfqj",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!D0lMk12cx3pfBAe1.7rfrkjcz5jx2tfqj"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.D0lMk12cx3pfBAe1"
+    },
+    "scene-packer": {
+      "hash": "42270326fe7b66889e6d437490366712ec3d97c5",
+      "sourceId": "RollTable.xPsem6lWBLOuCud3"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849059,
+    "modifiedTime": 1659201849059,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!D0lMk12cx3pfBAe1"
+}

@@ -1,0 +1,292 @@
+{
+  "name": "Cavalcade Enroute",
+  "pages": [
+    {
+      "name": "Baggage Wagon",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Cavalcade Order:</strong> 9</p>\n<p>The sixth wagon carries the pavilions for the other nobles, commoners’ baggage and the other odds-and-ends that don’t fit elsewhere. Four armed manservants, the cavalcade’s rear guard, escort the last wagon. These four men are all yeomen’s sons, trained and equipped with short bows.</p>",
+        "format": 1
+      },
+      "_id": "YsBsEzZvtWj5m0JD",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!IkPLc6H5gNQYTQua.YsBsEzZvtWj5m0JD"
+    },
+    {
+      "name": "Baggage Wagon and Common Retainers",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Cavalcade Order:</strong> 6</p>\n<p>This covered wagon carries the baggage, arms and armour of the other knights, nobles and men-at-arms. Feya Harabor (wife of Ebran Harabor) and Taral Plair (the Earl’s personal cook and food taster) ride on top of the baggage. They share the wagon with the Earl’s four falcons and two hawks. Two armed manservants, on foot, escort the wagon. Each man has three large hunting dogs on stout leads. Following them are the Earl’s senior common retainers, including Ebran Harabor (his bonded clothier) and his falconer, huntsman and chief ostler. The huntsman carries a large black longbow; he is an excellent archer and expert tracker.</p>",
+        "format": 1
+      },
+      "_id": "3a7TfnqUKqvXGHbx",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -3125,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!IkPLc6H5gNQYTQua.3a7TfnqUKqvXGHbx"
+    },
+    {
+      "name": "Cargo Wagons",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Cavalcade Order:</strong> 7</p>\n<p>The fourth and fifth wagons (see @UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.paL77rUNfkm4vnLK]{Position within the Cavalcade}) carry food for the retinue, water, feed for the horses, tools and kitchen equipment (trestle tables, caldrons, etc.). Two armed menservants on foot escort each wagon. A teamster drives each wagon with a maidservant beside him. The fourth wagon carries four more maidservants riding on top of the cargo. The fifth wagon carries the second cook and scribe.</p>",
+        "format": 1
+      },
+      "_id": "WaCCZlqEjjQAaBqG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -1562,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!IkPLc6H5gNQYTQua.WaCCZlqEjjQAaBqG"
+    },
+    {
+      "name": "Cavalcade Enroute",
+      "type": "text",
+      "text": {
+        "content": "<div>\n<p>The Earl of Vemion’s retinue is a large group of people, horses and wagons stretching out over 400 feet of road. The scene (\"Cavalcade Enroute\") shows Sir Gorlin’s ideal organization (the middle strip attaches just behind Lady Ialny’s coach and the right hand strip attaches behind the common retainers). The daily reality is probably something less, with the cavalcade more strung out, or people moving from section to section throughout the day.</p>\n<ol>\n<li>@UUID[JournalEntry.IkPLc6H5gNQYTQua.JournalEntryPage.GAJ2djFpTxvuwhss]{Morgal’s Rangers}</li>\n<li>@UUID[JournalEntry.IkPLc6H5gNQYTQua.JournalEntryPage.d1eghs11MRLeiRYC]{The Earl and Inner Circle}</li>\n<li>@UUID[JournalEntry.IkPLc6H5gNQYTQua.JournalEntryPage.goueXX9ecW5dSRL5]{Lady Ialny’s Coach}</li>\n<li>@UUID[JournalEntry.IkPLc6H5gNQYTQua.JournalEntryPage.mrEBjgEtqAwDrufW]{Lesser Noble Guests}</li>\n<li>@UUID[JournalEntry.IkPLc6H5gNQYTQua.JournalEntryPage.M26gfzOym67gvlTv]{The Earl’s Personal Wagon}</li>\n<li>@UUID[JournalEntry.IkPLc6H5gNQYTQua.JournalEntryPage.3a7TfnqUKqvXGHbx]{Baggage Wagon and Common Retainers}</li>\n<li>@UUID[JournalEntry.IkPLc6H5gNQYTQua.JournalEntryPage.WaCCZlqEjjQAaBqG]{Cargo Wagons}</li>\n<li>@UUID[JournalEntry.IkPLc6H5gNQYTQua.JournalEntryPage.6LPNVGC6WSwMaz7T]{Warhorses}</li>\n<li>@UUID[JournalEntry.IkPLc6H5gNQYTQua.JournalEntryPage.YsBsEzZvtWj5m0JD]{Baggage Wagon}</li>\n</ol>\n</div>",
+        "format": 1
+      },
+      "_id": "244Pdf2dcAzO3317",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!IkPLc6H5gNQYTQua.244Pdf2dcAzO3317"
+    },
+    {
+      "name": "Lady Ialny’s Coach",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Cavalcade Order: </strong>3</p>\n<p>Escorted by two members of the Wyvern Guard, the invalid Lady Ialny rides in a fine wagon with an arched wooden roof (see @UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.IjBXfpvwSIRob0Vp]{Lady Ialny's Wagon}). Maid Camissa and Nursemaid Hila attend her. Lady Milycia (wife of Sir Andro) rides with them. A hand picked teamster known for his skill with finding the smoothest path drives the team. A maidservant rides beside him.</p>",
+        "format": 1
+      },
+      "_id": "goueXX9ecW5dSRL5",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -25000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!IkPLc6H5gNQYTQua.goueXX9ecW5dSRL5"
+    },
+    {
+      "name": "Lesser Noble Guests",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Cavalcade Order:</strong> 4</p>\n<p>Immediately following Lady Ialny’s carriage are the other nobles, led by Sir Petral, the Earl’s Physician. He rides immediately behind the carriage so he can quickly tend to Lady Ialny, if necessary. The Laranian Chaplain and the Jousting, Melee, Squire and Archery Champions accompany him. If an NPC, the archery champion should be played very much as a fish out of water. He will have limited riding skills and rarely have been in the company of so many nobles before.</p>",
+        "format": 1
+      },
+      "_id": "mrEBjgEtqAwDrufW",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -12500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!IkPLc6H5gNQYTQua.mrEBjgEtqAwDrufW"
+    },
+    {
+      "name": "Morgal’s Rangers",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Cavalcade Order: </strong>1</p>\n<p>About 100 yards ahead of the retinue are two scouts. These men are skilled hunters and woodsmen, personally trained by the Earl’s Constable, Sir Morgal. They are responsible for scouting the route, looking for ambushes or possible problems. They also serve to provide an advance warning so others can move off the road to allow the Earl’s retinue to pass.</p>",
+        "format": 1
+      },
+      "_id": "GAJ2djFpTxvuwhss",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!IkPLc6H5gNQYTQua.GAJ2djFpTxvuwhss"
+    },
+    {
+      "name": "The Earl and Inner Circle",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Cavalcade Order:</strong> 2</p>\n<p>The first group of horsemen, riding ahead of the dust, consists of the Earl of Vemion and his senior retainers and personal guests. His squire, Arlbis Hirnen, rides in front, bearing the Earl’s personal standard. Sir Gorlin (Chamberlain and Herald) and Sir Kobar (Captain of the Wyvern Guard) are next. They will deal with any incidents or problems. The Earl rides in the centre, flanked by two imposing men-at-arms of the Wyvern Guard. They are under strict orders to never leave his side. The Earl’s favourite hunting hound, Wyvern, runs alongside his master’s horse. The horses are used to the dog’s presence. Directly behind the Earl is his young page, Mikha Valador. He frequently acts as a messenger, riding his pony up and down the column with considerable glee.</p>\n<p>Following the Earl is his inner circle. Flanking young Mikha are the Earl’s two nephews, Sir Ferin and Sir Celed Ubael (unless the GM has replaced them with PCs). Then come four of the Earl’s friends, including Sir Andro Valador, Bailiff of Wynlis Manor. The PCs may or may not be in this part of the cavalcade depending on their status and popularity with the Earl.</p>",
+        "format": 1
+      },
+      "_id": "d1eghs11MRLeiRYC",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -50000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!IkPLc6H5gNQYTQua.d1eghs11MRLeiRYC"
+    },
+    {
+      "name": "The Earl’s Personal Wagon",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Cavalcade Order:</strong> 5</p>\n<p>Unofficially dubbed the “Treasure Wagon”, this vehicle carries the Earl’s personal effects and baggage, including a large pavilion, several chests of silver pennies (both to pay for the trip and £500 tribute to be paid to the King), furniture, bedding, weapons and armour. Four members of the Wyvern Guard provide a close escort to the wagon and are under orders not to leave it unattended at any time while it carries the treasure. A trusted teamster, armed with a broadsword and wearing a leather jack drives it. He will defend the wagon with his life. The maidservant responsible for the Earl’s pavilion sits beside him.</p>",
+        "format": 1
+      },
+      "_id": "M26gfzOym67gvlTv",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -6250,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!IkPLc6H5gNQYTQua.M26gfzOym67gvlTv"
+    },
+    {
+      "name": "Warhorses",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Cavalcade Order: </strong>8</p>\n<p>While travelling, the nobles ride palfreys, while the two junior ostlers lead the knight’s warhorses. This can be a dangerous and thankless job. Most warhorses are ungelded stallions bred for their fighting spirit. Fights between these high-strung horses are common. They are trained to lash out with their hooves and bite, which makes the thought of breaking up two of these dangerous (but very valuable) beasts a daunting prospect indeed. It is not a job for the faint hearted or unskilled.</p>",
+        "format": 1
+      },
+      "_id": "6LPNVGC6WSwMaz7T",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -781,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!IkPLc6H5gNQYTQua.6LPNVGC6WSwMaz7T"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201858937,
+    "modifiedTime": 1659201858937,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "IkPLc6H5gNQYTQua",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!IkPLc6H5gNQYTQua"
+}

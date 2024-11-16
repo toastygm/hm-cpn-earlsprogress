@@ -1,0 +1,211 @@
+{
+  "_id": "hwAlXaNxcrwag6Yg",
+  "name": "Thelshire Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Thelshire (Kolorn)",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        29
+      ],
+      "text": "The Baron of Kolorn, Sir Orthis Bastune, has several mistresses sequestered within a short ride of his keep. (True)",
+      "_id": "sd0lzqoqh44fi9ja",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!hwAlXaNxcrwag6Yg.sd0lzqoqh44fi9ja"
+    },
+    {
+      "type": 0,
+      "range": [
+        30,
+        44
+      ],
+      "text": "Sir Dwyn Elorieth, Baron of Nubeth, is ailing; he won’t live out the year. His son, Sir Arwyn, will inherit. (Poss)",
+      "_id": "xdzltsvnmockkj14",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!hwAlXaNxcrwag6Yg.xdzltsvnmockkj14"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "The Peonian Abbey of Bromeleon has suffered a major outbreak of leprosy. No one dares approach. (False)",
+      "_id": "ar1fschw1kfod6ow",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!hwAlXaNxcrwag6Yg.ar1fschw1kfod6ow"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        59
+      ],
+      "text": "A vicious pack of man-eating wolves have taken up residence in woods south of Tocade Manor. The Bailiff of the Hundred is offering a £5 bounty for their elimination. (Mix)",
+      "_id": "t8ukez3n7zj0676f",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!hwAlXaNxcrwag6Yg.t8ukez3n7zj0676f"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        69
+      ],
+      "text": "Sir Orthis is deeply in debt to the Khuzdul, he sends them horses and grain every year. (True)",
+      "_id": "adpuu2slzoqnnewb",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!hwAlXaNxcrwag6Yg.adpuu2slzoqnnewb"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        74
+      ],
+      "text": "The Sheriff, Sir Ranal Gybsen, is seeking a wife. He fancies Lady Thilisa, “widow” of the Earl of Osel, failing that, her younger sister, Maid Camissa. He has gotten wind of the Earl of Vemion’s trip to Olokand and plans to make his case there. (Uncon)",
+      "_id": "p5f4jk5qsecxy192",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!hwAlXaNxcrwag6Yg.p5f4jk5qsecxy192"
+    },
+    {
+      "type": 0,
+      "range": [
+        75,
+        84
+      ],
+      "text": "A large expedition travelled down the Kald River earlier this year.  They were planning to survey the Tuleme Falls as a possible port for Kaldor. They have not returned. (Poss)",
+      "_id": "d2sfe2s06ht2ll8c",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!hwAlXaNxcrwag6Yg.d2sfe2s06ht2ll8c"
+    },
+    {
+      "type": 0,
+      "range": [
+        85,
+        94
+      ],
+      "text": "A score of Kath warriors have crossed the Kald River in search of the son of a chieftain held at Chewintin Manor. (Uncon)",
+      "_id": "kxd16iuirmn3w2mj",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!hwAlXaNxcrwag6Yg.kxd16iuirmn3w2mj"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        99
+      ],
+      "text": "The numerous affairs of Lady Peresta, wife of Sir Orthis, are notorious, especially her liaison with Sir Koris Harabor. (True)",
+      "_id": "nlsoounqf6ta8ejr",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!hwAlXaNxcrwag6Yg.nlsoounqf6ta8ejr"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        104
+      ],
+      "text": "Sir Orthis’ heir, Sir Lyndar, is actually Sir Koris’ bastard. (True)",
+      "_id": "p3okm0mjz60ijli2",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!hwAlXaNxcrwag6Yg.p3okm0mjz60ijli2"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        200
+      ],
+      "text": "The Sheriff discovered an ancient map giving the location of Parikyg, an ancient Khuzdul outpost reportedly filled with treasure and guarded by a fell reptilian beast. He is seeking to raise an expedition to recover the treasure “for the King, of course.” (Uncon)",
+      "_id": "1wtfqncx4c1bxo1x",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!hwAlXaNxcrwag6Yg.1wtfqncx4c1bxo1x"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.hwAlXaNxcrwag6Yg"
+    },
+    "scene-packer": {
+      "hash": "441f7a15f4a1d419024713e2488d3d04ec8d73f1",
+      "sourceId": "RollTable.7VVObqs8R1VrbGw6"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849089,
+    "modifiedTime": 1659201849089,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!hwAlXaNxcrwag6Yg"
+}

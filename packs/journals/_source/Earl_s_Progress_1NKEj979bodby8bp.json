@@ -1,0 +1,185 @@
+{
+  "name": "Earl's Progress",
+  "pages": [
+    {
+      "name": "Alternate Uses for this Module",
+      "type": "text",
+      "text": {
+        "content": "<p>Not every GM wants to run a campaign such as The Earl’s Progress. Aside from the obvious components that can be stripped out and used elsewhere (such as the cavalcade en route, cavalcade encamped, Nebulan Chapterhouse and the Caldeth Townhouse) there are other uses for the adventure material.</p>\n<p>Background Activities. Nothing makes a campaign seem more real than to have large, interesting events happening in the background that have nothing to do with your current adventure. Have your PCs encounter the Earl’s retinue on the main road while they are going somewhere else.</p>\n<p>Manor/Keep/Castle en route: For some reason (broken wagon wheel, injury, brigands) the Earl and his retinue have been forced off their planned course and end up at the PC’s manor. They need food and shelter for the night, for sixty if you please.</p>\n<p>Render Aid: The Earl and his knights are off hunting when brigands attack. The PCs come across the wagon train hard pressed by the criminals. If they render aid, the Earl will be very appreciative.</p>\n<p>Fellow Travellers: The PCs are travelling along the road when they encounter the Earl and his retinue travelling the same direction. There have been reports of brigands ahead and the Earl offers to allow the PCs to join his party for mutual protection.</p>\n<p>Brigands/Sneak Thieves: The Earl “treasure wagon” is carrying gold, jewelry, usurer’s notes and well over £600 in silver pennies. It is the ultimate prize for those with the élan or skill to take on an Earl, his knights and men-at-arms. A heist like this would be the coup of the century, on par with the theft of the Sword of Calsten. Are the PCs desperate or foolish enough to attack the personal caravan of a peer of the realm?</p>\n<p>Spies/Assassins: The PCs are in the employ of one of the Earl’s many enemies (see @UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.Vd4WYNCooMZMxhmS]{The Enemy} for ideas). They have not been able to get close to him while he was holed up in Minarsas Castle. Now that he is on the road, he is vulnerable. They are ordered to infiltrate the retinue and discover its true purpose and report back. They may be required to steal or sabotage something or kill someone, perhaps the Earl himself.</p>\n<p>Mistaken Identity. There are rumours of brigands in the area. The PCs have “innocently” stopped for the night when they are suddenly surrounded by the Earl’s men and taken into custody. They are found guilty and to be executed in the morning. They must escape and prove their innocence.</p>",
+        "format": 1
+      },
+      "_id": "1DmpZrL1CWP1XcTi",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1NKEj979bodby8bp.1DmpZrL1CWP1XcTi"
+    },
+    {
+      "name": "Author’s Note",
+      "type": "text",
+      "text": {
+        "content": "<p>The Earl’s Progress owes its existence to the many interesting and provocative discussions the HârnForum has spawned over the years. In particular, I was motivated to write this campaign module for three reasons: to show what a noble’s entourage might look like, to provide (in my opinion) a truly Hârnic style adventure and to give GMs a good opportunity to use all those castle articles that have been filling up their binders.</p>\n<p>There have been several discussions on the HârnForum about noble’s entourages. How big are they? What are they composed of? James Sawyer’s post (AKA maypole) asking “someone” to write up such an entourage was an appeal to my ego I found hard to resist. I am no medieval expert, but I had a few ideas drawn from various books I own. So I sketched out an entourage and conned my good buddy Thomas Shook into drawing it up for me.</p>\n<p>I could have just released the entourage as a four-page article, but then I started thinking about who was in it. I choose an Earl, because I like big groups and started detailing the retinue. Then, this led me to start to think about which Earl it should be and where he was going. One thing led to another and I started to map out a route. From there, the idea of adding PCs and making it an adventure just came naturally.</p>\n<p>Hârn desperately needs new adventures. It is a beautiful background, but there are few published adventures and they lack the right tone. Why create an interesting, realistic and magic-rare world and then have all your published adventures involve magic or supernatural creatures? I have to credit (or blame!) John Sgammato with planting the idea in my head to create a real epic campaign where there are tons of action and cool adventures thoroughly grounded in realism. The drama and excitement of this adventure come from realistic people with believable motivations doing rational things using mundane (but still deadly) methods.</p>\n<p>Another reason for creating this adventure was to get PCs into the castles. Roy Denton (AKA redenton) made a comment that struck home with me, as a CGI and fan fiction author. He said, as a GM, he had rarely used any of Hârn’s many castles. I thought about that long and hard and realised, he was right. Why? Because as authors, we had never given him, as a GM, a compelling reason to go into them. So, I deliberately structured The Earl’s Progress to kick open those doors and now I invite the PCs and GMs to take advantage of all those great castle locations that are waiting to be used. Minarsas, Qualdris, Tashal and Olokand are vital pieces of this adventure. The PCs will have to visit them now. Once that door is open and they have contacts in all of these places, hopeful it will be hard to stop them from wanting to return again and again.</p>\n<p>John Sgammato has been my mentor and cheerleader throughout this process. We spent many long evenings chatting on the phone. He is the idea man behind the map with Hârndex style entries facing it, the calendars, the layout with room for GM notes on the side, the rumour tables and dozens of other small, but extraordinarily helpful, interesting and useful bits here and there. Without him, this adventure would not have been half as interesting.</p>\n<p>Joe Adams has been my “big picture” guy, evaluating the overall ebb and flow of the adventure and making a number of key recommendations and observations, which hopefully have made the module more exciting. Dan Bell is my canon-god. He has patiently scrutinized the module from end to end utilizing his encyclopaedic knowledge of Hârn to check every detail. However, any residual errors remain my responsibility. Andy Gibson is a great sounding board and was a vital assistant to help me get the right tone for the Social Status section.</p>\n<p>As always, Richard Luschek has been a key agent in translating my words into Harnic images. His vision and ability to capture the “look and feel” of Hârn makes all the difference to me. Thomas Shook has taken over from Patrick Nilsson and Jocke Andersson as my regular mapper. Those are big shoes to fill and his has done it skillfully, quickly and without complaint (even when I put him under totally unreasonable deadlines!).</p>\n<p>In the end, I wrote this module, because it is what I wanted and couldn’t find. It took on a life of its own and just started to grow (and grow and GROW…). I hope I have succeeded in telling a good story, only time and the response of HârnFans will tell. I hope you (the reader and hopefully the GM) find it interesting and useful. May it spawn many long days of enjoyable Hârnic gaming. Thanks for reading,</p>\n<p>Kerry Mould (AKA Sageryne)</p>\n<h2>Useful Additional References</h2>\n<p>Chesel, Zutlin, Kerk and Hasiel Manors are not described anywhere in either official publications or fan fiction. Zoben, Nubeth and Baseta Keeps, Ledyne and Erone Abbeys and Wylain Chapterhouse are described but not detailed or mapped. GMs are encouraged to adapt one of the numerous high quality articles available free from the many Hârnic fan fiction sites listed at HârnLink or to develop these locations themselves by using HârnManor, currently in print and available from Columbia Games Inc. at CGI: HârnManor.</p>",
+        "format": 1
+      },
+      "_id": "iBuqFLRsLi0Nxvhb",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1NKEj979bodby8bp.iBuqFLRsLi0Nxvhb"
+    },
+    {
+      "name": "Credits",
+      "type": "text",
+      "text": {
+        "content": "<p>The Earl’s Progress: A Hârnic Campaign Module</p>\n<p>Writer &amp; Layout: Kerry Mould</p>\n<p>Contributors: John Sgammato, Joe Adams, Daniel Bell, Andy Gibson</p>\n<p>Artists: Richard Luschek, Eric Hotz</p>\n<p>Maps: Thomas Shook, Kerry Mould</p>\n<p>Acknowledgement</p>\n<p>Most of the interior art for this adventure is reprinted from Columbia Games Inc. articles. Thanks to Tom, Penny, and Grant Dalgliesh for their permission to use this art and their generous support of the Hârn Writers’ Guild.</p>\n<p>Dedication</p>\n<p>To N. Robin Crossby</p>\n<p>For opening the Godstone to Kethira.</p>\n<p>Thank You</p>\n<p>To my Mom and Dad</p>\n<p>For always believing in me.</p>\n<p>Love Kerry</p>\n<p>To James Sawyer (Maypole from the HârnForum)</p>\n<p>Who said, “wouldn’t it be great to have a map of such an 'entourage' with</p>\n<p>their baggage train, picket line, tents etc. If only there was a well</p>\n<p>respected and talented Hârn writer interested in such a project.”</p>\n<p>You asked for it I hope you like it</p>\n<p>To Roy Denton (redenton from the HârnForum)</p>\n<p>Who said, “the layout of the castle is nice, but I have found over the last</p>\n<p>20+ years that my characters have rarely ventured into a castle and if they</p>\n<p>did it wasn't usually a good thing.”</p>\n<p>I hope this gives you an excuse to venture inside those walls more often</p>\n<p>And to Patrick Nilsson (the one and only DongMaster)</p>\n<p>Thank you for donating the Cover Art</p>\n<p>A Hârn Writers’ Guild Book, 2006</p>\n<p>Self-published by Hârn Writers’ Guild.</p>\n<p>Available for download free at http://www.lythia.com/</p>\n<p>This work, created by Kerry R. Mould, is a derivative work of copyrighted material published by Columbia Games Inc. and is released for free distribution and personal use by Kerry R. Mould without the permission or endorsement of N. Robin Crossby or Columbia Games Inc. No modification of said work may be made without the explicit written permission of the author, Kerry R. Mould. Hârn, HârnWorld and HârnMaster are trademarks of Columbia Games Inc. Use of these or other trademarks are not intended as a challenge of the status of said trademarks. All distribution must keep this copyright and trademark notice intact.</p>\n<p>Copyright © 2006, N. Robin Crossby &amp; Columbia Games Inc.</p>",
+        "format": 1
+      },
+      "_id": "eDq2KDpIBadBB090",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -50000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1NKEj979bodby8bp.eDq2KDpIBadBB090"
+    },
+    {
+      "name": "Roleplaying Opportunities",
+      "type": "text",
+      "text": {
+        "content": "<p>Regardless of their position within the entourage, each stop generates many opportunities for the PCs to interact with their hosts and staff. The GM should encourage the PCs to interact with their peers within the host household. Due to the many requirements, complex nature and size of the cavalcade, this is an excellent chance for the nobility to deal with subordinates, servants to deal with their superiors and everyone to deal with their peers to get the job done.</p>\n<p>Before beginning each leg of the journey, preparations are made for the next stop. An advance party, usually a senior representative (noble or common) and several assistants depart on horseback, several hours ahead of the main party (an ideal role for PCs). They ride straight to the destination with minimum delay. On arrival, they meet with their host to inform them of the details of the entourage (estimated time of arrival, numbers, rank, etc.). The advance party is the first impression of the Earl’s household. It is a high profile and important task and is only given to followers the chamberlain knows can properly represent the Earl with courtesy and diplomacy.</p>\n<p>When the entourage arrives, the retinue's work really begins. The nobles meet with their hosts; soldiers see to security; guildsmen enquire as to trade; servants prepare the quarters and tend to the wagons, horses and baggage. This is a good opportunity for all ranks to develop new contacts and find out new rumours (see @UUID[JournalEntry.FGMeOLJquHoNOAAG.JournalEntryPage.y5qjHlvpxGDVtPuk]{Rumours}).</p>",
+        "format": 1
+      },
+      "_id": "1NCbi5SPE4DOf90d",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1NKEj979bodby8bp.1NCbi5SPE4DOf90d"
+    },
+    {
+      "name": "The Crown Prince of Melderyn (Prince's Progress)",
+      "type": "text",
+      "text": {
+        "content": "<p>Jevas Toron, son of the King of Melderyn, plans to visit Azadmere in 720TR. His “Progress” will be similar (in many ways) to that of the Earl of Vemion. He will have a large entourage, likely double or even triple the size of Sir Declaen’s, but the concepts and ideas remain the same. GMs are encouraged to use (or reuse) this module as a guide for the Crown Prince’s trip.</p>\n<h2>Setting</h2>\n<p>The Prince’s Progress traverses four nations and hundreds of leagues. One possible route is:</p>\n<ol>\n<li>Cherafir [Cherafir. (q.v.)] to Nurisel [Melderyn. Nurisel. Pages 1-8.], to visit the Earl of Nurisel.</li>\n<li>Nurisel to Racyn, by sea, to visit the Sheriff of Biren.</li>\n<li>Racyn to Cundras, by riverboat, to visit the Chabla of</li>\n<li>the Lady of Paladins and “discuss” the Solori Crusade.</li>\n<li>Cundras to Gythrun [Castles of Hârn. Gythrun. Pages 1-6.], to see the wilderness frontier with an eye to future settlement.</li>\n<li>Gythrun to Thay [Cities of Hârn. Thay. Pages 1-4. Son of Cities. Thay (Expansion). Pages 5-10.], by sea, to visit the freetown.</li>\n<li>Thay to Harden [Melderyn. Harden. Pages 1-8.], by riverboat, to visit the Earl of Elorin.</li>\n<li>Harden to Laket, by riverboat, to the headwaters.</li>\n<li>Laket to Geda [Castles of Hârn. Geda. Pages 1-4.], along the Genin Trail to Chybisa. [Crossby, N. Robin, and Edwin King. 1987. Chybisa Kingdom Module. Columbia Games Inc. Currently in print, available from CGI: Chybisa.]</li>\n<li>Geda to Burzyn [Chybisa. Burzyn. Pages 1-10.], between the Bujoc [Crossby, n. Robin, et al. 1984 &amp; 2000. Barbarians. Bujoc. Pages 1-6. Columbia Games Inc. Currently in print, available from CGI: Barbarians.] and Horadir [Barbarians. Hodiri. Pages 1-4.] barbarians, to visit the “Earl of Chybisa.”</li>\n<li>Burzyn to Oselbridge [Hotz, Eric. 1989. Harnlore Issue 7. Oselbridge. Pages 7-8. Columbia Games Inc. Currently in print, available from CGI: HL7.], through the territory of the Pagaelin [Barbarians. Pagaelin. Pages 1-6.] barbarians.</li>\n<li>Oselbridge to Kobing, to visit Baron Orsin Firith.</li>\n<li>Kobing to Qualdris, to visit Lady Thilisa Meleken.</li>\n<li>Qualdris to Tashal, to visit King Miginath.</li>\n<li>Tashal to Gardiren, to visit the Earl of Neph.</li>\n<li>Gardiren to Naniom Bridge [Fauconnier, Peter and Christophe Jaureguiberry. 2004. Naniom Bridge. Fan Fiction. It can be downloaded for free at Lythia.com &gt; Downloads &gt; Places (Manors, Towns &amp; Sites) &gt; Naniom Bridge.], up the Silver Way to the Dwarven Kingdom of Azadmere [Crossby, N. Robin, Tom Dalgliesh and Edwin King. 1984, 1987, 1989. Azadmere: Dwarven Kingdom. Columbia Games Inc. Currently in print, available from CGI: Azadmere.].</li>\n<li>Naniom Bridge to Zerhun [Azadmere. Zerhun.], the gateway fortress.</li>\n<li>Zerhun to Azadmere [Azadmere. Azadmere.], the capital of the Khuzdul.</li>\n<li>Azadmere to Naniom Bridge, down the Silver Way.</li>\n<li>Naniom Bridge to Kiban [Kaldor v1. Kiban. Pages 1-6.], to visit the Earl of Balim.</li>\n<li>Kiban to Qualdris, and then retracing his steps south via Kobing, Burzyn, Geda, Laket and Thay. From Thay, a ship to Glenoth [Leitch, Peter and Kerry Mould. 2003. Glenoth. Columbia Games Inc. Currently in print, available from CGI: Glenoth.]  [Mould, Kerry. 2003. Glenoth (Expansion). Fan Fiction. It can be downloaded for free at Lythia.com &gt; Downloads &gt; Places (Manors, Towns &amp; Sites) &gt; Glenoth Chantry Exp[ansion.] and finally home to Cherafir.</li>\n</ol>",
+        "format": 1
+      },
+      "_id": "QYdtBvalSV08U25L",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1NKEj979bodby8bp.QYdtBvalSV08U25L"
+    },
+    {
+      "name": "Overview",
+      "type": "text",
+      "text": {
+        "content": "<p>Difficulty: Moderate</p>\n<p>The Wyvern Stirs...</p>\n<p>Sir Declaen Caldeth, 19th Earl of Vemion, prefers his remote fiefdom and the security of Minarsas Castle to the politics and intrigue of the Royal Court of Kaldor. He rarely stirs from his lair, and then only for the briefest of periods. Thus, his subjects were shocked when he announced his intention to make a great tour of the realm. He will visit his liegeman, the Baron of Kolorn and his Constables at Zoben and Baseta, attend the Royal Chelebin Tournament of Chivalry at Olokand Castle and stop at the capital city of Tashal en route.</p>\n<p>All of Vemionshire is abuzz with the news. The Earl will host a tournament in Minarsas. The winners will join his retinue and represent the shire at the Olokand tourney. Every knight and yeoman is vying for a spot in this once-in-a-lifetime tour of the kingdom and with it, the promise of the personal favor of one of the most powerful magnates in Kaldor. Are you worthy of being a member of The Earl’s Progress?</p>\n<h2>Introduction</h2>\n<p>Medieval lords travelled a great deal. This was necessary for them to administrate their far-flung fiefdoms and to communicate with their lord, liegemen, friends and family. However, such a trip was not undertaken by just a handful of people travelling vast distances quickly, rather it was an entire household, including family members, guards, servants, staff, animals, wagons and furniture unhurriedly traversing the realm. This was a leisurely age, of slow travel and even slower communications, so those who could afford it preferred to relax and make it an enjoyable experience. The arrival of such a cavalcade was a major event in medieval life and often the primary source of news and information for remote corners of the realm.</p>\n<p>It is well known that Sir Declaen Caldeth, 19th Earl of Vemion, does not enjoy travel. He visits his holdings in Vemionshire once a year and each autumn meets the King in Kolorn to deliver his annual feudal payment. His customary route is to travel to Nenda, then down the Selene River to Uldien where his widowed sister lives. He then travels to Kolorn to visit his vassal, Baron Bastune.</p>\n<p>He rests uneasy when his obligations take him away from Minarsas, [Sgammato, John, et al. 2005. Minarsas. Columbia Games Inc. Currently in print, available from CGI: Minarsas.] in part due to his inability to delegate and the immaturity of his son and heir. Thus, many people were shocked when, during the Minarsas Wool Fair [Minarsas. The Minarsas Wool Fair. Pages 33-39.] 5-9 Kelen 720TR, the Earl announced that in just two weeks he would host a tournament in Minarsas and the winners would accompany him to Olokand [Crossby, N. Robin et al. 1986. Kaldor Kingdom Module (Version 1). Olokand Castle. Pages 1-8. Columbia Games Inc. Out of print, sometimes available on eBay.]  [Crossby, N. Robin et al. 2003. Olokand Castle (Version 2). Columbia Games Inc. Currently in print, available from CGI: Olokand.] and the great Royal Chelebin Tournament [Olokand v2. The Royal Chelebin Tournament of Chivalry. Pages 25-34.] that summer. This is unheard of. The Earl is planning a great “Progress” through the kingdom. Rumours and theories abound. Why is he going to Olokand? Only the Earl knows for sure.</p>\n<h2>Objective</h2>\n<p>The objective of this adventure is as individual as the PCs that will play it. Overall, the adventure is the story of a trip. A great magnate leaves his secure fortress and travels across the kingdom, visiting his liegemen and presenting himself at the King’s court. Depending on their role within his entourage and rank (noble, guided, common) there are a variety of different adventures the PCs can participate in. The GM is also encouraged to add his own ideas and adventures into the campaign to integrate this module into their own on-going story line.</p>\n<h2>Lead-Ins</h2>\n<p>There are many different lead-ins for this adventure. GMs are encouraged to find logical and believable ways of incorporating existing PCs from their own campaign into the Earl’s retinue. For GMs seeking inspiration or starting the campaign with new characters, there is an extensive pre-game section with suggestions (see @UUID[JournalEntry.QK1ZfRBCXd5Uc13L.JournalEntryPage.uJScEbqcDg3c0sTY]{Pregame}). In addition, a large number of pre-generated characters are available in Friends, Foes and Followers. [Mould, Kerry, et al. 2005-2006. Friends, Foes and Followers Parts 17. Fan Fiction. These files can be downloaded for free at Lythia.com &gt; Downloads &gt; Game Aides &gt; Friends, Foes and Followers Part 1 to Part 7.]</p>\n<h2>Setting</h2>\n<p><img style=\"width:100%\" src=\"modules/hm-cpn-earlsprogress/assets/images/epmap.webp\" /></p>\n<p>This adventure takes place on Hârn, in the Kingdom of Kaldor [Crossby, N. Robin, et al. 1984. Encyclopaedia Harnica 2, 3, 4, 5, 6, 7 &amp; 8. Kaldor (Version 0). Columbia Games Inc. Out of print, sometimes available on eBay.]  [Crossby, N. Robin, et al. 1986. Kaldor Kingdom Module (Version 1). Columbia Games Inc. Out of print, sometimes available on eBay.]  [Crossby, N. Robin, et al. 2004. Kaldor Kingdom Module (Version 2). Columbia Games Inc. Currently in print, available from CGI: Kaldor.], on the road from Minarsas to Baseta, with one, Tashal and Olokand (see the Kaldor Poetic Map scene or the more detailed GM maps [Gibson, Ron. 1984. Atlas Harnica (Version 1). Encyclopaedia Harnica 2, 3, 4, 5, 6, 7 &amp; 8. Kaldor Regional Maps: Tashal, Olokand, Hutop, Gardiren, Kiban, Qualdris and Minarsas. Columbia Games Inc. Out of print, sometimes available on eBay.]  [Hotz, Eric. 1986. Kaldor Kingdom Module (Version 1). Map: Kingdom of Kaldor. Columbia Games Inc. Out of print, sometimes available on eBay.]  [Dalgliesh, Tom. 2004-2006. Atlas Harnica (Version 2). Maps: J5, J6, K5, K6. Columbia Games Inc. Currently in print, available from CGI: J5, CGI: J6, CGI: K5, CGI: K6. Maps of Northern Kaldor (J4, K4) have not yet been released.] produced by CGI). It involves the highest levels of Kaldoric nobility and swirls with intrigue. The GM can reasonably involve any location along that general route.</p>\n<p>The retinue travels at the rate of 4 leagues per watch (2.5 mph or 4 km/h), the speed of a loaded wagon on an unpaved road in flat country. It takes place over a period of about two months. Since the Earl’s objective is to attend the Royal Chelebin Tournament of Chivalry in Olokand during the second ten-day of Larane, the adventure must take place in the summer time.</p>\n<p>This adventure is specifically tailored for the Earl of Vemion. However, the concept can be easily adapted for another Earl, Baron, Archbishop or Bishop with the creation of a new itinerary based on this campaign. The premise is to draw a route allowing the lord to visit several key locations, finally ending up in Tashal for the Summer Fair and then traveling to Olokand for the tournament.</p>\n<p>The adventure can also be adapted for other kingdoms. The GM chooses a lord and a destination and develops the itinerary for one to get to the other. The key element of this adventure is the trip, though the destination can result in a whole new crop of adventures.</p>\n<h2>References</h2>\n<p>Consistency is one of the hallmarks of Hârn. To assist with this, The Earl’s Progress uses internal cross-references throughout. It also has an extensive list of external references marked by footnote numbers. HWG prides itself on being consistent with both official publications (referred to as canon) and fan fiction (referred to as fanon) as much as possible. We hope that these references will make the GM’s job of finding the relevant primary sources easier and encourages you to check out the excellent work produced by other HârnFans and Columbia Games Inc.</p>\n<h2>Campaign Outline</h2>\n<ul>\n<li>@UUID[JournalEntry.QK1ZfRBCXd5Uc13L.JournalEntryPage.4wbTlLTfkE8MwepB]{Route Map}</li>\n<li>@UUID[JournalEntry.MqjeECrAV49ivzRH]{Route Map Key}</li>\n<li>@UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.tt9qVXEpznIIozww]{Background}</li>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.ea3G4LCifXW5g6Mr]{The Earl's Cavalcade}</li>\n<li>@UUID[JournalEntry.1NKEj979bodby8bp.JournalEntryPage.1NCbi5SPE4DOf90d]{Roleplaying Opportunities}</li>\n<li>@UUID[JournalEntry.IkPLc6H5gNQYTQua.JournalEntryPage.244Pdf2dcAzO3317]{Cavalcade Enroute}</li>\n<li>@UUID[JournalEntry.T8l2xm09Pm6nFofT.JournalEntryPage.s4l4WtUvvoo6JkYX]{Cavalcade Encamped}</li>\n<li>@UUID[JournalEntry.FGMeOLJquHoNOAAG.JournalEntryPage.y5qjHlvpxGDVtPuk]{Rumours}</li>\n<li>@UUID[JournalEntry.QK1ZfRBCXd5Uc13L.JournalEntryPage.gQJdSx6aPBbRZsLe]{Campaign Notes and Adventure Hooks}</li>\n<li>@UUID[JournalEntry.1NKEj979bodby8bp.JournalEntryPage.1DmpZrL1CWP1XcTi]{Alternate Uses for this Module}</li>\n<li>@UUID[JournalEntry.1NKEj979bodby8bp.JournalEntryPage.QYdtBvalSV08U25L]{The Crown Prince of Melderyn (Prince's Progress)}</li>\n<li>@UUID[JournalEntry.1NKEj979bodby8bp.JournalEntryPage.iBuqFLRsLi0Nxvhb]{Author’s Note}</li>\n</ul>\n<p> </p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "QZx4DlrOCFXa8gaa",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1NKEj979bodby8bp.QZx4DlrOCFXa8gaa"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201858907,
+    "modifiedTime": 1659201858907,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "1NKEj979bodby8bp",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!1NKEj979bodby8bp"
+}

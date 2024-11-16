@@ -1,0 +1,536 @@
+{
+  "name": "The Earl's Cavalcade",
+  "pages": [
+    {
+      "name": "Champions (3+ nobles, 1+ commoner)",
+      "type": "text",
+      "text": {
+        "content": "<p>Prior to departing from Minarsas, the Earl will hold a tournament. The winner of the knight’s joust, the champion of the melee (also a knight), the victor of the squire’s joust and the top yeoman archer will be invited to join his Progress and compete in Olokand. These positions are open to all of the Earl’s liegemen and will be hotly fought over, as attending the tournament as the Earl’s champion is a great honour. Success at the tournament may lead to permanent positions in the Earl’s household. Needless to say, these men are extremely anxious to prove their worth. Depending on their status, some of the champions may bring their own squires, servants or family members. These are all possible PC roles.</p>\n<p>If NPCs: The champions are Sir Jerinsa Caran from Lezter Manor (joust), Sir Brinaer Auerdas from Nerlane Manor (melee), Squire Uldis Harand from Iswend Manor and Yeoman Enil Peryne from Zoben Keep.</p>",
+        "format": 1
+      },
+      "_id": "xhRIlyQvU3nZI2xw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.xhRIlyQvU3nZI2xw"
+    },
+    {
+      "name": "Earl Of Vemion, Sir Declaen Caldeth",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Declaen is a brilliant manager of assets, but less so of men. His sophisticated plans have made his clan one of the wealthiest in Kaldor. The Earl’s great weakness is an inability to delegate. He is an insomniac and a voracious reader, and concentrates on finance, husbandry, masonry, trade and other subjects of practical value. [Minarsas. Earl Declaen Caldeth. Page 24.]</p>\n<p>Earl Declaen Caldeth meets the King once per year, in the autumn, in Kolorn to deliver his annual feudal payment. Aside from this, he rarely stirs from Vemionshire. This progress is a rare event and considerably out of character. He has kept his true motives to himself.</p>",
+        "format": 1
+      },
+      "_id": "baX8RHPQuU7lVUhO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.baX8RHPQuU7lVUhO"
+    },
+    {
+      "name": "Ebran of Harabor, Bonded Clothier and His Wife",
+      "type": "text",
+      "text": {
+        "content": "<p>Ebran of Harabor is responsible for generating income from the Earl’s sheepfolds. One of the Earl’s most senior common retainers, he presides over a network of fullers, dyers, spinners and weavers distributed throughout the Earl’s manors. [Minarsas. Staff. Page 20.] He is also Clothiers’ guildmaster for Vemionshire and a town alderman. He married the younger sister of the Harabor clanhead in 695 and was then adopted into the Harabor Clan. Ebran is a major figure in local politics. [Minarsas. Clothier. Page 11.] The clothier represents the Earl in most of his dealings with the Mangai. Ebran has considerable discretion in his dealings, but the Earl has the final say on all agreements.</p>\n<p>Ebran is travelling with his wife, Feya. She is the younger sister of (the now deceased) Lesel of Harabor and thus the aunt of Sheriff Sir Maldan Harabor of Olokand and Marshal Sir Koris Harabor of the Royal Guard. She is very fond of Sir Koris.</p>",
+        "format": 1
+      },
+      "_id": "rxEeVFrRbRcVdt5i",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.rxEeVFrRbRcVdt5i"
+    },
+    {
+      "name": "Esar Keriel, Apprentice Ostler",
+      "type": "text",
+      "text": {
+        "content": "<p>Twenty-three, Esar is old for an apprentice. The son of a poor day labourer he is well aware that his master, the Ostler Donar of Harabor [Minarsas. Ostler. Page 11.] has no intention of making him a journeyman. Little better than a serf, Esar decided he had to make his own future. His luck turned the day he was assigned to tend to Sir Andro. Esar’s quick obedience, deference and almost painful desire to please stroked the ego of the vain bailiff. Soon, Esar was doing “special” jobs on the side for the knight, including reporting on the comings and goings of the castle.</p>\n<p>Esar is bought and paid for. He has secretly sworn allegiance to Sir Andro in return for the promise of a position in his household. Esar is clever, strong and brave; he has to be to risk life and limb tending warhorses. On many occasions, he has broken up battling stallions, showing a self-confidence that the horses can sense. However, he has yet to kill a man. He would do so if Sir Andro ordered, but his conscience would likely betray him afterwards, as he is a pious (if lapsed) Peonian, not an Agrikan. Esar wears a leather jack and carries a solid but plain dagger, iron-shod staff and ox-hide whip.</p>",
+        "format": 1
+      },
+      "_id": "0KAmdNdMlrM6DKoI",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.0KAmdNdMlrM6DKoI"
+    },
+    {
+      "name": "Friends and Family (5+ nobles)",
+      "type": "text",
+      "text": {
+        "content": "<p>As befits a man of his stature, the Earl usually travels with several friends and family. This includes assorted inlaws, nephews, liegemen and trusted confidants. Given the unusual and exotic nature of The Earl’s Progress, everyone is vying for a position in the retinue and the chance of an exciting visit to the capital and the tournament. Also included in the retinue are favoured members of his court (knights and ladies), agents in his employ (possibly including PCs who have recently completed missions on the Earl’s behalf) and liegemen.</p>\n<p>Sir Andro Valador and his wife Lady Milycia are definite members of the retinue (see @UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.ea3G4LCifXW5g6Mr]{The Earl's Cavalcade}). The other friends and family are up to the GM, and can vary widely. If guests bring their own followers or servants, they will be expected to work for the chamberlain and contribute to the efficient operation of the caravan. These are all possible PC roles.</p>\n<p>If NPCs: Likely members of the retinue are the Earl’s two nephews, Sir Ferin and Sir Celed Ubael. Their father was cousin to the Baron of Uldien. Both are members of the Lady of Paladins stationed at Myshtas Chapterhouse. They would be happy to join their uncle and visit Olokand. Given the Earl’s generous support of the chapterhouse, the Reblena would not object.</p>\n<p>If not filled by PCs, the other three guests can be filled with the Earl’s friends. Sir Tarris Drelican, Lord of Ontes Manor, is one of the Earl’s favourite hunting companions. Sir Tarris will bring his son. He is hoping to find a knight willing to accept the obviously effeminate boy, now fourteen, as his squire. Miris is looking for a knight in shining armour as well, but not for the reasons his father hopes. The third guest will be Sir Julo Baslier, a late middle-aged, rather pot-bellied hedge-knight who has been in the Earl’s employ for two decades. He is known for disappearing for long periods of time. He and the Earl apparently have a close relationship as Sir Declaen has left orders for the knight to be allowed to speak to him at any hour.</p>",
+        "format": 1
+      },
+      "_id": "Pox4LfdFWKwBUe8n",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.Pox4LfdFWKwBUe8n"
+    },
+    {
+      "name": "Household Guards (10 commoners)",
+      "type": "text",
+      "text": {
+        "content": "<p>The protection of the Earl’s person is trusted to a team of veteran warriors. All of these men have proven their loyalty repeatedly and are willing to give up their lives to protect their liege.</p>\n<p>Sir Kobar Drelican commands the eight mounted men-at-arms (medium foot) of the Wyvern Guard. [Minarsas. Guards. Page 22. Military Resources. Page 29.] At least two of these skilled and deadly men-at-arms accompany the Earl at all times. The constable, Sir Morgal, has also assigned two of his rangers [Minarsas. Morgal’s Rangers. Page 29.] to act as scouts and messengers for the retinue. They travel ahead of the cavalcade looking for brigands and ambushes.</p>\n<p>In addition to the Earl, the men are charged with guarding his wife, daughter and personal possessions, which includes a significant amount of silver. The Earl is carrying enough coin to pay for the round trip and the feudal obligations he owes the King. On the return trip, he will also be carrying the feudal obligations paid to him by Kolorn and Baseta.</p>\n<p>GM Option: Depending on recent events (especially any further foiled assassination attempts prior to the departure of the Progress) Sir Morgal may decide to assign additional troops to protect the Earl. These could include longbowmen from the Minarsas garrison or yeomen archers from the Earl’s outlying manors.</p>\n<p>These are all possible PC roles. However, the two members of the Wyvern Guard assigned as personal bodyguards to the Earl should be GM-controlled NPCs. They will have little time or freedom away from guarding Sir Declaen, which limits their usefulness in adventuring. Also, it allows the GM to protect the Earl’s life so as not to derail the entire campaign with his untimely death.</p>",
+        "format": 1
+      },
+      "_id": "2MpaZ3Nhia2fnabU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.2MpaZ3Nhia2fnabU"
+    },
+    {
+      "name": "Lady Ialny (nee Valador), Wife of the Earl",
+      "type": "text",
+      "text": {
+        "content": "<p>The Earl’s wife Lady Ialny, older sister of Lord Kaery Valador of Zutlin Manor, suffered a terrible palsy several years ago, which left her crippled and speechless. Although she is ten years older and mostly bedridden, the Earl’s devotion to her is undiminished. He can often be found sitting with his wife, reading to her for four or five hours past candleset. Harpers compose songs about the Earl’s devotion. [Minarsas. Earl Declaen Caldeth. Page 24.]</p>\n<p>Lady Ialny’s health has worsened recently. The Earl’s personal physician, Sir Petral, fears she is failing and there is little he can do to stop it. This is a prime motivation for the Progress. The Earl hopes that the nuns at Erone Abbey can cure his wife where others have failed. To make her journey as painless as possible, the Earl commissioned a special enclosed wagon for the trip. Inside, it has a custom built bed with a thick feather mattress that is suspended from the ceiling by braided leather straps to minimize jarring. Maid Camissa, Nursemaid Hila and Sir Petral tend to her every need.</p>",
+        "format": 1
+      },
+      "_id": "n9qf3Ef9c9DNE8qE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.n9qf3Ef9c9DNE8qE"
+    },
+    {
+      "name": "Laranian Chaplain (1 noble)",
+      "type": "text",
+      "text": {
+        "content": "<p>The Earl’s regular chaplain is Serolan Margon Irin. He administers both the chapel at Minarsas Castle and the Temple of the Lion of Dolithor in town. Because of his many duties, he cannot come with the Earl on this trip. Therefore, he sent word to the abbeys of Lyntord, Irtivir and Halaina and the chapterhouses of Kelen and Myshtas to nominate suitable priests to accompany the Earl and attend to the retinue’s spiritual needs.</p>\n<p>If a NPC: The Chaplain is Matakea (Priest) Garin Ertus from Halaina Abbey. He is the second son of the Lord Ertus of Narmas Manor in Lynnfana Hundred.</p>",
+        "format": 1
+      },
+      "_id": "Sv7zRwEVIPXmEr8b",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.Sv7zRwEVIPXmEr8b"
+    },
+    {
+      "name": "Maid Camissa Caldeth",
+      "type": "text",
+      "text": {
+        "content": "<p>Camissa is the unmarried youngest daughter of the Earl, a romantic teen who dreams of life beyond the lonely solitude of Minarsas. She loves seeing visitors of any kind, and in the company of strangers her loneliness lifts and a truly sunny disposition emerges. [Minarsas. Maid Camissa Caldeth. Page 27.]</p>\n<p>The Earl’s Progress is the most exciting thing ever to happen to fourteen-year-old Camissa. She has never been outside Vemionshire. The opportunity to visit her elder sister (Lady Thilisa, wife of the Earl of Osel), see Erone Abbey (Camissa fancies herself a Peonian), see her cousins at Zutlin, see the fabled city of Tashal AND go to the Olokand Tournament have her positively jumping for joy.</p>\n<p>Camissa’s kindness to the servants, enthusiasm and intense curiosity about the trip will have her incessantly investigating every tiny detail. She is constantly accompanied by a member of the Wyvern Guard, but loves to give him the slip. She will badger her father to allow her to investigate every aspect at each of their stops. Sir Gorlin may assign PCs he trusts as her minders. She is a clever and determined girl. Protecting her will be a considerable challenge. PCs should never forget she is also the daughter of an Earl.</p>",
+        "format": 1
+      },
+      "_id": "l7HnmhAuc77HB8KU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.l7HnmhAuc77HB8KU"
+    },
+    {
+      "name": "Nursemaid Hila",
+      "type": "text",
+      "text": {
+        "content": "<p>Hila is a long-time member of the Earl’s household and was nurse to all three of Lady Ialny’s children. For the last ten years, she has tended her mistress full-time. She sleeps next to her and takes her meals at her mistress’ bedside. Hila will only leave Lady Ialny when Sir Petral, Maid Camissa or the Earl is there to watch her.</p>",
+        "format": 1
+      },
+      "_id": "AnK7kgrVm9fyhQwe",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.AnK7kgrVm9fyhQwe"
+    },
+    {
+      "name": "Sir Andro Valador, Bailiff of Wynlis Manor and Wife",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Andro Valador is Lady Ialny’s younger brother and the Earl’s long time friend and confidant. Although Sir Andro is somewhat younger than the Earl, they have much in common. Despite his loyalty and family connections, Sir Andro was passed over for the position of Constable of Zoben, in favour of a common born peasant. Privately, the Earl felt that his brother-in-law was simply not up to the job. Since then, a burning hatred, well concealed, has festered in Sir Andro’s soul. When the Enemy (see @UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.Vd4WYNCooMZMxhmS]{The Enemy}) suggested they could work together to “hasten” the Earl’s departure from this world, he eagerly accepted. Sir Andro is aided by one of the ostlers, Esar Keriel (see @UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.0KAmdNdMlrM6DKoI]{Esar Keriel, Apprentice Ostler}), an apprentice of Donar of Harabor and possibly other minions (at the GM’s discretion).</p>\n<p>Sir Andro’s wife, Lady Milycia, is a simple woman with no interest in politics. She knows nothing of her husband’s plans. As the senior noblewoman (after the incapacitated Lady Ialny and teenage Maid Camissa), Lady Milycia has appointed herself mistress of the entourage. An experienced bailiff’s wife, she organizes, directs and bullies the maids. Sir Gorlin is happy to let her; it is one less headache for him.</p>",
+        "format": 1
+      },
+      "_id": "Yb1s6zLdP4db0kvl",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.Yb1s6zLdP4db0kvl"
+    },
+    {
+      "name": "Sir Gorlin Faragar, Chamberlain / Herald",
+      "type": "text",
+      "text": {
+        "content": "<p>While the Earl is the senior person present, it is the chamberlain, Sir Gorlin, who will assign tasks and whose favour the PCs should seek. Sir Gorlin Faragar has held the post of herald for more than 25 years and chamberlain for 16 years. His age is exceeded only by his knowledge of Vemionshire; indeed, the Earl jokes that Sir Gorlin directed the first gods as they put Vemionshire on Kethira’s green face. [Minarsas. Chamberlain. Page 22.]</p>\n<p>Sir Gorlin is responsible for organizing the retinue. He assigns duties and oversees that multitude of tasks necessary for the smooth operation of the Earl’s household on the move. He is the person the PCs will have most contact with. The chamberlain takes his orders directly from the Earl and speaks in his name. Sir Gorlin is in charge of all aspects of the trip except security, which is run by Sir Kobar. The two men have worked together for two years and get along well. The PCs will regret it if they cross the Chamberlain.</p>",
+        "format": 1
+      },
+      "_id": "GgMrYB8MmtYjcYBR",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.GgMrYB8MmtYjcYBR"
+    },
+    {
+      "name": "Sir Kobar Drelican, Captain of the Wyvern Guard",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Kobar Drelican, 28, is the eldest son of the Minarsas bondmaster. He is a talented warrior, both intelligent and strong. He took an oath to defend the Earl and his family to the last drop of his own blood when he accepted the post in 718. The Earl considers him invaluable. [Minarsas. Captain. Page 22.]</p>\n<p>In matters of the Earl’s personal security, and by extension the other family members and retinue, he is in complete command and can only be over-ruled by the Earl personally. With the full backing of a peer of the realm, he has no qualms about putting any other knight or noble in their place. He is still learning the fine art of diplomacy, but he will try and talk before drawing his sword. His men respect and trust him.</p>",
+        "format": 1
+      },
+      "_id": "LO6xBaEkAB00gBG6",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.LO6xBaEkAB00gBG6"
+    },
+    {
+      "name": "Sir Petral Aswain, Personal Physician",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Petral Aswain, a skilled physician, is charged with the personal care of the Earl’s wife. He has created a nutritious potion he calls “Fyvrium” which keeps the Earl’s wife alive. The medicines located in his locked trunk are worth a small fortune. Petral’s cousin Goshal is a noted physician in Tashal, and both men are from the respected Clan Aswain of Athten Manor close to Minarsas. [Minarsas. Physician. Page 22.]</p>\n<p>Lady Ialny is slowly dying and there is little Sir Petral can do except make her more comfortable. He is gravely concerned that the long, rough trip will be the death of her, but the Earl fears that without help, she will die anyway. The Earl has reassured the physician that he knows the risks and will not hold him responsible if she dies.</p>\n<p>GM Option: Sir Petral is a Fyvrian Shek P’var.</p>",
+        "format": 1
+      },
+      "_id": "coIBYrnt9vklRIhD",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.coIBYrnt9vklRIhD"
+    },
+    {
+      "name": "Squire Arlbis Hirnen and Page Mikha Valador",
+      "type": "text",
+      "text": {
+        "content": "<p>As befits his rank, the Earl has two personal attendants. His squire, seventeen-year-old Arlbis Hirnen from Nenda, is smitten with Maid Camissa. His page and nephew, twelve-year-old Mikha (the son of Lord Kaery Valador), is a small sturdy boy with red hair. He suffers from a serious case of hero worship for the champion of the Minarsas joust (who may be a PC). He will slip away from his duties when he can just be around this “brave knight”. He is constantly pestering the knight for stories. Even if he is annoying, he is the nephew of both the Earl and Sir Andro, and guests will do well to remember that. His feelings are easily hurt.</p>\n<p>Young and isolated by virtue of their rank, the boys have bonded like brothers. They are notorious among the household for tormenting the servants with their pranks and practical jokes. When appropriate, the GM may add various hijinks by the boys for comic relief.</p>",
+        "format": 1
+      },
+      "_id": "wPfYqY5QslSA1eit",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.wPfYqY5QslSA1eit"
+    },
+    {
+      "name": "Staff (36+ commoners)",
+      "type": "text",
+      "text": {
+        "content": "<p>Working directly for the Chamberlain is large group of staff. The group can be split into specialists and servants. All positions are possible PC roles.</p>\n<p>The first group are the specialist members of the Earl’s household. This includes the inside specialists (scribe, harpers, fool and cook) and outside specialists (ostlers, huntsman, falconer and teamsters). They consider themselves higher status that the servants, labourers and maids. The nobles don’t distinguish between them.</p>\n<p>There are five inside specialists. The scribe keeps the Earl’s records. He has been brought along to check the records of Zoben, Kolorn and Baseta. There are two harpers and a fool to entertain the Earl (GM discretion: members of the Cloudy Mountain Players [Minarsas. Thespian. Page 9.] ). A second cook assists the Earl’s personal cook prepare meals for the other nobles. Since they can’t bake bread on the trail, they buy it (plus meat and fresh vegetables) from manors along the route.</p>\n<p>There are eleven outside specialists. Normally, Scisco of Lehsa would tend the Earl’s horses. However, he is home with a broken leg. Donar of Harabor has arranged for three ostlers (including Esar Keriel, see @UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.0KAmdNdMlrM6DKoI]{Esar Keriel, Apprentice Ostler}) to tend to the many warhorses and palfreys. The Earl’s favourite huntsman attends him on this Progress. The huntsman cares for the Earl’s hunting dogs and will guide any hunting expeditions (with the assistance of local huntsmen). The Earl also owns several falcons and hawks, normally kept at one of his nearby manors. Since he intends to do a little hawking while on his trip, the falconer was summoned along with the birds. He will tend them throughout the trip. The Earl has two regular teamsters he uses. They drive the Lady Ialny’s coach and the Earl’s personal wagon. Four additional wagons with teamster drivers have been gathered from the Earl’s outlying manors. These men are experienced but have never left Vemionshire before. The six teamsters maintain the wagons and draft horses.</p>\n<p>The second, and largest group, are the general servants. This consists of ten manservants and ten maids. They do the manual labour. The manservants are general labourers and stablehands. The female servants include chambermaids, pantrymaids and washerwomen. They take care of the multitude of domestic tasks. For formal occasions, the male servants are issued matching livery, surcoats bearing the Earl’s coat of arms.</p>\n<p>All of the male servants are armed, most with a short sword and leather jack. Sons of yeomen, four of the men also carry shortbows. These men are not professional men-at-arms, but are equivalent to village militia (HârnMaster stats: OML+1 SB). Sir Kobar has organized them into shifts. At night, when the cavalcade is encamped, they patrol the edge of the camp, especially the horse picket line, to guard against thieves and brigands. For the most part, they are loyal and brave, but not foolhardy. They leave the real fighting to the knights and men-at-arms and concentrate on protecting the wagons.</p>",
+        "format": 1
+      },
+      "_id": "PD8mdYhoKlP7ORF7",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.PD8mdYhoKlP7ORF7"
+    },
+    {
+      "name": "Taral of Plair, Personal Cook / Food Taster",
+      "type": "text",
+      "text": {
+        "content": "<p>The cook, cellarer and food taster, Taral of Plair is an obese man. No matter the temperature, he seems to sweat constantly, repeatedly mopping his brow with his dishcloth. On the verge of a heart attack, he struggles to keep up. Friendly, helpful and polite he is appreciative of any kindness. Considerate PCs will find themselves the sly recipients of sweetmeats and dainties slipped from the Earl’s table. With His Lordship’s permission, the Wyvern Guard get the leftovers from the Earl’s table. Taral makes enough to ensure they eat very well.</p>\n<p>In Minarsas, he is assistant cook under Sweldur of Gron. But for this trip, he works personally for Sir Declaen. A favourite of the Earl, he is also well liked by Sir Gorlin and the other servants. His fine singing voice and endless supply of hilarious and bawdy trail songs make him the centre of attention around the campfire.</p>",
+        "format": 1
+      },
+      "_id": "gUzOKxLDzyimh4Rd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.gUzOKxLDzyimh4Rd"
+    },
+    {
+      "name": "The Earl's Cavalcade",
+      "type": "text",
+      "text": {
+        "content": "<p>As a Peer of the Realm, the Earl of Vemion travels in a style only a handful of other nobles can match. In addition to his family and friends, he brings his personal bodyguards, the Wyvern Guard, and numerous servants. His cavalcade is most of his personal household, except for those who are staying behind to keep his Earldom and castle functioning. According to strict protocol, an Earl is expected to travel with an entourage of between 25-50 followers. However, there are few who are foolish enough to count the retinue of an Earl. A reluctant traveller, Sir Declaen compensates by travelling in lavish style with a large baggage train, loaded with luxuries, and at least sixty followers.</p>\n<h2>Named NPCs</h2>\n<p>There are a number of characters within The Earl’s Progress that should be restricted to NPC roles under GM control. They are high-profile characters whose activities are important to the flow of the adventure. Use of these named NPCs will allow the GM to control the schedule of the cavalcade and give him two key levers over the PCs activities, the carrot (in the form of rewards and favours for jobs well done) and the stick (punishment and dismissal for bad behaviour).</p>\n<ul>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.baX8RHPQuU7lVUhO]{Earl Of Vemion, Sir Declaen Caldeth}</li>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.GgMrYB8MmtYjcYBR]{Sir Gorlin Faragar, Chamberlain / Herald}</li>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.LO6xBaEkAB00gBG6]{Sir Kobar Drelican, Captain of the Wyvern Guard}</li>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.n9qf3Ef9c9DNE8qE]{Lady Ialny (nee Valador), Wife of the Earl}</li>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.AnK7kgrVm9fyhQwe]{Nursemaid Hila}</li>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.l7HnmhAuc77HB8KU]{Maid Camissa Caldeth}</li>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.Yb1s6zLdP4db0kvl]{Sir Andro Valador, Bailiff of Wynlis Manor and Wife}</li>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.wPfYqY5QslSA1eit]{Squire Arlbis Hirnen and Page Mikha Valador}</li>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.gUzOKxLDzyimh4Rd]{Taral of Plair, Personal Cook / Food Taster}</li>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.coIBYrnt9vklRIhD]{Sir Petral Aswain, Personal Physician}</li>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.rxEeVFrRbRcVdt5i]{Ebran of Harabor, Bonded Clothier and His Wife}</li>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.0KAmdNdMlrM6DKoI]{Esar Keriel, Apprentice Ostler}</li>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.i6HWV5byCLQocs3u]{Wyvern the Wolfhound}</li>\n</ul>\n<h2>Possible PC Roles</h2>\n<p>The Earl’s retinue is large and offers many different roles for PCs to play. The following positions have been deliberately structured to allow PCs to fill the positions. For the GM’s convenience, each position also has a name (or names) assigned to the NPC role in event positions are not filled by PCs.</p>\n<p>Being a member of a noble household or a guest of a great magnate is an excellent opportunity for exciting and challenging roleplaying. However, it does come with considerable restraints. The GM should take the time to talk to his players to ensure they understand their position within the hierarchy of the retinue. PCs that work with the GM should find this campaign interesting and rewarding. PCs who fight the feudal order of things will find themselves frustrated and chaff against the considerable restrictions of the constraints of medieval life.</p>\n<ul>\n<li>@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.Sv7zRwEVIPXmEr8b]{Laranian Chaplain (1 noble)}</li>\n<li><span style=\"font-family:var(--font-primary);font-size:var(--font-size-14)\">@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.Pox4LfdFWKwBUe8n]{Friends and Family (5+ nobles)}</span></li>\n<li><span style=\"font-family:var(--font-primary);font-size:var(--font-size-14)\">@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.2MpaZ3Nhia2fnabU]{Household Guards (10 commoners)}</span></li>\n<li><span style=\"font-family:var(--font-primary);font-size:var(--font-size-14)\">@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.xhRIlyQvU3nZI2xw]{Champions (3+ nobles, 1+ commoner)}</span></li>\n<li><span style=\"font-family:var(--font-primary);font-size:var(--font-size-14)\">@UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.PD8mdYhoKlP7ORF7]{Staff (36+ commoners)}</span></li>\n</ul>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "ea3G4LCifXW5g6Mr",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.ea3G4LCifXW5g6Mr"
+    },
+    {
+      "name": "Wyvern the Wolfhound",
+      "type": "text",
+      "text": {
+        "content": "<p>Accompanying the Earl everywhere he goes is his faithful wolfhound, Wyvern. Tall and solid, he is an experienced hunting dog and has tangled with bears and wolves on several occasions. He has no fear of men. Wyvern runs along beside the Earl when he rides, curls up at his feet when he is sitting and lies across the entrance to the Earl’s tent/room when he is sleeping. Wyvern is very protective of his master and will snarl if anyone comes too close. Wyvern rarely barks, but when he does, the guards know something is wrong. He knows the members of the Wyvern Guard and the Earl’s inner circle (including Sir Andro) by scent, sight and sound and will ignore them.</p>\n<h2>Possible PC Roles</h2>\n<p>The Earl’s retinue is large and offers many different roles for PCs to play. The following positions have been deliberately structured to allow PCs to fill the positions. For the GM’s convenience, each position also has a name (or names) assigned to the NPC role in event positions are not filled by PCs.</p>\n<p>Being a member of a noble household or a guest of a great magnate is an excellent opportunity for exciting and challenging roleplaying. However, it does come with considerable restraints. The GM should take the time to talk to his players to ensure they understand their position within the hierarchy of the retinue. PCs that work with the GM should find this campaign interesting and rewarding. PCs who fight the feudal order of things will find themselves frustrated and chaff against the considerable restrictions of the constraints of medieval life.</p>",
+        "format": 1
+      },
+      "_id": "i6HWV5byCLQocs3u",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!icEAzi0jkuYTJGRE.i6HWV5byCLQocs3u"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201858977,
+    "modifiedTime": 1659201858977,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "icEAzi0jkuYTJGRE",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!icEAzi0jkuYTJGRE"
+}

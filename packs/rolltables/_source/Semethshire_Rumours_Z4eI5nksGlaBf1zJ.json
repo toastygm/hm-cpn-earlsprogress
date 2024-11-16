@@ -1,0 +1,227 @@
+{
+  "_id": "Z4eI5nksGlaBf1zJ",
+  "name": "Semethshire Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Semethshire (Outside of Tashal) Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "The Lady of Paladins Chapterhouse at Whyce is recruiting common soldiers. The pay is excellent. (Mix)",
+      "_id": "9iew16u923umxs40",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!Z4eI5nksGlaBf1zJ.9iew16u923umxs40"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "A group of ruthless brigands known as the Black Boot have been attacking travellers along the Shebra–Kiban–Querina road. (True)",
+      "_id": "1hitma0bmrdt9kp4",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!Z4eI5nksGlaBf1zJ.1hitma0bmrdt9kp4"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "Rekela Tyrnal Dariune is planning to visit every abbey in the shire later this summer. (Uncon)",
+      "_id": "z0tdsqyxlsf4zqol",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!Z4eI5nksGlaBf1zJ.z0tdsqyxlsf4zqol"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "The Earl of Balim sent a large convoy of goods from Tashal to Kiban under a heavy escort of his household troops. (Poss)",
+      "_id": "zoe1psj4ttuhrpav",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!Z4eI5nksGlaBf1zJ.zoe1psj4ttuhrpav"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        64
+      ],
+      "text": "There is something under the abbey at Caleme. (Uncon)",
+      "_id": "zt7k1o78xah1fjnz",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!Z4eI5nksGlaBf1zJ.zt7k1o78xah1fjnz"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        74
+      ],
+      "text": "The Baron of Ternua, Sir Tarmas Verdreth, is hiring mercenaries.  He has a strong strategic position on the only bridge crossing the Nephen River south of Naniom. (True)",
+      "_id": "325klboy77bqrf7z",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!Z4eI5nksGlaBf1zJ.325klboy77bqrf7z"
+    },
+    {
+      "type": 0,
+      "range": [
+        75,
+        79
+      ],
+      "text": "Salarl Tobro, a commoner, has produced a document proving he is the acknowledged bastard son of the former Serekela, Sir Kalabin Elendsa (and thus the King’s cousin). (Uncon)",
+      "_id": "wgj2qeybs2diobox",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!Z4eI5nksGlaBf1zJ.wgj2qeybs2diobox"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        89
+      ],
+      "text": "Sheriff Conwan Elendsa is barred from inheriting the throne because of an oath made in his youth. (True)",
+      "_id": "wx5fvifydzgnw1pw",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!Z4eI5nksGlaBf1zJ.wx5fvifydzgnw1pw"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        94
+      ],
+      "text": "Sir Conwan has hired several masons. Construction has begun on a new wall around his seat at Etoss Manor. The foundations are too deep and strong for a manor house wall. My cousin told me he is building a keep without the King’s permission. (False)",
+      "_id": "oli7r5rpvd58041a",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!Z4eI5nksGlaBf1zJ.oli7r5rpvd58041a"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        99
+      ],
+      "text": "The Serekela, Edine Kynn, is planning a survey of church lands.  He is looking for trustworthy men to conduct it safely and accurately. (True)",
+      "_id": "k71qr0wwhcsxwuvg",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!Z4eI5nksGlaBf1zJ.k71qr0wwhcsxwuvg"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        104
+      ],
+      "text": "The Constable of Heru, Sir Bereden Pawade, has been skimming large amounts of money from the fief revenues. He has a secret account with the dwarves. (False)",
+      "_id": "izynx72mz9ettqxq",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!Z4eI5nksGlaBf1zJ.izynx72mz9ettqxq"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        200
+      ],
+      "text": "Sir Conwan Elendsa, the Sheriff and possible heir to the throne, has held several meetings with the Earl of Balim and the Serekela in Caleme. (Poss)",
+      "_id": "auvj2y6rws7asoyf",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!Z4eI5nksGlaBf1zJ.auvj2y6rws7asoyf"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.Z4eI5nksGlaBf1zJ"
+    },
+    "scene-packer": {
+      "hash": "e551789ada6703dc93599adc77a8d8152f9c372b",
+      "sourceId": "RollTable.EA4VwIw3LECfcll0"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849086,
+    "modifiedTime": 1659201849086,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!Z4eI5nksGlaBf1zJ"
+}

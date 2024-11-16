@@ -1,0 +1,259 @@
+{
+  "_id": "WVW6m8SHLTe3CN0i",
+  "name": "Nephshire Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Nephshire (Gardiren) Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "A demon is stalking the Forest of Leth. (Uncon)",
+      "_id": "c7znzs0icq70ecia",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.c7znzs0icq70ecia"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "A Khuzdul from the Royal Court recently visited Bidow; the King is planning a major refurbishment of the keep costing over £400.  Construction will begin shortly. (Poss)",
+      "_id": "pvjfmrume7cyna8h",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.pvjfmrume7cyna8h"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "There is a grain fair in Getha in the early autumn. There is work for mercenaries escorting grain up the Silver Way. (Poss)",
+      "_id": "yfj404c5xb81ujav",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.yfj404c5xb81ujav"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "The Miner’s Guild has discovered several productive silver veins in the Kanir Forest. (Uncon)",
+      "_id": "qioyk1bjk5g9ll0q",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.qioyk1bjk5g9ll0q"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        59
+      ],
+      "text": "Lady Meliara, wife of the Earl, is the sister of the Serekela. She is a powerful and dangerous woman. Cross her at your peril. (True)",
+      "_id": "gycs2n6o5ftee62i",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.gycs2n6o5ftee62i"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        64
+      ],
+      "text": "Ilvirans are well accepted in Nephshire. The Earl protects them from the fanaticism of the Laranians. Many Jarin from Orbaal have settled there. (Mix)",
+      "_id": "6ns8eknrkqefcegk",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.6ns8eknrkqefcegk"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        69
+      ],
+      "text": "The Earl’s half-brother, Akitt Llack, bailiff of Charmic Manor has been illegally cutting trees in the Kirsta Forest. (True)",
+      "_id": "atx05mfdf5adn9ec",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.atx05mfdf5adn9ec"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        79
+      ],
+      "text": "The Baron of Getha has petitioned the Earl of Neph to end the barging of goods from Naniom Bridge to Kiban. (False)",
+      "_id": "yan7hn6tctbaxf99",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.yan7hn6tctbaxf99"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        84
+      ],
+      "text": "Lady Myrtis, wife of the Baron of Getha, wants to marry her daughter Lysella to Sir Urian, son of the Earl of Vemion. (True)",
+      "_id": "p52brnyvewrdo0hb",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.p52brnyvewrdo0hb"
+    },
+    {
+      "type": 0,
+      "range": [
+        85,
+        89
+      ],
+      "text": "Sir Hemison Curo is the most refined man in Kaldor. (Poss)",
+      "_id": "8mp5jkhygk30b1d7",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.8mp5jkhygk30b1d7"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        94
+      ],
+      "text": "Trouble is brewing between the Baron of Getha, Earl of Balim and guilds over the status and control of Naniom Bridge. (Uncon)",
+      "_id": "h2u2z6phw29mayya",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.h2u2z6phw29mayya"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        99
+      ],
+      "text": "Sir Hemison Curo is a degenerate swine. (Poss)",
+      "_id": "luznv3md7bljgawy",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.luznv3md7bljgawy"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        104
+      ],
+      "text": "Despite having a wife and eleven children, the Earl of Neph, Sir Hemison Curo, has a fondness for young stable boys. (False)",
+      "_id": "p6zwidcuj7siq9k7",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.p6zwidcuj7siq9k7"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        200
+      ],
+      "text": "There is an extensive Khuzdul complex under Gardiren Castle that has never been explored. (Uncon)",
+      "_id": "s0rzvlx0pr8kvs1m",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!WVW6m8SHLTe3CN0i.s0rzvlx0pr8kvs1m"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.WVW6m8SHLTe3CN0i"
+    },
+    "scene-packer": {
+      "hash": "c3093919f6fd8be47c52b8b6514bc4d184a5dc7c",
+      "sourceId": "RollTable.lrIKc24i2XtBayAF"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849079,
+    "modifiedTime": 1659201849079,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!WVW6m8SHLTe3CN0i"
+}

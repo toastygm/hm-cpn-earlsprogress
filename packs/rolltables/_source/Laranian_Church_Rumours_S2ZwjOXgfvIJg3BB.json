@@ -1,0 +1,275 @@
+{
+  "_id": "S2ZwjOXgfvIJg3BB",
+  "name": "Laranian Church Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Laranian Church Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "The Serekela has a dread disease. (False)",
+      "_id": "s3l146g04k5wgms8",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.s3l146g04k5wgms8"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "The Lady of Paladins Chapterhouse at Whyce is recruiting common soldiers. The pay is excellent. (Mix)",
+      "_id": "pnomzga1lhmz9xwf",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.pnomzga1lhmz9xwf"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "The church plans to create a new diocese in Vemionshire and elevate Abbot Ardin to Rekela. (False)",
+      "_id": "43zvjc4o42zbufu4",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.43zvjc4o42zbufu4"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "The Rekela of Brynd is on death’s door. The Serekela is quietly drawing up a list of possible successors. Serolan Sheryd Quathis of Brynd is the front-runner. (True)",
+      "_id": "7jlmpcfycnx8vj55",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.7jlmpcfycnx8vj55"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        59
+      ],
+      "text": "The Rekela of Kephrus, Tyrnal Dariune, is a cousin of the Earl of Balim and is being groomed as the Serekela’s replacement. There have been three assassination attempts on his life. Sir Troda Dariune has offered £100 for the capture of the assassins. (True)",
+      "_id": "rejfequtm6jkouk4",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.rejfequtm6jkouk4"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        64
+      ],
+      "text": "One of Maldan Harabor’s agents is responsible for the attempted assassinations of Rekela Tyrnal Dariune. (Poss)",
+      "_id": "8s1c954qty9ykpgh",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.8s1c954qty9ykpgh"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        69
+      ],
+      "text": "Rekela Tyrnal Dariune is planning to visit every abbey in Semethshire later this summer. (Uncon)",
+      "_id": "afcjk42gino7u6er",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.afcjk42gino7u6er"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        74
+      ],
+      "text": "The Reblena of Jenkald, Sir Luisan Kelic, has openly advocated splitting off the Kaldoric branch of the Lady of Paladins because of the Solori Crusade. (True)",
+      "_id": "t257ip6i5icn310e",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.t257ip6i5icn310e"
+    },
+    {
+      "type": 0,
+      "range": [
+        75,
+        79
+      ],
+      "text": "The Earl of Balim has given substantial funds to the Order of the Lady of Paladins in Jenkald. (True)",
+      "_id": "ur7usfs562g68evm",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.ur7usfs562g68evm"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        84
+      ],
+      "text": "The Rekela of Pagostra’s bodyguard were seen riding toward Qualdris at great speed with a body slung over a horse. (Uncon)",
+      "_id": "5uqljjrcc0gjayh0",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.5uqljjrcc0gjayh0"
+    },
+    {
+      "type": 0,
+      "range": [
+        85,
+        89
+      ],
+      "text": "The Reblena of Nebulan requested the Serekela petition the King to allow the Lady of Paladins to build a keep at Oselbridge. (Poss)",
+      "_id": "4b8gnrmcanvt0jwx",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.4b8gnrmcanvt0jwx"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        94
+      ],
+      "text": "As with the Solori, the Lady of Paladins are planning a crusade against the Pagaelin. (False)",
+      "_id": "jddtnlseaka8z5y9",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.jddtnlseaka8z5y9"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        99
+      ],
+      "text": "The King has given his permission for the Lady of Paladins to build a keep at Oselbridge. (False)",
+      "_id": "9q6cni454ksgujzf",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.9q6cni454ksgujzf"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        104
+      ],
+      "text": "The Serekela, Edine Kynn, is planning a survey of church lands.  He is looking for trustworthy men to conduct it safely and accurately. (True)",
+      "_id": "4auol4dxejydlsjc",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.4auol4dxejydlsjc"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        200
+      ],
+      "text": "If the Sheriff becomes King, he plans to replace Serekela Edine Kynn, with the Rekela of Abriel, Ilor Hadan. (Uncon)",
+      "_id": "kpfblf506puyzdu7",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!S2ZwjOXgfvIJg3BB.kpfblf506puyzdu7"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.S2ZwjOXgfvIJg3BB"
+    },
+    "scene-packer": {
+      "hash": "9519dc759e93d9d3ed21b554d3f608122e0097d0",
+      "sourceId": "RollTable.j2GEuIP0vXrVr0fm"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849077,
+    "modifiedTime": 1659201849077,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!S2ZwjOXgfvIJg3BB"
+}

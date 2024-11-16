@@ -1,0 +1,227 @@
+{
+  "_id": "4M1Iwkp8ZAIjdqaE",
+  "name": "Balimshire Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Balimshire (Kiban) Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "The fens southeast of the Nephen are full of runaway serfs. (True)",
+      "_id": "ggmrxayrr3fvhd1j",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!4M1Iwkp8ZAIjdqaE.ggmrxayrr3fvhd1j"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "The wealthy and influential Baron Kisan Tesla is looking for a suitable husband for one of his daughters. (Poss)",
+      "_id": "kvtczyj1rhfr0mam",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!4M1Iwkp8ZAIjdqaE.kvtczyj1rhfr0mam"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "The Rekela of Brynd is on death’s door. The Serekela is quietly drawing up a list of possible successors. Serolan Sheryd Quathis of Brynd is the front-runner. (True)",
+      "_id": "t69dptx5uvgjpg04",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!4M1Iwkp8ZAIjdqaE.t69dptx5uvgjpg04"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "The Rekela of Kephrus, Tyrnal Dariune, is a cousin of the Earl of Balim and is being groomed as the Serekela’s replacement. There have been three assassination attempts on his life. Sir Troda Dariune has offered £100 for the capture of the assassins. (True)",
+      "_id": "0i7i9lh14jfgdvbq",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!4M1Iwkp8ZAIjdqaE.0i7i9lh14jfgdvbq"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        59
+      ],
+      "text": "The Reblena of Jenkald, Sir Luisan Kelic, has openly advocated splitting off the Kaldoric branch of the Lady of Paladins because of the Solori Crusade. (True)",
+      "_id": "8r740a3aqhy2z21e",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!4M1Iwkp8ZAIjdqaE.8r740a3aqhy2z21e"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        69
+      ],
+      "text": "The brother of the Baron of Uldien, Sir Belsin Ubael, is planning an expedition to Anzeloria. He is currently seeking sturdy and welltravelled companions to join him. (True)",
+      "_id": "huf2zci8pwv8xaw4",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!4M1Iwkp8ZAIjdqaE.huf2zci8pwv8xaw4"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        79
+      ],
+      "text": "Constable Dagald Jendral of Fisen is the foremost authority on courtly arts and is consulted on customs of chivalry. (True)",
+      "_id": "fdfrp6glmr7fhr4q",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!4M1Iwkp8ZAIjdqaE.fdfrp6glmr7fhr4q"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        89
+      ],
+      "text": "The Earl of Balim has given substantial funds to the Order of the Lady of Paladins in Jenkald. (True)",
+      "_id": "ro1ppgfte6foh7vw",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!4M1Iwkp8ZAIjdqaE.ro1ppgfte6foh7vw"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        94
+      ],
+      "text": "The wife of the Sheriff, Lady Mesela, is a witch. (Mix)",
+      "_id": "7jbu303it0oyispp",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!4M1Iwkp8ZAIjdqaE.7jbu303it0oyispp"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        99
+      ],
+      "text": "The Miner’s Guild has discovered gold in the hills north of Kiban, but is keeping it secret. (False)",
+      "_id": "106du5eo2o8qo0hf",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!4M1Iwkp8ZAIjdqaE.106du5eo2o8qo0hf"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        104
+      ],
+      "text": "The Dariunes came to power under the Usurper; the rightful Earl of Balim is living in obscurity. (Poss)",
+      "_id": "mtc9sffjnb1gatg8",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!4M1Iwkp8ZAIjdqaE.mtc9sffjnb1gatg8"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        200
+      ],
+      "text": "Sir Troda has a claim to the throne, but has a confidential understanding with King Miginath to leave the choice of heir to the succession council. (True)",
+      "_id": "1o4smjihbbgn1inn",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!4M1Iwkp8ZAIjdqaE.1o4smjihbbgn1inn"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.4M1Iwkp8ZAIjdqaE"
+    },
+    "scene-packer": {
+      "hash": "aeb1d24fc830b7d6841dc5cce1e3be780ccf51b6",
+      "sourceId": "RollTable.erAUSUpb6S0NvYcz"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849070,
+    "modifiedTime": 1659201849070,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!4M1Iwkp8ZAIjdqaE"
+}

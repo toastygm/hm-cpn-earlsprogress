@@ -1,0 +1,350 @@
+{
+  "name": "Background",
+  "pages": [
+    {
+      "name": "Background",
+      "type": "text",
+      "text": {
+        "content": "<p>The Earl of Vemion is something of a recluse. He lives in remote Vemionshire with his invalid wife, rarely stirring. His schedule is simple and predictable. He hosts the Minarsas Wool Fair in the spring (Kelen 5-9), visits his holdings in the shire over the summer, and then travels to Kolorn every autumn where he meets the King and delivers his annual feudal payment before joining the King on his barge on the trip to Jedes. This has been his normal routine for the last eleven years. Now he has decided to attend the tournament in Olokand, a shock to his household and those around him. See the Minarsas [Minarsas. (q.v.)] article for a more detailed description of the Earl, his family and the politics of Vemionshire.</p>\n<p>Everyone is curious about this planned progress. The Earl’s family and friends are worried about this sudden change in character. His liegemen are worried the Earl has plans to replace one of his constables or the Baron of Kolorn. The Constable of Baseta is surprised that his distant lord has decided to come all the way across the kingdom to see him, why? The other powerful nobles are concerned; why has he decided to stir from his seat now? Why has he asked for a private audience with the King? What is he planning? How could this affect them? Everyone wants to know.</p>\n<p>Despite his quiet demeanour and isolation, the Earl has enemies. Recently, a Navehan assassin tried to kill him. No one knows who sent him or why, but it is safe to say they will try again. Perhaps this is the time, while he is on the road and away from his secure fortress.</p>\n<p>The trip to Baseta Keep and back will take just over two months and include numerous stops for the Earl to visit his eldest daughter, vassals, friends and relatives. It also allows him to spend time in Tashal and meet with the King at Olokand.</p>\n<ul>\n<li>@UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.OWVBjBcfLuW0phWK]{Cover Stories}</li>\n<li>@UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.9TwsdQTENc3pakzh]{The Truth}</li>\n<li>@UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.POOXCRvQlX6MzOnF]{The Kaldoric Succession Crisis}</li>\n<li>@UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.0J5RfWN57O0csmeJ]{Minarsas in the Earl’s Absence}</li>\n<li>@UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.yy4T4q6wDAbLddV3]{Motivation and Reward}</li>\n<li>@UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.Vd4WYNCooMZMxhmS]{The Enemy}</li>\n<li>@UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.Wz1SyxqSIh7SGLsY]{Hospitality}</li>\n<li>@UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.IjBXfpvwSIRob0Vp]{Lady Ialny's Wagon}</li>\n<li>@UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.yrG6yIZDcYv4sqlb]{Social Status}</li>\n<li>@UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.paL77rUNfkm4vnLK]{Position within the Cavalcade}</li>\n</ul>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "tt9qVXEpznIIozww",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1jJR0PqDGXtjve3L.tt9qVXEpznIIozww"
+    },
+    {
+      "name": "Cover Stories",
+      "type": "text",
+      "text": {
+        "content": "<p>Never one to reveal his intentions, the Earl has intimated several reasons for his progress: to inspect holdings at Zoben, Kolorn and especially Baseta (which he seldom visits); to attend the tournament with his Vemionshire champions; to visit his daughter in Qualdris; and to attend the Summer Fair in Tashal and negotiate some long-term contracts for fleeces.</p>\n<p>Since the Earl’s planned progress was announced during the Minarsas Wool Fair, news of it spread through the shire like wildfire. It is the talk of the entire shire, both noble and common. The tournament planned for 25-30 Kelen is the “must attend” social event of the year. Knights have been practicing for the last three weeks.</p>",
+        "format": 1
+      },
+      "_id": "OWVBjBcfLuW0phWK",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1jJR0PqDGXtjve3L.OWVBjBcfLuW0phWK"
+    },
+    {
+      "name": "Hospitality",
+      "type": "text",
+      "text": {
+        "content": "<p>Hospitality between nobles is a matter of honour and duty. No self-respecting lord or bailiff would allow a Peer of the Realm to sleep in a pavilion or stay at an inn when their manor house was available. It would be unheard of. Lords bend over backwards for their honoured guests, including vacating their own rooms for the Earl’s use and providing fine accommodations for his entourage. Most nights, the Earl will be accommodated at a manor rather than camping in the “rough”.</p>\n<p>The knowledge of a person’s seniority within the kingdom is vital. The most senior person will get the best of everything. There is no concept of first-come-first-served. If the Earl arrived late, after all of the rooms and beds had been allocated, other guests would be displaced to ensure he had the best of everything, no matter the hour or the inconvenience.</p>\n<p>However, it is just good courtesy to advise your hosts of your impending arrival to ensure they can prepare. A courier or messenger rides several hours ahead of the retinue. He informs the destination of the rank and number of guests en route so preparations can be made. Usually a large meal will be prepared.</p>\n<p>Guests are not expected to pay for anything. Meals and accommodation are provided without expectation of compensation. The food the retinue eats and the grain and fodder the retinue’s stock consumes can be a significant burden on any fief they visit. In recognition of this, it is also good courtesy for a guest to present a gift to their host on departure. This can include clothes, jewelry, horses and other gifts in kind. It will almost never include silver coin. This would demean the host and imply they were nothing more than a common innkeeper.</p>\n<p>One of the side benefits of providing hospitality is a return invitation. A polite guest will invite their host to visit them at their fief. An invitation to Minarsas Castle and dinner with the Earl are worth substantial prestige and bragging rights. For a knight with only one manor, the opportunity to attend the Earl’s court is one to be treasured. A large progress such as the Earl’s will spawn many smaller knights’ progress’ to Minarsas.</p>\n<p>The route of The Earl’s Progress is quite deliberate. Small manor houses lack the space and facilities to host such a large entourage and the financial impact can be devastating. Consequently, the chamberlain has chosen to make most stops at keeps, castles and abbeys. They are well able to accommodate the sixty-plus guests of the Earl’s party. When a stop over at a manor is unavoidable, the first choice is one of the Earl’s own manors. If nothing is available, then the cavalcade will impose on the manor of another lord. Sir Declaen is scrupulous about giving substantial gifts in thanks for the hospitality. Not all nobles are so considerate. Because of his wealth and reputation for largess, the Earl of Vemion will be welcomed with open arms whereever he chooses to stop.</p>",
+        "format": 1
+      },
+      "_id": "Wz1SyxqSIh7SGLsY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1jJR0PqDGXtjve3L.Wz1SyxqSIh7SGLsY"
+    },
+    {
+      "name": "Lady Ialny's Wagon Image",
+      "src": "modules/hm-cpn-earlsprogress/assets/images/lady-ialnys-wagon.webp",
+      "type": "image",
+      "image": {
+        "caption": "Lady Ialny's Wagon"
+      },
+      "_id": "YbwesnfytmycGyJf",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1jJR0PqDGXtjve3L.YbwesnfytmycGyJf"
+    },
+    {
+      "name": "Lady Ialny's Wagon",
+      "src": "modules/hm-cpn-earlsprogress/assets/images/lady-ialnys-wagon.webp",
+      "type": "text",
+      "image": {
+        "caption": "Lady Ialny's Wagon"
+      },
+      "_id": "IjBXfpvwSIRob0Vp",
+      "text": {
+        "content": "<p><img style=\"width:100%\" src=\"modules/hm-cpn-earlsprogress/assets/images/lady-ialnys-wagon.webp\" /></p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1jJR0PqDGXtjve3L.IjBXfpvwSIRob0Vp"
+    },
+    {
+      "name": "Minarsas in the Earl’s Absence",
+      "type": "text",
+      "text": {
+        "content": "<p>The Earl plans to be gone for about two months, in his absence he will be forced (much to his displeasure) to delegate control of his Earldom. He leaves his son, Sir Urian, in charge with considerable trepidation. To guide him, he leaves his trusted constable, Sir Morgal and the head of the household, Lady Skona Valador (the Earl’s sister-in-law and his son’s aunt). Sir Urian is under strict instructions to accept their counsel. Privately, the Earl hopes that his is just the kind of responsibility Sir Urian needs to grow up and stop wasting his life hunting and carousing. Sir Urian is well aware of his father’s misgivings and has vowed to heed his minders’ advice. How long this promise will last has yet to be seen.</p>",
+        "format": 1
+      },
+      "_id": "0J5RfWN57O0csmeJ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 362500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1jJR0PqDGXtjve3L.0J5RfWN57O0csmeJ"
+    },
+    {
+      "name": "Motivation and Reward",
+      "type": "text",
+      "text": {
+        "content": "<p>One of the first questions often asked by players is “what’s in it for me?” It is a valid question. What is it about this adventure that should compel them to join the Earl’s entourage? Aside from the obvious concept of adventuring for adventuring’s sake, there are several compelling reasons to participate in The Earl’s Progress.</p>\n<p>The Earl of Vemion is a powerful man. Inclusion in his retinue is a sign of great favour and can lead to many opportunities: financial, political and personal. The Earl and his followers will be travelling across the realm in a large, well-protected wagon train, giving the PCs a rare opportunity to see the kingdom from one end to another and interact at its highest levels. Their time in Tashal will give them a great opportunity to take advantage of the Summer Fair, while the trip to Olokand will allow them a chance to participate in the greatest tournament on Hârn. In essence, being the member of a great noble household will open doors frequently closed to lowly, disreputable adventurers. The potential for many exciting spin-off adventures is tremendous. Fame and fortune await!</p>\n<p>As members of a noble’s retinue, the GM will be able to ignore the costs of day-to-day life and concentrate on adventuring. If the Earl chooses to use the PCs as agents (and they are successful), then they can expect substantial rewards, including silver, weapons, armour, permanent positions in his household and even (in exceptional circumstances) a position as a bailiff on one of his manors. If all goes well, Sir Andro Valador’s position as bailiff of Wynlis Manor will likely be vacant by the end of the adventure, a lucrative prize indeed.</p>\n<p>The Earl’s Progress is more than a simple one-night dungeon crawl. It is a campaign. A vast series of interconnected events and adventures which can occupy years of gaming or just a few weeks, depending on how it is played. For the players, this allows them to completely immerse their characters in the world that is Kaldor on Hârn. There are excellent opportunities for character development, skill improvement and gaining valuable contacts. For GMs, it provides an established framework with villains, motivations, locations and adventures already mapped out, ready and waiting to be played.</p>",
+        "format": 1
+      },
+      "_id": "yy4T4q6wDAbLddV3",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 375000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1jJR0PqDGXtjve3L.yy4T4q6wDAbLddV3"
+    },
+    {
+      "name": "Position within the Cavalcade",
+      "type": "text",
+      "text": {
+        "content": "<p>As indicated in @UUID[JournalEntry.1jJR0PqDGXtjve3L.JournalEntryPage.yrG6yIZDcYv4sqlb]{Social Status}, a person’s physical location within the entourage is very important. Other clues (such as: whether they are walking, riding or being carried in a wagon; what type of clothes they wear; and what their body language and their speech patterns say) combine to communicate considerable information to anyone they meet, long before they are introduced. Thus, sending the wrong signals, such as wearing too fine a clothes, riding when you should be walking or acting noble when you are common can be extremely confusing and will not be tolerated.</p>\n<p>Depending on the outcome of the @UUID[JournalEntry.QK1ZfRBCXd5Uc13L.JournalEntryPage.uJScEbqcDg3c0sTY]{Pregame}, there may be additional members of the entourage not shown on the Cavalcade Enroute diagram (see @UUID[JournalEntry.IkPLc6H5gNQYTQua.JournalEntryPage.244Pdf2dcAzO3317]{Cavalcade Enroute}). In general, they will fall into one of the following five categories: Earl’s inner circle/guests, lesser nobles/retainers, senior commoners/guildsmen, soldiers or staff/servants. Before the entourage departs, the GM (in the role of the chamberlain) should assign them positions within the travelling entourage, as appropriate. If the PCs are senior enough, this could be a point of negotiation (see @UUID[JournalEntry.QK1ZfRBCXd5Uc13L.JournalEntryPage.FHfYN6pMIm6AMUCZ#place-means-status-(noble)]{Place Means Status (Noble)}).</p>\n<p>A similar exercise will have to be undertaken to assign accommodations. If noble, room will be made for the PCs in one of the pavilions or they will get some sort of room when visiting another noble. If they are a senior common retainer or soldier, they can sleep in one of the wagons or on the floor of their host’s hall. If they are servants, they will have to scrounge whatever they can, perhaps a spot under a wagon or in a barn.</p>\n<p>Since status is variable, the GM should allow the PCs to occasionally “renegotiate” their position as the adventure progresses (if they do well). He should equally feel free to “demote” them when they screw up.</p>\n<p>The chain of command within the entourage is relatively fixed, stemming from the Earl’s ultimate authority, down through the chamberlain to the guests and servants. However, there will be occasions where the Earl, chamberlain and captain are absent. Most of the time, the chamberlain will appoint a deputy caravan master in his stead. This will be based mostly on rank and seniority. If the senior person is unable to fulfil the position or has screwed it up badly on previous occasions, the chamberlain may pass over them to select a more competent leader (perhaps a PC). The deputy caravan leader will then have to tread carefully when dealing with the passed over individual.</p>\n<p>In the absence of nobles (members of the household or guests), the next most senior in command will be a member of the Earl’s permanent household. Ebran of Harabor is senior and well trusted. Members of the Wyvern Guard are next. The Earl’s huntsman, falconer and scribe follow them. However, if for some reason (incompetence or panic) the senior individual present fails to act in an urgent situation, there is an opportunity for a strong leader to step forward and assume command. In a crisis, the other servants may look to PCs who are skilled, experienced and trusted by the Earl or chamberlain. Success will be well rewarded; failure equally well punished.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "paL77rUNfkm4vnLK",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 475000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1jJR0PqDGXtjve3L.paL77rUNfkm4vnLK"
+    },
+    {
+      "name": "Social Status",
+      "type": "text",
+      "text": {
+        "content": "<p>There is a strict hierarchy within the retinue that shall be respected at all times. The phrase “familiarity breeds contempt” is taken very seriously on Hârn. Those who presume to act above their station or fail to show proper respect to their “betters” will be severely punished. In no particular order, punishments include: scolding, striking (slap, cuff, kick, punch, riding crop, etc.), additional duties, pillory, fine, flogging, dismissal, removal of the tongue (considered extreme, it is rare outside of Rethem) and banishment (or combinations and variations thereof).</p>\n<p>An indication of a person’s position within the hierarchy is their proximity to the Earl, so promotion (or demotion) within the pecking order quickly becomes obvious. This trickles down to whether people ride or walk, where they sit and sleep, when and how much food they receive and what tasks they are assigned. Because this is not fixed, it can change dramatically over time. The Earl’s personal staff has regular access to his presence in the conduct of their duties, which is a significant added advantage.</p>\n<p>The chamberlain is the overall enforcer of the noble/common hierarchy. However, all nobles and superiors are expected to (and will) act immediately to correct an overly familiar or cheeky subordinate. A cuff upside the head is enough to raise a good bruise or welt (a blunt strike in HM terms) and serves as a nice reminder and warning to others. Within the commoner ranks, enforcement of the hierarchy is governed “unofficially” and is more often based on an individual’s power, muscle, or ability to intimidate rather than their rank.</p>\n<p>The Earl will be referred to as My Lord, Your Lordship or (at the very minimum) Sir. Equals or superiors may refer to him in the third person simply as Vemion (short form for “Earl of”). All knights and their spouses will be referred to as Sir or Lady (or Dame, if a female knight). Minor nobles (under 21) are referred to as Maid or Master (including Camissa and Mikha). The chaplain is referred to as Matakea; he is noble and has more latitude than most in dealing with his superiors (with the exception of the Earl). He may act familiar to inferiors; they may not reciprocate. Nobles address commoners by their first names. Lower ranking commoners address guildsmen by their title and name (master, journeyman, apprentice).</p>\n<p>Time and place also matter in affairs of respect and forms of address. It may be fine for a childhood friend to be more familiar with the Earl in the privacy of his chambers, but in a public place he becomes just 'one of the crowd' as far as treatment goes. Friends of nobility realise and work with this, staying humble and respectful in company but telling them what they really think in private, making for some interesting intrigues.</p>\n<p>The remaining members of the entourage are freemen. The nobles lump them together, but even within their number there is a clear ranking. A guildsmen’s status is based on their position within the household, their rank within their guild and their guild’s prestige (variable). Servants are the lowest rank of freemen; although, by virtue of being liveried members of an Earl’s household, they do have some seniority and prestige that sets them above common followers of lesser nobles.</p>\n<p>The captain and men-at-arms are an exception to the normal rules. They are responsible for the Earl’s life. Because of this, they have special status in situations affecting his security, placing them above all, except for the Earl and chamberlain. They work in close quarters with the nobility and have earned their positions by virtue of their ability to walk a delicate line. Senior men-at-arms are referred to as Arkalin and Melbrin.</p>\n<h2>Precedence</h2>\n<h3>Nobility</h3>\n<ol>\n<li>The Earl of Vemion</li>\n<li>Immediate family (Lady Ialny and Maid Camissa)</li>\n<li>Chamberlain (Sir Gorlin),</li>\n<li>Extended family (nephews, Sir Andro and Lady Milycia)</li>\n<li>Noble guests (champions, knights and ladies)</li>\n<li>Senior noble retainers (captain and physician)</li>\n<li>Laranian Chaplain</li>\n<li>Junior noble retainers (squire and page)</li>\n</ol>\n<h3>Freemen</h3>\n<ol>\n<li>Earl’s personal staff (clothier, cook, nurse)</li>\n<li>Bonded master guildsmen (scribe, ostler, etc.)</li>\n<li>Master guildsmen guests (negotiators)</li>\n<li>Household guards (Wyvern Guard and Morgal’s Rangers)</li>\n<li>Common liegemen guests (yeoman champion)</li>\n<li>Senior common retainers (huntsman, falconer, etc.)</li>\n<li>Junior guildsmen (journeymen and apprentices)</li>\n<li>General servants</li>\n</ol>",
+        "format": 1
+      },
+      "_id": "yrG6yIZDcYv4sqlb",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 450000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1jJR0PqDGXtjve3L.yrG6yIZDcYv4sqlb"
+    },
+    {
+      "name": "The Enemy",
+      "type": "text",
+      "text": {
+        "content": "<p>In 718TR, someone sent a Navehan cleric to assassinate the Earl of Vemion. He failed, was captured and died under torture before revealing who sent him. The Earl ordered security tightened and there have been no further attempts on his life. After two years, his wife’s deteriorating health and the looming Succession Crisis have forced him to undertake this Progress. In doing so, he must leave the safety and security of Minarsas Castle and web of spies and informants that have protected him these last couple of years. Once out of Vemionshire, he will be exposed. This is the opportunity his enemy has been waiting for. If they are to kill the Earl, they must do it during this trip while he is relatively unprotected.</p>\n<p>To give GMs more options and flexibility (and just in case your players have read the module…bad, bad players, shame on you!) we have included several possible enemies for you to choose from. You may use the villain that best suits your campaign. Or, if you prefer, feel free to introduce your own.</p>\n<p>The constant in The Earl’s Progress will be the <strong>Bailiff of Wynlis Manor, Sir Andro Valador</strong> (see @UUID[JournalEntry.icEAzi0jkuYTJGRE.JournalEntryPage.Yb1s6zLdP4db0kvl]{Sir Andro Valador, Bailiff of Wynlis Manor and Wife}), the “wronged” brother-in-law of the Earl. He is a blueblooded noble of impeccable lineage and the long time friend of Sir Declaen. Sir Andro was slighted and dishonoured when, in 717TR, his supposed “friend” and patron chose a lowborn commoner to become Constable of Zoben Keep over him. Instead of giving this lucrative, powerful and prestigious appointment to his most loyal friend and brother of his wife, the Earl tossed it away like a bone to a jumped-up yeoman pig. Sir Andro has been left to rot as bailiff of a “pitiful” 3000-acre manor in south-eastern Vemionshire. He kept his tongue, feigning loyalty and shrugging off his ambitions, claiming the post would have been too much of a bother anyway. Secretly, he nurses a deep, burning hatred for the Earl and waits for the opportunity to reap his revenge.</p>\n<p>The Earl of Vemion routinely investigates those who work for him and dismisses any he suspects of disloyalty. [Minarsas. Earl Declaen Caldeth.] This has made it extremely difficult for the enemy to kill him. One night, after many flagons of ale, Sir Andro’s façade slipped and he railed against the injustice of it all and revealed his carefully concealed hatred for the Earl. This was just opening the enemy was searching for. Sir Andro was above reproach; no one would ever suspect him, especially not the Earl. The next day, the enemy made a carefully crafted pitch to the bailiff, appealing to his wounded ego and bruised honour. If they worked together, they could rid the world of Sir Declaen and elevate his son in his place. Surely, Sir Urian would cast out this upstart commoner and install his loyal and loving uncle in his place. It was agreed; Sir Andro will help kill the Earl.</p>\n<section class=\"highlight\">\n<p>GM Note</p>\n<p>None of the back-story or potential enemies is supported by official Hârnic references. It is entirely made up by the author. It may or may not be true. Use it or discard it as you see fit.</p>\n</section>\n<h3>Option 1 – Lady Thilisa Meleken</h3>\n<p>Lady Thilisa wants to kill her father because of her mother. Lady Ialny’s palsy is not because of an illness but because of the Earl’s actions. Lady Ialny was a strong woman and often argued with her husband over his decisions. One night, during a particularly vicious argument, Sir Declaen struck her. She fell and hit her head on the stone fireplace. The head injury has never healed, leaving her permanently trapped in her own useless body. On hearing of her mother’s “sickness” Lady Thilisa rushed to Minarsas where her brother told her what had happened.</p>\n<p>The Earl is very remorseful for his actions. He is not normally the type to strike women. It was done in the heat of the moment. Since then, he has spared no expense to save her life. He dotes on her, in part because of the extreme guilt he suffers. Many nights the thoughts of his actions will not allow him to sleep. Lady Thilisa has never forgiven her father. She is polite and civil to him in public, but in private she is angry and vengeful. She has been plotting her mother’s revenge for many years.</p>\n<p>Thilisa plans to assassinate her father and put her brother, Sir Urian, in his place. He is a pliable fool who trusts her. He already looks to her for leadership and will even more when his father is gone. She will control him like a puppet. In fact, she has a close friend whom Urian is sure to fall for (tall, blonde, with big breasts and smarter than him, just his type). Sir Urian knows nothing of the plot and would be horrified at the thought.</p>\n<p>GM Option: Lady Thilisa may have already sent assassins to ensure the Earl of Osel, Sir Sedris Meleken, never returns from his search for the murderer. This will leave Thilisa in control of both Osel and Vemion and potential Kingmaker. She favours Lady Cheselyne the Elder (another slighted woman).</p>\n<h3>Option 2 – Sheriff of Vemion</h3>\n<p>As the King’s youngest unacknowledged bastard, Sir Tulath Kaphin has a claim to the throne. Conscious of his weak position, he carefully conceals his burning ambition to be king. He has few supporters beyond his wife (daughter of the Baron of Ternua) and his mother (the powerful and mysterious Dame Erila Kaphin, King’s consort and Lord Privy Seal). The Earl of Vemion has taken pains to bring this contender under his influence, but there is a growing rivalry between these two men. The sheriff enjoys hunting with the Earl’s son, Sir Urian Caldeth. [Minarsas. Current Political Situation. Page 3.]</p>\n<p>Sir Tulath wanted a powerful appointment to match those of his bastard half-brothers: Sir Maldan Harabor (Constable of Olokand Castle and Sheriff of Meselynshire) and Sir Koris Harabor (Marshal of the Guard). Considered something of a wastrel, the King constantly delayed, claiming he was “too young.” Somewhat reformed since his recent marriage to Lady Elena Verdreth, the King relented and in 718TR made him Sheriff of the distant shire of Vemion in hopes Larani would grant him some maturity. So far, the King’s hopes have not been rewarded. Charming and optimistic, Sir Tulath lives extravagantly and is deep in debt.</p>\n<p>Far from capital or centres of influence, Sir Tulath cultivates Clan Caldeth in hopes building a power base in the south. His attempts to woo the Earl failed; Sir Declaen proved too independent and politically savvy. Undeterred, the Sheriff turned his attentions towards the Earl’s heir, Sir Urian. Young, politically inexperienced and naïve, he proved more receptive to Tulath’s charms. The sheriff plans to remove the elder Caldeth and “accelerate” his friend’s inheritance. Once Sir Urian is fully committed to his cause, Tulath intends to use him to enlist Lady Thilisa’s support. With the Earldoms of Vemion and Osel in his camp, he believes he has a real chance of securing the throne. Unaware of her son’s machinations, Dame Erila would be horrified at the chaos that could ensue if the anchor of the east were to come loose unexpectedly.</p>\n<h3>Option 3 – Eye of Krasula</h3>\n<p>In 30 Navek 716TR, three innocent young children were snatched off the roads of Zoben. Two days later, their bodies were discovered, murdered and drained of blood. The Laranian priests recognised the symbolic date and the hallmarks of the ritual murder sacrifice of the dread Navehan holy day, Shadowmath. Afraid there might be panic if it was revealed that Navehans were murdering children, they quietly appealed to the Earl for assistance.</p>\n<p>For weeks the Earl’s agents searched for signs of the dark church, until, by chance, a gong farmer emptying the keep’s cesspit overheard the constable planning the next murder and reported it to the local Laranian priest. In a swift and unexpected raid, the Earl’s men captured the constable alive. At the hands of Laranian inquisitors, he broke, revealing he was a Navehan cleric and naming his acolytes. They were quietly arrested and hung. The courageous and battle-tested Sir Coreth Lothlar was named to replace the constable and since that time has kept a close watch for any signs of resurgence. The Navehans have not forgotten this challenge to their power.</p>\n<p>Despite the Earl’s best efforts to keep it secret, news of the executions has circulated around through the shire. In 717TR, rumours of more “dark practices” led to a panic and the burning of three freemen of nearby Larwedin Manor. [Minarsas. Religion. Page 6.] Then, in 718TR, Smee of Koralir was captured on the roof of Caer Minarsas. On the rack he confessed to being a Navehan cleric. Publicly, the Earl dismissed the confession. Privately, security was redoubled.</p>\n<p>Sir Andro has no idea he is really working for a Navehan cleric from Tashal. He thinks his “ally”, Sir Hevan (a well-dressed, obviously noble knight), is an agent of Sir Conwan Elendsa. The cleric has convinced Sir Andro that the Earl intends to back the bastard Maldan Harabor as successor to the King, something that gravely offends the bailiff’s traditional beliefs in legitimate succession. He has asked Sir Andro “just” to pass details of the Earl’s movements and security to one of several contacts; his agents will do the rest. Sir Andro was given a list of the contacts to memorize and then burn. Afraid he will forget the names, he keeps the document in his coin purse.</p>\n<h3>Option 4 – Constable of Kyg</h3>\n<p>Sir Danyes Bernan is well connected and maintains a lavish home in Tashal. He is known as a consummate host and his events are always well attended, continuing long after the more sedate guests have retired. Afterwards, rumours of more scandalous behaviour and embarrassed apologies circulate widely among the younger nobility. Appointed constable of Kyg Keep in 717TR, he is a corrupt thieving administrator, although the Earl of Balim does not yet know this. Under his direction, Kyg has become the centre of a quiet Lia-Kavair operation that acquires herbs and fungi from local herbalists and produces poisons and proscribed drugs. Sir Danyes is paid handsomely for his protection and patronage. [Kaldor v2. Kyg. Page 36.]</p>\n<p>Suspicious of this unexplained wealth, the Earl has had agents monitoring the constable since his appointment. In 718TR, one of them was caught and revealed his master’s name under torture. Using his contacts, Sir Danyes hired a Lia-Kavair assassin to kill the Earl. Since that time, the Earl’s agents have redoubled their search for proof to condemn the constable. But, he has proved too skilled at concealing his tracks. There are rumours that he had ordered the murder of the Baron of Setrew’s sister and that he has been conspiring with the Lia-Kavair to produce poisons and proscribed drugs, but no proof. A few months ago, the Earl’s agents finally obtained a copy of the accounts paid by the constable to the Earl of Balim. Travelling manor to manor, they confirmed Sir Danyes is skimming huge amounts from the fief. Sir Declaen intends to present the document to Sir Troda in Olokand. Warned by his own agents, Sir Danyes will do whatever it takes to prevent that happening. By providing a sympathetic ear (and some tender young female company), he has convinced Sir Andro to help him.</p>",
+        "format": 1
+      },
+      "_id": "Vd4WYNCooMZMxhmS",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 387500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1jJR0PqDGXtjve3L.Vd4WYNCooMZMxhmS"
+    },
+    {
+      "name": "The Kaldoric Succession Crisis",
+      "type": "text",
+      "text": {
+        "content": "<p>King Miginath is one of Kaldor’s most successful and longest-reigning rulers. However, he has not named a legitimate heir. Miginath has three bastard sons, all prominent in the government: Sir Maldan Harabor (Sheriff of Meselyne), Sir Koris Harabor (Marshal of the Royal Guard) and Sir Tulath Kaphin (Sheriff of Vemion). There are also several other, major contenders for the throne: Earl Troda Dariune (cousin), Lady Cheselyne Hosath (niece), Sheriff Conwan Elendsa (nephew), Baron Orsin Firith (nephew), Baron Erelar Hirnen (nephew) and several other minor claimants. If Miginath dies without naming an heir, there could be civil war. Since the Earl of Vemion has a secure base in Vemionshire, large reserves of silver and no claim to the throne, all sides are courting him. He has kept his opinions private.</p>",
+        "format": 1
+      },
+      "_id": "POOXCRvQlX6MzOnF",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 350000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1jJR0PqDGXtjve3L.POOXCRvQlX6MzOnF"
+    },
+    {
+      "name": "The Truth",
+      "type": "text",
+      "text": {
+        "content": "<p>Only the Earl knows the real reasons for the progress, though some, including Sir Petral the Physician and Sir Morgal the Constable, have their suspicions. There are four reasons that drive this out-of-character trip: his wife’s health, the forthcoming succession crisis, his missing son-in-law and finding a suitable husband for his youngest daughter, Camissa.</p>\n<p>The health of his invalid wife, Lady Ialny, is the Earl’s greatest concern. She suffered a terrible palsy several years ago, which left her crippled and speechless. The Earl’s physician, Sir Petral, has been able to keep her alive, but he recently informed Sir Declaen that she is slowly fading away and there is little he can do but make her comfortable. The Earl’s eldest daughter, Lady Thilisa Meleken, wife of the Earl of Osel, is a great patron of the nuns at the Peonian Abbey of Erone. When her father wrote her to tell her the prognosis, she wrote back, urging him to take her to Erone’s famous hospital. The nunnery has a reputation for excellence in the healing arts and has natural mineral springs long considered therapeutic. The Earl has decided that he must act quickly or lose his beloved wife.</p>\n<p>Despite his enviable position far from the possible future battlegrounds of the Kaldoric Succession [Kaldor v2. Kaldoric Succession. Page 8.] , the Earl is worried about turmoil that could result if an heir is not named soon. He has decided to seek a private audience with the King to encourage him to act. Rumours swirl that the Earl supports Sir Erelar Hirnen (Baron of Nenda) or perhaps Sir Koris Harabor (Marshal of the Royal Guard) or maybe Sir Orsin Firith (Warden of Oselmarch) or even Sir Tulath Kaphin (Sheriff of Vemion). No one knows for sure and many parties are keen to find out where the powerful noble stands in event of a civil war. The Earl plays his political position close to his chest, though his loyalty to Vemionshire is well known.</p>\n<p>The Earl’s eldest daughter is married to Sir Sedris Meleken, the Earl of Osel, an important and powerful noble. He is missing, having gone in pursuit of a murderer. Sir Declaen is anxious for him to be found, both for his daughter’s sake and for more practical reasons. Between them, Sir Declaen and Sir Sedris control a large portion of the kingdom and could be instrumental in shifting the balance of power in a succession crisis. While his daughter speaks in his place, it is unclear how many nobles will heed her position. The Earl of Vemion has agents actively searching for Sir Sedris. He intends to personally speak with the Rekela of Pagostra about this issue.</p>\n<p>Maid Camissa is Sir Declaen’s youngest daughter, now fourteen years old. The Earl wishes to match her to a suitable husband, someone wealthy and powerful. He has spent many months reviewing family trees and considering his options. He has some names in mind but wishes to check the records in Tashal. Since the tournament is traditionally the greatest concentration of nobles in Kaldor, the Earl has decided this would be an ideal venue to study and interview potential matches and introduce his daughter. She is not very interested in marriage, but she is young yet. Sir Declaen hopes that the attentions of some dashing young knights might pique her interest.</p>",
+        "format": 1
+      },
+      "_id": "9TwsdQTENc3pakzh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1jJR0PqDGXtjve3L.9TwsdQTENc3pakzh"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201858914,
+    "modifiedTime": 1659201858914,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "1jJR0PqDGXtjve3L",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!1jJR0PqDGXtjve3L"
+}

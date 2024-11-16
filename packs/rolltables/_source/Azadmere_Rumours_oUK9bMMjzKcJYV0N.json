@@ -1,0 +1,259 @@
+{
+  "_id": "oUK9bMMjzKcJYV0N",
+  "name": "Azadmere Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Azadmere (Silver Way) Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "There’s a village going up at Naniom Bridge and the King is not happy about it. (Mix)",
+      "_id": "k9y64l11g8dsr8go",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.k9y64l11g8dsr8go"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "Gargun have expanded in the Sorkin Mountains, and there are bands closer to human settlements than at any time since Calsten drove them out. (Uncon)",
+      "_id": "i7ifcpkhlwpk01jn",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.i7ifcpkhlwpk01jn"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "Lothrim is really in a prison in Azadmere City, being magically kept alive for perpetual torture. (False)",
+      "_id": "znyjsfzsds2yl0vk",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.znyjsfzsds2yl0vk"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "If you get a silver penny from a dwarf and keep it in your pocket, it will grow into two at every Yaelah. (False)",
+      "_id": "vq9nhqugw3o0871d",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.vq9nhqugw3o0871d"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        59
+      ],
+      "text": "Some Jarin mercantylers from Azadmere are shipping their goods by boat from Naniom Bridge now. (True)",
+      "_id": "39qvwnsy5mtq7k4d",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.39qvwnsy5mtq7k4d"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        64
+      ],
+      "text": "The river up by the Guthe Ford is home to a great serpent. It killed two men on the trail last year. (False)",
+      "_id": "3shsglifwi3twalj",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.3shsglifwi3twalj"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        69
+      ],
+      "text": "The gargun of Fana use poisoned weapons. (True)",
+      "_id": "xvbc5mi8yjlehpin",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.xvbc5mi8yjlehpin"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        79
+      ],
+      "text": "Gargun are really degenerate Khuzdul cursed by their god. (False)",
+      "_id": "urwgb7dlb4p0v8z0",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.urwgb7dlb4p0v8z0"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        84
+      ],
+      "text": "The Silver Way was once a great road passable to wagons. There is a ruined bridge half way up. The Khuzdul are planning to rebuild it and repair the road. (Mix)",
+      "_id": "mfqfc9bhrsn68mja",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.mfqfc9bhrsn68mja"
+    },
+    {
+      "type": 0,
+      "range": [
+        85,
+        89
+      ],
+      "text": "Khuzdul women do not have beards. They cultivate a sort of moss that hangs from their chins. They find tall bearded human men quite irresistible. (False)",
+      "_id": "4qbx3bidoio7vgdz",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.4qbx3bidoio7vgdz"
+    },
+    {
+      "type": 0,
+      "range": [
+        90,
+        94
+      ],
+      "text": "There is a large underground complex at Three Valley Gap. The lower levels have never been explored. A large quantity of dwarven weapons was left behind. (Mix)",
+      "_id": "7sbgkpbe253vg79y",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.7sbgkpbe253vg79y"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        99
+      ],
+      "text": "The Khuzdul have offered land, south of Zerhun, and the title of Baron to any knight who can liberate Fana. (False)",
+      "_id": "972sh7ey2rp8armg",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.972sh7ey2rp8armg"
+    },
+    {
+      "type": 0,
+      "range": [
+        100,
+        104
+      ],
+      "text": "A huge shipment of silver, gold and gems is due in Tashal any day.  The Khuzdul will pay a premium for wheat this year. (Mix)",
+      "_id": "pubz1yasosg50wtd",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.pubz1yasosg50wtd"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        200
+      ],
+      "text": "Azadmere depends on Kaldor for food. We could starve them into submission, but the king doesn’t want to because… (GM Choice)",
+      "_id": "dznz7rwb2hi0jg42",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!oUK9bMMjzKcJYV0N.dznz7rwb2hi0jg42"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.oUK9bMMjzKcJYV0N"
+    },
+    "scene-packer": {
+      "hash": "1dd60e768ce987b2d6ef3ba8a1ee07ce7afd2009",
+      "sourceId": "RollTable.YFGxlezObR1M4CqX"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849067,
+    "modifiedTime": 1659201849067,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!oUK9bMMjzKcJYV0N"
+}

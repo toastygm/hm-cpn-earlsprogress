@@ -1,0 +1,355 @@
+{
+  "_id": "c8lvN6kRrZhHGUxm",
+  "name": "Rumour Origin",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Rumour Origin (GM Roll)",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        9
+      ],
+      "text": "Rumour about event/person of GM’s choice/list (or roll again)",
+      "_id": "z1h4p2h438b7hm6b",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.z1h4p2h438b7hm6b"
+    },
+    {
+      "type": 0,
+      "range": [
+        10,
+        29
+      ],
+      "text": "Rumour about event/person in the shire where the encounter takes place",
+      "_id": "h8zlnranaew69jtr",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.h8zlnranaew69jtr"
+    },
+    {
+      "type": 0,
+      "range": [
+        30,
+        44
+      ],
+      "text": "Rumour about event/person in the home shire of the source NPC",
+      "_id": "7b6vskj82jbix31v",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.7b6vskj82jbix31v"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        60
+      ],
+      "text": "Rumour about event/person in the home shire of the PC",
+      "_id": "gt1md3ikodqp2nhl",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.gt1md3ikodqp2nhl"
+    },
+    {
+      "type": 0,
+      "range": [
+        61,
+        62
+      ],
+      "text": "Rumour about event/person in Balimshire/Kiban",
+      "_id": "fp027ib14seisor7",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.fp027ib14seisor7"
+    },
+    {
+      "type": 0,
+      "range": [
+        63,
+        64
+      ],
+      "text": "Rumour about event/person in Meselynshire/Olokand",
+      "_id": "dwstxwk6ebmqx83i",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.dwstxwk6ebmqx83i"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        66
+      ],
+      "text": "Rumour about event/person in Nephshire/Gardiren",
+      "_id": "g3mkzv45bes1qese",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.g3mkzv45bes1qese"
+    },
+    {
+      "type": 0,
+      "range": [
+        67,
+        68
+      ],
+      "text": "Rumour about event/person in Oselshire/Qualdris",
+      "_id": "biq9gj5mzipq2kuk",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.biq9gj5mzipq2kuk"
+    },
+    {
+      "type": 0,
+      "range": [
+        69,
+        71
+      ],
+      "text": "Rumour about event/person in Semethshire outside of Tashal",
+      "_id": "8qlitqugxnc340og",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.8qlitqugxnc340og"
+    },
+    {
+      "type": 0,
+      "range": [
+        72,
+        74
+      ],
+      "text": "Rumour about event/person in Thelshire/Kolorn",
+      "_id": "t1l4565mo5ixpnya",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.t1l4565mo5ixpnya"
+    },
+    {
+      "type": 0,
+      "range": [
+        75,
+        76
+      ],
+      "text": "Rumour about event/person in Vemionshire/Minarsas",
+      "_id": "zpljqkf33dcqavs8",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.zpljqkf33dcqavs8"
+    },
+    {
+      "type": 0,
+      "range": [
+        77,
+        80
+      ],
+      "text": "Rumour about event/person in Tashal",
+      "_id": "fz3hh8akiaua8xo4",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.fz3hh8akiaua8xo4"
+    },
+    {
+      "type": 0,
+      "range": [
+        81,
+        81
+      ],
+      "text": "Rumour about event/person in the Army of the Oselmarch/ Genin Trail",
+      "_id": "pj2m1s79agm6rw36",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.pj2m1s79agm6rw36"
+    },
+    {
+      "type": 0,
+      "range": [
+        82,
+        82
+      ],
+      "text": "Rumour about event/person in the Army of the Chelmarch/ Trobridge/Salt Route",
+      "_id": "favl7rhbx6synizm",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.favl7rhbx6synizm"
+    },
+    {
+      "type": 0,
+      "range": [
+        83,
+        84
+      ],
+      "text": "Rumour about event/person in Azadmere/Silver Way",
+      "_id": "plm3kf5e9srvapwa",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.plm3kf5e9srvapwa"
+    },
+    {
+      "type": 0,
+      "range": [
+        85,
+        86
+      ],
+      "text": "Rumour about event/person in Orbaal/Fur Road/Noron’s Way",
+      "_id": "3a1etlff6ld9oaae",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.3a1etlff6ld9oaae"
+    },
+    {
+      "type": 0,
+      "range": [
+        87,
+        88
+      ],
+      "text": "Rumour about event/person in Laranian Church",
+      "_id": "jceobuoa2ag8qvhm",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.jceobuoa2ag8qvhm"
+    },
+    {
+      "type": 0,
+      "range": [
+        89,
+        93
+      ],
+      "text": "Rumour of national significance",
+      "_id": "c97d98njrspfbvwk",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.c97d98njrspfbvwk"
+    },
+    {
+      "type": 0,
+      "range": [
+        94,
+        95
+      ],
+      "text": "Rumour of international significance",
+      "_id": "ts5re0srppel5nen",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.ts5re0srppel5nen"
+    },
+    {
+      "type": 0,
+      "range": [
+        96,
+        100
+      ],
+      "text": "Special Rumour",
+      "_id": "s2nvt0hqnwzdosnp",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!c8lvN6kRrZhHGUxm.s2nvt0hqnwzdosnp"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.c8lvN6kRrZhHGUxm"
+    },
+    "scene-packer": {
+      "hash": "3f9c07e3a625966519e9aea6162ffcdb6b5b2ff6",
+      "sourceId": "RollTable.4nWNA5HqGOEj5H5O"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849085,
+    "modifiedTime": 1659201849085,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!c8lvN6kRrZhHGUxm"
+}

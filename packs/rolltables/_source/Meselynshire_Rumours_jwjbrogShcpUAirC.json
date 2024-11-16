@@ -1,0 +1,243 @@
+{
+  "_id": "jwjbrogShcpUAirC",
+  "name": "Meselynshire Rumours",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Meselynshire (Olokand) Rumours",
+  "results": [
+    {
+      "type": 0,
+      "range": [
+        1,
+        24
+      ],
+      "text": "A werewolf is attacking people near Baseta. (Uncon)",
+      "_id": "d2di5gwpnaak2gyq",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!jwjbrogShcpUAirC.d2di5gwpnaak2gyq"
+    },
+    {
+      "type": 0,
+      "range": [
+        25,
+        34
+      ],
+      "text": "Sir Churus Londel, Baron of Yeged, is a romantic fool, and an Ilviran, too! (Mix)",
+      "_id": "l17fhi3efffhh38n",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!jwjbrogShcpUAirC.l17fhi3efffhh38n"
+    },
+    {
+      "type": 0,
+      "range": [
+        35,
+        44
+      ],
+      "text": "Sir Churus Londel, Baron of Yeged, welcomes artists and musicians to his court. (True)",
+      "_id": "iy96cw61cadicwjk",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!jwjbrogShcpUAirC.iy96cw61cadicwjk"
+    },
+    {
+      "type": 0,
+      "range": [
+        45,
+        49
+      ],
+      "text": "The Constable of Baseta’s son, Sir Miren, has changed since returning from the Solori Crusade. He avoids festivities and prefers long solitary rides through the country. (True)",
+      "_id": "tr55hlp60ae260ox",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!jwjbrogShcpUAirC.tr55hlp60ae260ox"
+    },
+    {
+      "type": 0,
+      "range": [
+        50,
+        59
+      ],
+      "text": "Sir Maldan Harabor is ruthless and ambitious; his desire for the throne is undoubted. (True)",
+      "_id": "lqjab5eor1krord9",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!jwjbrogShcpUAirC.lqjab5eor1krord9"
+    },
+    {
+      "type": 0,
+      "range": [
+        60,
+        64
+      ],
+      "text": "Sir Churus is planning a trip to Orbaal and needs escorts. (Poss)",
+      "_id": "pwp34npbwugzllso",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!jwjbrogShcpUAirC.pwp34npbwugzllso"
+    },
+    {
+      "type": 0,
+      "range": [
+        65,
+        69
+      ],
+      "text": "The Baron of Setrew, Sir Wevran, has been meeting with representatives of the Sheriff to “discuss common interests.” (Uncon)",
+      "_id": "znnlsy1cj5ebe8wu",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!jwjbrogShcpUAirC.znnlsy1cj5ebe8wu"
+    },
+    {
+      "type": 0,
+      "range": [
+        70,
+        79
+      ],
+      "text": "The Baron of Tonot, Sir Uthris Pierstel spends a lot of time hunting lately. The new “housekeeper” at his hunting lodge is a beautiful, mysterious commoner. (Poss)",
+      "_id": "77w57u5gxju46rgo",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!jwjbrogShcpUAirC.77w57u5gxju46rgo"
+    },
+    {
+      "type": 0,
+      "range": [
+        80,
+        84
+      ],
+      "text": "A bizarre beast in the pit of Ona Setrum guards a fabulous treasure, the magical mace called Sanric’s Thunderer. (Poss)",
+      "_id": "d0kbei9gsq9l2a5y",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!jwjbrogShcpUAirC.d0kbei9gsq9l2a5y"
+    },
+    {
+      "type": 0,
+      "range": [
+        85,
+        94
+      ],
+      "text": "If the Sheriff becomes King, he plans to replace Serekela Edine Kynn with the Rekela of Abriel, Ilor Hadan. (Uncon)",
+      "_id": "0c7om0gczpuclj1h",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!jwjbrogShcpUAirC.0c7om0gczpuclj1h"
+    },
+    {
+      "type": 0,
+      "range": [
+        95,
+        104
+      ],
+      "text": "One of the Maldan Harabor’s agents is responsible for the attempted assassinations of Rekela Tyrnal Dariune. (Poss)",
+      "_id": "buvur1ysb4q8f86l",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!jwjbrogShcpUAirC.buvur1ysb4q8f86l"
+    },
+    {
+      "type": 0,
+      "range": [
+        105,
+        109
+      ],
+      "text": "Sheriff Sir Maldan Harabor has recently contacted several mercenary companies to arrange contracts for patrols of the Fur Road next summer. These include cavalry, infantry, and (ahem) siege engineers. (Uncon)",
+      "_id": "0njr7dskz7o9qjct",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!jwjbrogShcpUAirC.0njr7dskz7o9qjct"
+    },
+    {
+      "type": 0,
+      "range": [
+        110,
+        200
+      ],
+      "text": "A secret passage leads from the Kald &amp; Castle into Olokand Castle.  (True)",
+      "_id": "tvh0qezdnsqsxo1g",
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "",
+      "documentId": null,
+      "weight": null,
+      "_key": "!tables.results!jwjbrogShcpUAirC.tvh0qezdnsqsxo1g"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-cpn-earlsprogress.rolltables.jwjbrogShcpUAirC"
+    },
+    "scene-packer": {
+      "hash": "363e35e1612519c6c01ea03e47796421c9910234",
+      "sourceId": "RollTable.y1TTP0cL2cCoC8L3"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201849078,
+    "modifiedTime": 1659201849078,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!jwjbrogShcpUAirC"
+}

@@ -1,87 +1,80 @@
 {
   "id": "hm-cpn-earlsprogress",
   "title": "Earls Progress",
-  "version": "1.2.1",
-  "bugs": "https://github.com/toastygm/hm-cpn-earlsprogress/issues",
   "license": "LICENSE",
   "readme": "README.md",
   "authors": [
     {
       "name": "Toasty",
-      "discord": "toasty#8538",
-      "flags": {}
+      "discord": "toasty#8538"
     }
   ],
   "compatibility": {
-    "minimum": "11",
-    "verified": "12.331"
+    "minimum": "12",
+    "verified": "14"
   },
   "styles": [
     "css/ep.css"
+  ],
+  "scripts": [
+    "scripts/init.js"
   ],
   "relationships": {
     "requires": [
       {
         "id": "scene-packer",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-        "compatibility": {}
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json"
       }
     ]
   },
-  "scripts": [
-    "scripts/init.js"
-  ],
   "packFolders": [
     {
-      "name": "Earl's Progress",
+      "name": "Earls Progress",
       "sorting": "m",
       "packs": [
         "scenes",
         "journals",
-	"rolltables"
-      ]
+        "rolltables"
+      ],
+      "color": "#6e0a8c"
     }
   ],
-
   "packs": [
     {
       "label": "Scenes",
       "name": "scenes",
       "path": "packs/scenes",
       "type": "Scene",
-      "flags": {},
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "color": "#1a8c0a"
     },
     {
       "label": "Journals",
       "name": "journals",
       "path": "packs/journals",
       "type": "JournalEntry",
-      "flags": {},
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "color": "#0a47e6"
     },
     {
       "label": "RollTables",
       "name": "rolltables",
       "path": "packs/rolltables",
       "type": "RollTable",
-      "flags": {},
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "color": "#e6a80a"
     }
   ],
-  "url": "https://github.com/toastygm/hm-cpn-earlsprogress/",
-  "manifest": "https://github.com/toastygm/hm-cpn-earlsprogress/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-cpn-earlsprogress/releases/download/v1.2.1/module.zip",
   "flags": {
     "allowBugReporter": true
   }
